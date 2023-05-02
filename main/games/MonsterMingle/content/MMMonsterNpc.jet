@@ -1,0 +1,26 @@
+{
+    "content":[
+        {
+            "id":"Robot",
+            "frame":"Monster17",
+            "name":"Le Bot",
+            "role":"Bot",
+            
+            "shortDescription": "",
+            "description":"Chaque nuit, le Bot sort au hasard avec l'un des joueurs qui envoient des messages.</br>À la fin du jeu, si le bot est à la dernière place, il ne parvient pas à comprendre les émotions humaines et détruit tout le monde. ( Tout le monde perd)</br> Le robot gagne un cœur pour CHAQUE joueur qui essaie même de sortir avec lui chaque nuit.</br> MAIS… il perd également un cœur à la fin de chaque nuit.",
+            "selfdescription":"",
+            "powerpopup": {"single": "Demandé par un joueur.",
+                           "multiple": "Demandé par [Number] joueurs.",
+                           "decay": "Le robot perd 1 cœur chaque nuit",
+                           "destroy": "Le robot a détruit tout le monde !"},
+            "epitaph": { "nobody": "On ne m'a pas demandé de sortir, pas une seule fois.",
+                         "singular": "1 RDV demandé",
+                         "plural": "[Nombre] RDV demandés.",
+                         "destroyer": "<br />Et regrette d'avoir détruit l'humanité.",
+                         "winner": "<br />Et a, en quelque sorte gagné !",
+                         "loser": "<br />Et n'est pas arrivé en dernier (heureusement)." },
+
+            "behaviorClass":"jackboxgames.monstermingle.monsterbehavior.Robot"
+        }
+    ]
+}

@@ -1,0 +1,237 @@
+{
+
+    "table":{
+
+    "en": {
+
+        "LANGUAGE_NAME": "Anglais",
+
+        "LANGUAGE": "Langue",
+
+        "INTERNET_CONNECTED": "Nous avnos réussi à nous connecter à internet.",
+
+        "INTERNET_DISCONNECTED": "Nous sommes désolés, il semble que nous ne pouvons pas nous connecter aux serveurs jackbox.<br />Veuillez vérifier que vous soyez connectés à internet et qu'il fonctionne.",
+
+        "ROOM_DESTROYED": "Désolé, une erreur internet s'est déclenchée Et votre salle a été détruite.<br />Veuillez vérifier que vous soyez connectés à internet et qu'il fonctionne.",
+
+        "SOCKET_DISCONNECTED ": "Désolé, nous avnos perdu votre connection aux serveurs de jeu Jackbox Games.",
+
+        "TIMEOUT": "Désolé, la connection aux serveurs jackbox a cessé de fonctionner..<br />Veuillez vérifier que vous soyez connectés à internet et qu'il fonctionne.",
+
+        "USER_DISCONNECT": "Désolé, le serveur vous a déconnecté. Veuillez rééssayer..",
+
+        "LOST_LICENSE": "Désolé, nous avons perdu la licence pour ce contenu !",
+
+        "STEAM_ERROR": "Désolé, nous ne pouvons pas valider votre licence steam.",
+
+        "TWITCH_PRIME_ERROR": "Désolé, nous ne pouvons pas valider votre licence steam.",
+
+        "LOST_DLC": "Désolé, la licence de votre DLC n'a pas été trouvée. Retour au menu...",
+
+        "BACK": "RETOUR",
+
+        "CLOSE": "FERMER",
+
+        "CANCEL": "ANNULER",
+
+        "SELECT": "SÉLECTIONNER",
+
+        "OR": "Ou",
+
+        "ON": "On",
+
+        "OFF": "Off",
+
+        "HIDE": "CACHÉ",
+
+        "UNHIDE": "MONTRÉ",
+
+        "JOIN": "Rejoindre!",
+
+        "PLAY": "JOUER",
+
+        "SETTINGS": "OPTIONS",
+
+        "LEADERBOARD": "Classement",
+
+        "BACK_TO_PACK": "RETOUR",
+
+        "PLAY_DESCRIPTION": "Créer un salon & jouer!",
+
+        "SETTINGS_DESCRIPTION": "Mode familial, option d'audience, & plus.",
+
+        "LEADERBOARD_DESCRIPTION": "Garder les scores des dernières parties.",
+
+        "BACK_TO_PACK_DESCRIPTION": "Retourner au menu du pack.",
+
+        "SETTINGS_TITLE": "OPTIONS",
+
+        "LEADERBOARD_TITLE": "CLASSEMENT",
+
+        "CONNECTING": "Connection aux services jackbox games",
+
+        "CONNECTING_DELAY": "Cela prend du temps...<br>Veuillez vérifeir votre connection internet.",
+
+        "GO_TO": "Aller à",
+
+        "JOIN_ON_YOUR_DEVICE": "Sur votre appareil pour rejoindre",
+
+        "USING_ROOM_CODE": "utilisant le code de salle",
+
+        "EVERYBODYS_IN": "TOUT LE MONDE EST LÀ",
+
+        "PRESS": "APPUYER",
+
+        "TO_START": "POUR DÉMARRER",
+
+        "TO_CANCEL": "POUR ANNULER",
+
+        "JOIN_AUDIENCE": "Rejoindre l'audience !",
+
+        "AUDIENCE": "AUDIENCE",
+
+        "PLAY_AGAIN_WITH": "REJOUER AVEC",
+
+        "PLAY_AGAIN": "REJOUER?",
+
+        "SAME_PLAYERS": "MÊME JOUEURS",
+
+        "LOBBY_OR": "OU",
+
+        "NEW_PLAYERS": "NOUVEAUX JOUEURS",
+
+        "NUMBER_0": "zéro",
+
+        "NUMBER_1": "un",
+
+        "NUMBER_2": "deux",
+
+        "NUMBER_3": "trois",
+
+        "NUMBER_4": "quatre",
+
+        "NUMBER_5": "cinq",
+
+        "NUMBER_6": "six",
+
+        "NUMBER_7": "sept",
+
+        "NUMBER_8": "huit",
+
+        "NUMBER_9": "neuf",
+
+        "NUMBER_10": "dix",
+
+        "FULL_SCREEN": "Mode Plein-écran",
+
+        "FULL_SCREEN_DESCRIPTION": "Faire en sorte que le jeu utilise tout....l'écran.",
+
+        "VOLUME": "Volume principal",
+
+        "VOLUME_DESCRIPTION": "Rendre le jeu BRUYANT ou SILENCIEUX.",
+
+        "VOLUME_HOST": "Volume du présentateur",
+
+        "VOLUME_HOST_DESCRIPTION": "Couper le son de l'host si vous souhaitez être confus et seul.",
+
+        "VOLUME_SFX": "Volume des effets sonores",
+
+        "VOLUME_SFX_DESCRIPTION": "Nous avons travaillé dur sur les sons de pets, mais vous pouvez les couper si vous le souhaitez.",
+
+        "VOLUME_MUSIC": "Volumr de la musique",
+
+        "VOLUME_MUSIC_DESCRIPTION": "Couper notre magnifique musique. On s'en fiche.",
+
+        "FAMILY_FRIENDLY": "Mode familial",
+
+        "FAMILY_FRIENDLY_DESCRIPTION": "Désactiver pour éviter le contenu le plus provoquant...venant du jeu. Nous ne pouvons pas controler nos joueurs.",
+
+        "AUDIENCE_MODE": "Audience",
+
+        "AUDIENCE_MODE_DESCRIPTION": "Activer pour permettre aux non-joueurs de rejoindre et affecter la partie.",
+
+        "TWITCH_REQUIRED": "Nécessite Twitch",
+
+        "TWITCH_REQUIRED_DESCRIPTION": "Nécessite que les joueurs soient connectés à Twitch pour rejoindre la partie. recommandé uniquement pour les parties streamées.",
+
+        "MANUAL_CENSORING": "Censure manuelle",
+
+        "MANUAL_CENSORING_DESCRIPTION": "Permet au VIP (le premier joueur qui a rejoint) de censurer les réponses des joueurs.",
+
+        "POSTGAME_SHARING": "Partage après la partie",
+
+        "POSTGAME_SHARING_DESCRIPTION": "Permet aux joueurs de partager optionellement les réponses et scores de la partie sur les réseaux sociaux.",
+
+        "START_GAMEPAD": "Démarrer la partie uniquement depuis le périphérique local",
+
+        "START_GAMEPAD_DESCRIPTION": "La partie doit être démarrée depuis le périphérique local, pas depuis les appareils des joueurs.",
+
+        "HIDE_ROOM_CODE": "Permet de masquer le code de salle",
+
+        "HIDE_ROOM_CODE_DESCRIPTION": "Peremtt de masquer le code de salle pour éviter que les joueurs ne rejoignent trop tôt. Reccomandé uniquement pour les parties streamées.",
+
+        "SESSION_STATS": "Statistiques de la session",
+
+        "SESSION_STATS_DESCRIPTION": "Statistiques de la session de jeu actuelle (Ces Statistiques seront réinitialisées quand vous quittez la partie.)",
+
+        "SKIP_TUTORIAL": "Passer les tutoriels",
+
+        "SKIP_TUTORIAL_DESCRIPTION": "Passer les tutoriels si vous savez déja comment jouer.",
+
+        "TWITCH_STATS": "Statistiques Twitch",
+
+        "TWITCH_STATS_DESCRIPTION": "Stats from Twitch-locked games (These stats are saved even after you quit the game.)",
+
+        "EXTENDED_TIMERS": "Extended Timers",
+
+        "EXTENDED_TIMERS_DESCRIPTION": "Active de très longs timers. recommandé uniquement pour les parties streamées.",
+
+        "PLAYER_NAME": "Nom du Joueur",
+
+        "HIGH_SCORE": "Meilleur score",
+
+        "AVERAGE_SCORE": "Score moyen",
+
+        "GAMES_PLAYED": "Parties jouées",
+
+        "TOTAL_DATES": "Number of Dates",
+
+        "AVERAGE_DATES": "Average Dates",
+
+        
+
+        "BLIND_BRACKET": "TOURNOI À  L'AVEUGLE",
+
+        "TRIPLE_BLIND_BRACKET" : "TOURNOI TRIPLE À L'AVEUGLE",
+
+
+
+        "OVERTIME": "PROLONGATION!",
+
+        
+
+        "SCORE": "SCORE",
+
+        "SCORES": "SCORES",
+
+        "FINAL": "FINAL",
+
+        
+
+        "BY": "PAR",
+
+        "BRACKET_WINNERS": "GAGNANT DU TOURNOI"
+
+    },
+
+    "fr": {},
+
+    "it": {},
+
+    "de": {},
+
+    "es": {}
+
+}
+
+}
