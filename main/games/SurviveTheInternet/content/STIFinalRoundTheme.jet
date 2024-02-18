@@ -10,7 +10,7 @@
             "skipResponse":true,
             
             "responsePlaceholder" : null,
-            "twistPlaceholder" : "enter a caption",
+            "twistPlaceholder" : "entre une caption",
             "prefix" : null,
             
             "revealSpec":{
@@ -33,7 +33,7 @@
             "controllerTextSpec":{
                 "aboveBlackBox" : "<TargetPhotoChoiceImage>",
                 "blackBox" : null,
-                "belowBlackBox" :  "<TargetName> would look crazy if they posted this picture with the caption:",
+                "belowBlackBox" :  "<TargetName> aurait l'air bizarre s'il postait cette image avec la description :",
                 "caret" : true
             },
             "controllerInputSpec":{

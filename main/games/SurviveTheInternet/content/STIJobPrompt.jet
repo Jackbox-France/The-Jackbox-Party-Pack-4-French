@@ -4,7 +4,7 @@
         {
             "decoys": [
                 {
-                    "text": "She\u2019s got a great sense of humor.",
+                    "text": "Elle a un grand sens de l\u2019humour.",
                     "type": "Negative"
                 },
                 {
@@ -26,13 +26,13 @@
             "id": 46626,
             "choices": [],
             "prompt": {
-                "text": "Briefly describe your favorite coworker."
+                "text": "Décrivez brièvement votre collègue préféré."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "He\u2019s a stoic man who treats us fairly.",
+                    "text": "C\u2019est un homme stoïque qui nous traite équitablement.",
                     "type": "Negative"
                 },
                 {
@@ -54,13 +54,13 @@
             "id": 46625,
             "choices": [],
             "prompt": {
-                "text": "Briefly describe your boss."
+                "text": "Décrivez brièvement votre patron."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "She had curly hair and a beautiful voice.",
+                    "text": "Elle avait les cheveux bouclés et une belle voix.",
                     "type": "Negative"
                 },
                 {
@@ -82,13 +82,13 @@
             "id": 46624,
             "choices": [],
             "prompt": {
-                "text": "Briefly describe your first romantic partner."
+                "text": "Décrivez brièvement votre premier partenaire romantique."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "He\u2019s a bit of a tyrant at work.",
+                    "text": "Il est un peu tyrannique au travail.",
                     "type": "Negative"
                 },
                 {
@@ -110,14 +110,14 @@
             "id": 46622,
             "choices": [],
             "prompt": {
-                "text": "Briefly describe your nemesis."
+                "text": "Décrivez brièvement votre ennemi."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "He\u2019s a lot of fun and has a great laugh!",
-                    "type": "Negative"
+                    "text": "Il s\u2019amuse beaucoup et rigole bien !",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -138,13 +138,13 @@
             "id": 46619,
             "choices": [],
             "prompt": {
-                "text": "Briefly describe your best friend."
+                "text": "Décrivez brièvement votre meilleur ami."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "She\u2019s a caring woman who\u2019s always been there for me.",
+                    "text": "C\u2019est une femme attentionnée qui a toujours été là pour moi.",
                     "type": "Negative"
                 },
                 {
@@ -166,13 +166,13 @@
             "id": 46616,
             "choices": [],
             "prompt": {
-                "text": "Briefly describe your mom."
+                "text": "Décrivez brièvement votre mère."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "He\u2019s an honest, hardworking man.",
+                    "text": "C\u2019est un homme honnête et travailleur.",
                     "type": "Negative"
                 },
                 {
@@ -194,13 +194,13 @@
             "id": 46614,
             "choices": [],
             "prompt": {
-                "text": "Briefly describe your dad."
+                "text": "Décrivez brièvement votre père."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "She was pretty, nice, and funny.",
+                    "text": "Elle était jolie, gentille et drole.",
                     "type": "Negative"
                 },
                 {
@@ -222,14 +222,14 @@
             "id": 46613,
             "choices": [],
             "prompt": {
-                "text": "Briefly describe your favorite teacher."
+                "text": "Décrivez brièvement votre professeur préféré."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "He was tall and bald.",
-                    "type": "Negative"
+                    "text": "Il était grand et chauve.",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -250,14 +250,14 @@
             "id": 47249,
             "choices": [],
             "prompt": {
-                "text": "Briefly describe your high school principal."
+                "text": "Décrivez brièvement le directeur de votre lycée."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "She\u2019s a lovely old woman.",
-                    "type": "Negative"
+                    "text": "C\u2019est une jolie vieille femme.",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -278,13 +278,13 @@
             "id": 47251,
             "choices": [],
             "prompt": {
-                "text": "Briefly describe your neighbor."
+                "text": "Décrivez brièvement votre voisin."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "A great listener, patient, and decisive.",
+                    "text": "Un grand homme, patient mais un peu con.",
                     "type": "Negative"
                 },
                 {
@@ -306,13 +306,13 @@
             "id": 47431,
             "choices": [],
             "prompt": {
-                "text": "What attributes does every good leader have?"
+                "text": "Quels attributs tous les bons leaders ont-ils ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "He brings joy to millions of people!",
+                    "text": "Il apporte de la joie à des millions de personnes!",
                     "type": "Negative"
                 },
                 {
@@ -334,13 +334,13 @@
             "id": 47432,
             "choices": [],
             "prompt": {
-                "text": "How would you briefly describe Santa Claus to an alien?"
+                "text": "Comment décririez-vous brièvement le Père Noël à un extraterrestre ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Well educated and decisive",
+                    "text": "Bien éduqué et intelligent",
                     "type": "Negative"
                 },
                 {
@@ -362,13 +362,13 @@
             "id": 47437,
             "choices": [],
             "prompt": {
-                "text": "What attributes do you want in a politician?"
+                "text": "Décrivez votre politicien de rêve."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Sure hands and a gentle touch",
+                    "text": "Des mains sûres et un toucher doux",
                     "type": "Positive"
                 },
                 {
@@ -390,13 +390,13 @@
             "id": 47435,
             "choices": [],
             "prompt": {
-                "text": "Briefly describe the attributes you want in a doctor."
+                "text": "Décrivez brièvement votre médecin."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Responsible and always on time",
+                    "text": "Responsable et toujours à l\u2019heure",
                     "type": "Positive"
                 },
                 {
@@ -418,13 +418,13 @@
             "id": 47433,
             "choices": [],
             "prompt": {
-                "text": "Briefly describe the attributes you want in a babysitter."
+                "text": "Décrivez brièvement votre baby-sitter de rêve."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "She was so sweet and really listened",
+                    "text": "Elle était si gentille et vraiment écoutée",
                     "type": "Positive"
                 },
                 {
@@ -446,13 +446,13 @@
             "id": 47744,
             "choices": [],
             "prompt": {
-                "text": "What attributes do you want in a lawyer?"
+                "text": "Décrivez brièvement l\u2019avocat de vos rêves."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "She smelled like lavender",
+                    "text": "Elle sentait la lavande",
                     "type": "Negative"
                 },
                 {
@@ -474,14 +474,14 @@
             "id": 47740,
             "choices": [],
             "prompt": {
-                "text": "Briefly describe the last person you had a crush on."
+                "text": "Décrivez brièvement la dernière personne pour qui vous avez eu le béguin."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Someone who\u2019s honest and looks me in the eye.",
-                    "type": "Negative"
+                    "text": "Quelqu\u2019un qui est honnête et me regarde dans les yeux.",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -502,13 +502,13 @@
             "id": 47745,
             "choices": [],
             "prompt": {
-                "text": "What attributes do you want in a car mechanic?"
+                "text": "Décrivez votre mécaniscien préféré"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Really chatty and quirky",
+                    "text": "Vraiment bavard et décalé",
                     "type": "Positive"
                 },
                 {
@@ -530,13 +530,13 @@
             "id": 47750,
             "choices": [],
             "prompt": {
-                "text": "Describe the person who cuts your hair."
+                "text": "Décrivez la personne qui vous coupe les cheveux."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "A brooding personality and smoldering good looks",
+                    "text": "Une personnalité maussade et une belle mine couvante",
                     "type": "Positive"
                 },
                 {
@@ -558,13 +558,13 @@
             "id": 47751,
             "choices": [],
             "prompt": {
-                "text": "Describe what you like about your favorite celebrity."
+                "text": "Décrivez ce que vous aimez chez votre célébrité préférée."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "He really loves children.",
+                    "text": "Il aime vraiment les enfants.",
                     "type": "Negative"
                 },
                 {
@@ -586,13 +586,13 @@
             "id": 47765,
             "choices": [],
             "prompt": {
-                "text": "How would you briefly describe Peter Pan?"
+                "text": "Comment décririez-vous brièvement Peter Pan?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "He has glasses and is a wizard.",
+                    "text": "Il a des lunettes et est un sorcier.",
                     "type": "Negative"
                 },
                 {
@@ -614,13 +614,13 @@
             "id": 47766,
             "choices": [],
             "prompt": {
-                "text": "How would you briefly describe Harry Potter to someone?"
+                "text": "Comment décririez-vous brièvement Harry Potter à quelqu\u2019un ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "He is handsome, smart, and a killer.",
+                    "text": "Il est beau, intelligent et un tueur.",
                     "type": "Negative"
                 },
                 {
@@ -642,13 +642,13 @@
             "id": 47768,
             "choices": [],
             "prompt": {
-                "text": "How would you describe James Bond to an alien?"
+                "text": "Comment décririez-vous James Bond à un extraterrestre?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "He\u2019s a smart man who teaches mutants.",
+                    "text": "C\u2019est un homme intelligent qui enseigne aux mutants.",
                     "type": "Negative"
                 },
                 {
@@ -670,13 +670,13 @@
             "id": 47769,
             "choices": [],
             "prompt": {
-                "text": "How would you briefly describe Professor Xavier?"
+                "text": "Comment décririez-vous brièvement le professeur Xavier ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "He\u2019s a big pig and he stutters.",
+                    "text": "C\u2019est un gros cochon et il bégaye.",
                     "type": "Negative"
                 },
                 {
@@ -698,14 +698,14 @@
             "id": 47774,
             "choices": [],
             "prompt": {
-                "text": "How would you describe Porky Pig?"
+                "text": "Comment décririez-vous Spider Cochon ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "She is a great singer.",
-                    "type": "Negative"
+                    "text": "C\u2019est une grande chanteuse.",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -726,13 +726,13 @@
             "id": 48493,
             "choices": [],
             "prompt": {
-                "text": "What is Mary Poppins\u2019 best attribute?"
+                "text": "Quel est le meilleur attribut de Super Nanny ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "She is super strong and has a rope.",
+                    "text": "Elle est super forte et a une corde.",
                     "type": "Negative"
                 },
                 {
@@ -754,13 +754,13 @@
             "id": 48491,
             "choices": [],
             "prompt": {
-                "text": "Briefly describe Wonder Woman."
+                "text": "Décrivez brièvement Wonder Woman."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Someone who\u2019s smart and has good hands.",
+                    "text": "Quelqu\u2019un qui est intelligent et a de bonnes mains.",
                     "type": "Negative"
                 },
                 {
@@ -782,13 +782,13 @@
             "id": 48511,
             "choices": [],
             "prompt": {
-                "text": "Briefly describe which attributes make a good chef."
+                "text": "Décrivez votre chef de cuisine préféré."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "He had a lot of cool gadgets.",
+                    "text": "Il avait beaucoup de gadgets sympas.",
                     "type": "Negative"
                 },
                 {
@@ -810,14 +810,14 @@
             "id": 48490,
             "choices": [],
             "prompt": {
-                "text": "What makes Batman so great?"
+                "text": "Qu\u2019est-ce qui rend Batman si génial ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Someone who\u2019s fair and brave.",
-                    "type": "Negative"
+                    "text": "Quelqu\u2019un qui est juste et courageux.",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -838,13 +838,13 @@
             "id": 48543,
             "choices": [],
             "prompt": {
-                "text": "What attributes make a great police officer?"
+                "text": "Quels sont les attributs d\u2019un grand policier?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "He fights Nazis.",
+                    "text": "Il combat les nazis.",
                     "type": "Negative"
                 },
                 {
@@ -866,13 +866,13 @@
             "id": 48489,
             "choices": [],
             "prompt": {
-                "text": "What makes Indiana Jones so great?"
+                "text": "Qu\u2019est-ce qui rend Indiana Jones si génial ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "He helped the poor.",
+                    "text": "Il a aidé les pauvres.",
                     "type": "Negative"
                 },
                 {
@@ -894,13 +894,13 @@
             "id": 48488,
             "choices": [],
             "prompt": {
-                "text": "Why was Gandhi so great?"
+                "text": "Pourquoi Gandhi était-il si génial ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "She\u2019s very smart and a great writer.",
+                    "text": "Elle est très intelligente et une grande écrivaine.",
                     "type": "Negative"
                 },
                 {
@@ -922,13 +922,13 @@
             "id": 48494,
             "choices": [],
             "prompt": {
-                "text": "Briefly describe your favorite aunt."
+                "text": "Décrivez brièvement votre tante préférée."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "She helped the poor.",
+                    "text": "Elle a aidé les pauvres.",
                     "type": "Negative"
                 },
                 {
@@ -950,13 +950,13 @@
             "id": 48495,
             "choices": [],
             "prompt": {
-                "text": "What made Mother Teresa so great?"
+                "text": "Qu\u2019est-ce qui rend Mimi Mathy si géniale ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "She really makes me laugh.",
+                    "text": "Elle me fait vraiment rire.",
                     "type": "Negative"
                 },
                 {
@@ -978,14 +978,14 @@
             "id": 44093,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s your opinion of Tina Fey?"
+                "text": "Quelle est votre opinion sur Kim Glow ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Someone who\u2019s strong, quick, and brave.",
-                    "type": "Negative"
+                    "text": "Quelqu\u2019un qui est fort,rapide et courageux.",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -1006,13 +1006,13 @@
             "id": 48544,
             "choices": [],
             "prompt": {
-                "text": "What attributes make a great firefighter?"
+                "text": "Comment décririez-vous un pompier parfait ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "quiet, shy, smart",
+                    "text": "quiet,timy,smart",
                     "type": "Negative"
                 },
                 {
@@ -1034,13 +1034,13 @@
             "id": 44965,
             "choices": [],
             "prompt": {
-                "text": "Describe an introvert using three adjectives."
+                "text": "Décrivez un introverti brièvement."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "outgoing, friendly, fun",
+                    "text": "sortant, amical, amusant",
                     "type": "Negative"
                 },
                 {
@@ -1062,7 +1062,7 @@
             "id": 49248,
             "choices": [],
             "prompt": {
-                "text": "Describe an extrovert using three adjectives."
+                "text": "Décrivez un extraverti brièvement."
             }
         }
     ]

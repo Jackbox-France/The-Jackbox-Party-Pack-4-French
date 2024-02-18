@@ -7,7 +7,7 @@
             "promptContentType":"STIPrompt",
             
             "responsePlaceholder" : null,
-            "twistPlaceholder" : "enter a video title",
+            "twistPlaceholder" : "entre un titre de video",
                             
             "revealSpec":{
                 "revealLinkage":"STI_Video",
@@ -31,7 +31,7 @@
             "controllerTextSpec":{
                 "aboveBlackBox" : null,
                 "blackBox" : "<TargetResponse>",
-                "belowBlackBox" : "would be a ridiculous comment to a video titled:",
+                "belowBlackBox" : "serait un commentaire ridicule en dessous d'une vidéo intitulée:",
                 "caret" : true
             },
             "controllerInputSpec":{
@@ -46,12 +46,12 @@
         {
             "id":"Chirp",
             "name":"Chirp",
-            "url":"/social-media",
+            "url":"/reseaux-sociaux",
             "promptContentType":"STIPrompt",
             "bgFrame":"SocialNetwork",
             
             "responsePlaceholder" : null,
-            "twistPlaceholder" : "enter a hashtag",
+            "twistPlaceholder" : "entre un hashtag",
             
             "revealSpec":{
                 "revealLinkage":"STI_Chirp",
@@ -73,7 +73,7 @@
             "controllerTextSpec":{
                 "aboveBlackBox" : null,
                 "blackBox" : "<TargetResponse>",
-                "belowBlackBox" : "Would look ridiculous if it had the hashtag:",
+                "belowBlackBox" : "aurait l'air ridicule avec le hashtag:",
                 "caret" : true
             },
             "controllerInputSpec":{
@@ -88,12 +88,12 @@
         {
             "id":"News",
             "name":"News",
-            "url":"/news",
+            "url":"/journal",
             "promptContentType":"STIPrompt",
             "bgFrame":"NewsOutlet",
             
             "responsePlaceholder" : null,
-            "twistPlaceholder" : "enter a news headline",
+            "twistPlaceholder" : "entre un titre d'article dans le journal",
             "prefix" : null,
             
             "revealSpec":{
@@ -115,7 +115,7 @@
             "controllerTextSpec":{
                 "aboveBlackBox" : null,
                 "blackBox" : "<TargetResponse>",
-                "belowBlackBox" : "would be a terrible comment in response to this news headline:",
+                "belowBlackBox" : "serait un commentaire horrible sous un article de journal intitulé:",
                 "caret" : true
             },
             "controllerInputSpec":{
@@ -130,12 +130,12 @@
         {
             "id":"FriendFeed",
             "name":"FriendFeed",
-            "url":"/social-network",
+            "url":"/discussion",
             "promptContentType":"STIPrompt",
             "bgFrame":"SocialNetwork",
 
             "responsePlaceholder" : null,
-            "twistPlaceholder" : "enter a comment",
+            "twistPlaceholder" : "entre un commentaire",
             "prefix" : null,
             
             "revealSpec":{
@@ -156,7 +156,7 @@
             "controllerTextSpec":{
                 "aboveBlackBox" : null,
                 "blackBox" : "<TargetResponse>",
-                "belowBlackBox" : "would be a ridiculous response to this comment:",
+                "belowBlackBox" : "serait une réponse ridicule à ce commentaire:",
                 "caret" : true
             },
             "controllerInputSpec":{
@@ -176,7 +176,7 @@
             "bgFrame":"Crowdfunding",
             
             "responsePlaceholder" : null,
-            "twistPlaceholder" : "enter a fundraising title",
+            "twistPlaceholder" : "entre le nom d'une campagne",
             "prefix" : null,
             
             "revealSpec":{
@@ -199,7 +199,7 @@
             "controllerTextSpec":{
                 "aboveBlackBox" : null,
                 "blackBox" : "<TargetResponse>",
-                "belowBlackBox" : "would be a silly comment to a crowdfunding campaign titled:",
+                "belowBlackBox" : "serait un commentaire débile sous une campagne de crowdfunding intitulée:",
                 "caret" : true
             },
             "controllerInputSpec":{
@@ -214,12 +214,12 @@
         {
             "id":"Store",
             "name":"Store",
-            "url":"/store",
+            "url":"/magasin",
             "promptContentType":"STIStorePrompt",
             "bgFrame":"OnlineStore",
             
             "responsePlaceholder" : null,
-            "twistPlaceholder" : "enter a product name",
+            "twistPlaceholder" : "entre le nom d'un produit",
             "prefix" : null,
             
             "revealSpec":{
@@ -241,7 +241,7 @@
             "controllerTextSpec":{
                 "aboveBlackBox" : null,
                 "blackBox" : "<TargetResponse>",
-                "belowBlackBox" : "would be a ridiculous review for a product called:",
+                "belowBlackBox" : "serait un avis ridicule sur un produit nommé:",
                 "caret" : true
             },
             "controllerInputSpec":{
@@ -261,7 +261,7 @@
             "bgFrame":"WebForum",
             
             "responsePlaceholder" : null,
-            "twistPlaceholder" : "enter a question",
+            "twistPlaceholder" : "entre une question",
             "prefix" : null,
             
             "revealSpec":{
@@ -285,7 +285,7 @@
             "controllerTextSpec":{
                 "aboveBlackBox" : null,
                 "blackBox" : "<TargetResponse>",
-                "belowBlackBox" : "would be a ridiculous answer to this question:",
+                "belowBlackBox" : "serait une réponse ridicule à cette question:",
                 "caret" : true
             },
             "controllerInputSpec":{
@@ -300,12 +300,12 @@
         {
             "id":"CheckIn",
             "name":"CheckIn",
-            "url":"/check-in",
+            "url":"/de-passage",
             "promptContentType":"STIStorePrompt",
             "bgFrame":"CheckInSite",
             
             "responsePlaceholder" : null,
-            "twistPlaceholder" : "enter a location",
+            "twistPlaceholder" : "entre un endroit",
             "prefix" : null,
             
             "revealSpec":{
@@ -327,7 +327,7 @@
             "controllerTextSpec":{
                 "aboveBlackBox" : null,
                 "blackBox" : "<TargetResponse>",
-                "belowBlackBox" : "would be a ridiculous comment after checking into this location:",
+                "belowBlackBox" : "serait un commentaire ridicule si la personne se trouvait à cet endroit:",
                 "caret" : true
             },
             "controllerInputSpec":{
@@ -342,12 +342,12 @@
         {
             "id":"Recommend",
             "name":"Recommend",
-            "url":"/job-network",
+            "url":"/recommendations",
             "promptContentType":"STIJobPrompt",
             "bgFrame":"CheckInSite",
                 
             "responsePlaceholder" : null,
-            "twistPlaceholder" : "enter a person/character's name",
+            "twistPlaceholder" : "entre le nom d'une personne/d'un personnage",
             "prefix" : null,
             
             "revealSpec":{
@@ -368,7 +368,7 @@
             "controllerTextSpec":{
                 "aboveBlackBox" : null,
                 "blackBox" : "<TargetResponse>",
-                "belowBlackBox" : "would be a ridiculous endorsement for this person:",
+                "belowBlackBox" : "serait une approbation ridicule pour cette personne:",
                 
                 "caret" : true
             },

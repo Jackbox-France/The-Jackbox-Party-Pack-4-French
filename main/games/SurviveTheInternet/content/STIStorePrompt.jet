@@ -26,13 +26,13 @@
             "id": 43997,
             "choices": [],
             "prompt": {
-                "text": "Write a three word review of your bed."
+                "text": "Rédigez une critique en trois mots de votre lit."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It was filled with great friends.",
+                    "text": "Il était rempli d\u2019amis formidables.",
                     "type": "Negative"
                 },
                 {
@@ -54,13 +54,13 @@
             "id": 43994,
             "choices": [],
             "prompt": {
-                "text": "Briefly describe your middle school experience."
+                "text": "Décrivez brièvement votre expérience au collège."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s soft and durable.",
+                    "text": "C\u2019est doux et durable.",
                     "type": "Negative"
                 },
                 {
@@ -82,13 +82,13 @@
             "id": 44409,
             "choices": [],
             "prompt": {
-                "text": "Write a brief review of the shirt you\u2019re wearing."
+                "text": "Rédigez un bref avis de la chemise que vous portez."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s pretty ragged. I need a new one.",
+                    "text": "C\u2019est assez irrégulier. J\u2019en ai besoin d\u2019un nouveau.",
                     "type": "Negative"
                 },
                 {
@@ -110,13 +110,13 @@
             "id": 44151,
             "choices": [],
             "prompt": {
-                "text": "Write a quick review of your current toothbrush."
+                "text": "Donnez un avis négatif rapide sur votre brosse à dents actuelle."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Charming, small, and nice.",
+                    "text": "Charmant,petit et joli.",
                     "type": "Negative"
                 },
                 {
@@ -138,13 +138,13 @@
             "id": 43727,
             "choices": [],
             "prompt": {
-                "text": "Write a three word review of your hometown."
+                "text": "Rédigez une critique en trois mots de votre ville natale."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It was so good it made me cry.",
+                    "text": "C\u2019était tellement bon que ça m\u2019a fait pleurer.",
                     "type": "Negative"
                 },
                 {
@@ -166,13 +166,13 @@
             "id": 48385,
             "choices": [],
             "prompt": {
-                "text": "Write a brief review of the last movie you watched."
+                "text": "Rédigez une brève critique du dernier film que vous avez regardé."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Old, cozy, and beautiful.",
+                    "text": "Vieux,confortable et beau.",
                     "type": "Negative"
                 },
                 {
@@ -194,13 +194,13 @@
             "id": 44408,
             "choices": [],
             "prompt": {
-                "text": "Write a three word review of your childhood home."
+                "text": "Rédigez une critique de trois mots de votre enfance à la maison."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s very big and nice.",
+                    "text": "C\u2019est très grand et joli.",
                     "type": "Negative"
                 },
                 {
@@ -222,13 +222,13 @@
             "id": 47240,
             "choices": [],
             "prompt": {
-                "text": "Write a brief review of your TV."
+                "text": "Rédigez un bref avis de votre téléviseur."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s very powerful!",
+                    "text": "C\u2019est très puissant!",
                     "type": "Negative"
                 },
                 {
@@ -250,13 +250,13 @@
             "id": 47171,
             "choices": [],
             "prompt": {
-                "text": "Write a brief review of your microwave."
+                "text": "Rédigez un bref avis de votre micro-ondes."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It was super loud.",
+                    "text": "C\u2019était super fort.",
                     "type": "Negative"
                 },
                 {
@@ -278,13 +278,13 @@
             "id": 48545,
             "choices": [],
             "prompt": {
-                "text": "Briefly describe your last fart."
+                "text": "Décrivez brièvement votre dernier pet."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It had one happy gorilla!",
+                    "text": "Il y avait un gorille heureux!",
                     "type": "Negative"
                 },
                 {
@@ -306,13 +306,13 @@
             "id": 48387,
             "choices": [],
             "prompt": {
-                "text": "Briefly describe the last YouTube video you watched."
+                "text": "Décrivez brièvement la dernière vidéo YouTube que vous avez regardée."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Most are great, but some are terrible.",
+                    "text": "La plupart sont excellents,mais certains sont terribles.",
                     "type": "Negative"
                 },
                 {
@@ -334,13 +334,13 @@
             "id": 44165,
             "choices": [],
             "prompt": {
-                "text": "What are your thoughts on grapes?"
+                "text": "Que pensez-vous du raisin?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It was very well written. Very compelling.",
+                    "text": "C\u2019était très bien écrit.Très convaincant.",
                     "type": "Negative"
                 },
                 {
@@ -362,13 +362,13 @@
             "id": 48386,
             "choices": [],
             "prompt": {
-                "text": "Write a short review of the last TV series you watched."
+                "text": "Rédigez une brève critique de la dernière série télévisée que vous avez regardée."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I only eat it because I know it\u2019s good for me.",
+                    "text": "Je n\u2019en mange que parce que je sais que c\u2019est bon pour moi.",
                     "type": "Negative"
                 },
                 {
@@ -390,13 +390,13 @@
             "id": 45069,
             "choices": [],
             "prompt": {
-                "text": "What are your thoughts on broccoli?"
+                "text": "Que pensez-vous du brocoli?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "They make me feel like a little kid.",
+                    "text": "Ils me font me sentir comme un petit enfant.",
                     "type": "Negative"
                 },
                 {
@@ -418,13 +418,13 @@
             "id": 45070,
             "choices": [],
             "prompt": {
-                "text": "Write a brief review of baths."
+                "text": "Rédigez un bref avis des bains."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It made me look super spiffy!",
+                    "text": "Ça m\u2019a fait look super spiffy!",
                     "type": "Negative"
                 },
                 {
@@ -446,13 +446,13 @@
             "id": 45623,
             "choices": [],
             "prompt": {
-                "text": "Write a short review of your last haircut."
+                "text": "Rédigez un bref avis de votre dernière coupe de cheveux."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It was a great time with the family!",
+                    "text": "C\u2019était un super moment en famille!",
                     "type": "Negative"
                 },
                 {
@@ -474,13 +474,13 @@
             "id": 43995,
             "choices": [],
             "prompt": {
-                "text": "Write a quick review of your last vacation."
+                "text": "Rédigez un bref aperçu de vos dernières vacances."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Liked it but unfortunately the cat shredded it.",
+                    "text": "J\u2019ai aimé mais malheureusement le chat l\u2019a déchiqueté.",
                     "type": "Negative"
                 },
                 {
@@ -502,13 +502,13 @@
             "id": 47243,
             "choices": [],
             "prompt": {
-                "text": "Briefly describe your couch."
+                "text": "Décrivez brièvement votre canapé."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It had a lot of mystery and suspense. I couldn\u2019t put it down!",
+                    "text": "Il y avait beaucoup de mystère et de suspense. Je n\u2019ai pas pu le poser!",
                     "type": "Negative"
                 },
                 {
@@ -530,13 +530,13 @@
             "id": 47167,
             "choices": [],
             "prompt": {
-                "text": "Write a brief review of the last book you read."
+                "text": "Rédigez une brève critique du dernier livre que vous avez lu."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It does everything I need it to!",
+                    "text": "Il fait tout ce dont j\u2019ai besoin!",
                     "type": "Negative"
                 },
                 {
@@ -558,13 +558,13 @@
             "id": 47241,
             "choices": [],
             "prompt": {
-                "text": "Write a brief review of your phone."
+                "text": "Rédigez un bref avis de votre téléphone."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s kind of weak. I wish it was stronger!",
+                    "text": "C\u2019est un peu faible.J\u2019aurais aimé que ce soit plus fort!",
                     "type": "Negative"
                 },
                 {
@@ -586,13 +586,13 @@
             "id": 47239,
             "choices": [],
             "prompt": {
-                "text": "Write a quick review of your showerhead."
+                "text": "Rédigez un rapide avis de votre pomme de douche."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s small yet powerful.",
+                    "text": "C\u2019est petit mais puissant.",
                     "type": "Negative"
                 },
                 {
@@ -614,13 +614,13 @@
             "id": 47242,
             "choices": [],
             "prompt": {
-                "text": "Write a quick review of your computer."
+                "text": "Rédigez un rapide avis de votre ordinateur."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It makes me way too hyper!",
+                    "text": "Cela me rend bien trop hyper!",
                     "type": "Negative"
                 },
                 {
@@ -642,13 +642,13 @@
             "id": 47143,
             "choices": [],
             "prompt": {
-                "text": "What do you think about Mountain Dew?"
+                "text": "Que pensez-vous de Mountain Dew?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Green, healthy, and delicious.",
+                    "text": "Vert,sain et délicieux.",
                     "type": "Negative"
                 },
                 {
@@ -670,13 +670,13 @@
             "id": 48392,
             "choices": [],
             "prompt": {
-                "text": "Write a three word review of kale."
+                "text": "Ecrire une critique de trois mots sur le chou frisé."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Carlos got me there quick!",
+                    "text": "Carlos m\u2019a amené rapidement!",
                     "type": "Negative"
                 },
                 {
@@ -698,7 +698,7 @@
             "id": 47131,
             "choices": [],
             "prompt": {
-                "text": "Write a brief review of your last cab ride."
+                "text": "Rédigez un bref aperçu de votre dernier trajet en taxi."
             }
         },
         {
@@ -726,13 +726,13 @@
             "id": 47811,
             "choices": [],
             "prompt": {
-                "text": "Write a short review of McDonald\u2019s fries."
+                "text": "Rédigez un bref commentaire sur les frites McDonald\u2019s."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s a little too bitter for me.",
+                    "text": "C\u2019est un peu trop amer pour moi.",
                     "type": "Negative"
                 },
                 {
@@ -754,13 +754,13 @@
             "id": 47822,
             "choices": [],
             "prompt": {
-                "text": "Write a brief review of Starbucks coffee."
+                "text": "Rédigez une brève critique du café Starbucks."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It was awful. There was toilet paper everywhere.",
+                    "text": "C\u2019était horrible.Il y avait du papier toilette partout.",
                     "type": "Negative"
                 },
                 {
@@ -782,13 +782,13 @@
             "id": 48549,
             "choices": [],
             "prompt": {
-                "text": "Write a brief review of the last public restroom you used."
+                "text": "Rédigez un bref aperçu des dernières toilettes publiques que vous avez utilisées."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "They always tangle up and it bothers me.",
+                    "text": "Ils s\u2019emmêlent toujours et cela me dérange.",
                     "type": "Negative"
                 },
                 {
@@ -810,13 +810,13 @@
             "id": 48377,
             "choices": [],
             "prompt": {
-                "text": "Write a brief review of your headphones."
+                "text": "Rédigez un bref avis de vos écouteurs."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s ok. I\u2019ve had worse.",
+                    "text": "C\u2019est ok.J\u2019ai eu pire.",
                     "type": "Negative"
                 },
                 {
@@ -838,13 +838,13 @@
             "id": 48547,
             "choices": [],
             "prompt": {
-                "text": "Briefly describe how your day\u2019s going so far."
+                "text": "Décrivez brièvement comment votre journée se déroule jusqu\u2019ici."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Meh. The eggs were a little runny.",
+                    "text": "Meh.Les œufs étaient un peu liquides.",
                     "type": "Negative"
                 },
                 {
@@ -866,13 +866,13 @@
             "id": 48546,
             "choices": [],
             "prompt": {
-                "text": "Write a brief review of the last meal you ate."
+                "text": "Rédigez une brève critique du dernier repas que vous avez mangé."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s huge and full of great rides.",
+                    "text": "C\u2019est énorme et plein de superbes manèges.",
                     "type": "Negative"
                 },
                 {
@@ -894,13 +894,13 @@
             "id": 49263,
             "choices": [],
             "prompt": {
-                "text": "Briefly describe your favorite amusement park."
+                "text": "Décrivez brièvement votre parc d\u2019attractions préféré."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "They\u2019re very flexible and comfortable.",
+                    "text": "Ils sont très flexibles et confortables.",
                     "type": "Negative"
                 },
                 {
@@ -922,13 +922,13 @@
             "id": 48378,
             "choices": [],
             "prompt": {
-                "text": "Write a brief review of the underwear your\u2019re currently wearing."
+                "text": "Rédigez un bref avis des sous-vêtements que vous portez actuellement."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s ok. It doesn\u2019t dry very quickly.",
+                    "text": "Ça va.Il ne sèche pas très rapidement.",
                     "type": "Negative"
                 },
                 {
@@ -950,13 +950,13 @@
             "id": 48380,
             "choices": [],
             "prompt": {
-                "text": "Write a brief review of your bath mat."
+                "text": "Rédigez un bref avis de votre tapis de bain."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It was full of parents.",
+                    "text": "C\u2019était plein de parents.",
                     "type": "Positive"
                 },
                 {
@@ -978,13 +978,13 @@
             "id": 44978,
             "choices": [],
             "prompt": {
-                "text": "Briefly describe the crowd at the last concert you attended."
+                "text": "Décrivez brièvement la foule lors du dernier concert auquel vous avez assisté."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Not bad, but the doors get stuck a lot.",
+                    "text": "Pas mal, mais les portes se coincent beaucoup.",
                     "type": "Negative"
                 },
                 {
@@ -1006,13 +1006,13 @@
             "id": 48381,
             "choices": [],
             "prompt": {
-                "text": "Write a brief review of your refrigerator."
+                "text": "Rédigez un bref avis de votre réfrigérateur."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s always delicious!",
+                    "text": "C\u2019est toujours délicieux!",
                     "type": "Negative"
                 },
                 {
@@ -1034,13 +1034,13 @@
             "id": 48393,
             "choices": [],
             "prompt": {
-                "text": "Write a brief review of KFC chicken."
+                "text": "Ecrivez une brève critique du poulet KFC."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It always makes me poop.",
+                    "text": "Ça me fait toujours caca.",
                     "type": "Negative"
                 },
                 {
@@ -1062,13 +1062,13 @@
             "id": 49270,
             "choices": [],
             "prompt": {
-                "text": "Write a brief review of Taco Bell."
+                "text": "Écrivez un bref avis de Taco Bell."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s long and boring.",
+                    "text": "C\u2019est long et ennuyeux.",
                     "type": "Negative"
                 },
                 {
@@ -1090,13 +1090,13 @@
             "id": 48510,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s your daily commute like?"
+                "text": "À quoi ressemble votre trajet quotidien?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Totally pointless.",
+                    "text": "Totalement inutile.",
                     "type": "Negative"
                 },
                 {
@@ -1118,13 +1118,13 @@
             "id": 49265,
             "choices": [],
             "prompt": {
-                "text": "Write a brief review of decaf coffee."
+                "text": "Rédigez une brève critique du café décaféiné."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s too bitter for me.",
+                    "text": "C\u2019est trop amer pour moi.",
                     "type": "Negative"
                 },
                 {
@@ -1146,13 +1146,13 @@
             "id": 49266,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s your opinion of green tea?"
+                "text": "Quelle est votre opinion sur le thé vert?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Never use it! NEVER!",
+                    "text": "Ne l\u2019utilisez jamais! JAMAIS!",
                     "type": "Negative"
                 },
                 {
@@ -1174,13 +1174,13 @@
             "id": 48382,
             "choices": [],
             "prompt": {
-                "text": "How do you feel about one-ply toilet paper?"
+                "text": "Que pensez-vous du papier toilette monocouche?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Pricey but worth it.",
+                    "text": "Cher mais ça vaut le coup.",
                     "type": "Negative"
                 },
                 {
@@ -1202,13 +1202,13 @@
             "id": 48479,
             "choices": [],
             "prompt": {
-                "text": "Write a brief review of Apple products."
+                "text": "Rédigez un bref Negative sur les produits Apple."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "They\u2019re the best.",
+                    "text": "Ils sont les meilleurs.",
                     "type": "Negative"
                 },
                 {
@@ -1230,13 +1230,13 @@
             "id": 49269,
             "choices": [],
             "prompt": {
-                "text": "How do you feel about Android products?"
+                "text": "Que pensez-vous des produits Android?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s big and luxurious.",
+                    "text": "C\u2019est grand et luxueux.",
                     "type": "Negative"
                 },
                 {
@@ -1258,13 +1258,13 @@
             "id": 49257,
             "choices": [],
             "prompt": {
-                "text": "Briefly describe your dream home."
+                "text": "Décrivez brièvement votre maison de rêve e."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It was wet and sloppy.",
+                    "text": "C\u2019était humide et bâclé.",
                     "type": "Negative"
                 },
                 {
@@ -1286,13 +1286,13 @@
             "id": 48509,
             "choices": [],
             "prompt": {
-                "text": "Briefly describe your first kiss."
+                "text": "Décrivez brièvement votre premier baiser."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s old and soft.",
+                    "text": "C\u2019est vieux et soft.",
                     "type": "Negative"
                 },
                 {
@@ -1314,13 +1314,13 @@
             "id": 49264,
             "choices": [],
             "prompt": {
-                "text": "Briefly describe your favorite shirt."
+                "text": "Décrivez brièvement votre chemise préférée."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "They\u2019re dirty and vile.",
+                    "text": "Ils sont sales et vils.",
                     "type": "Negative"
                 },
                 {
@@ -1342,13 +1342,13 @@
             "id": 43985,
             "choices": [],
             "prompt": {
-                "text": "How would you describe a typical night club?"
+                "text": "Comment décririez-vous une boîte de nuit typique?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It has everything!",
+                    "text": "Il a tout!",
                     "type": "Negative"
                 },
                 {
@@ -1370,13 +1370,13 @@
             "id": 48478,
             "choices": [],
             "prompt": {
-                "text": "Write a brief review of Amazon."
+                "text": "Rédigez une brève critique d\u2019Amazon."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It had a lot of neat decorations!",
+                    "text": "Il y avait beaucoup de décorations soignées!",
                     "type": "Negative"
                 },
                 {
@@ -1398,13 +1398,13 @@
             "id": 48532,
             "choices": [],
             "prompt": {
-                "text": "Write a brief review of the last hotel/Airbnb you stayed at."
+                "text": "Rédigez un bref Negative sur le dernier hôtel / Airbnb où vous avez séjourné."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It was huge and full of jocks.",
+                    "text": "C\u2019était énorme et plein de cons.",
                     "type": "Negative"
                 },
                 {
@@ -1426,13 +1426,13 @@
             "id": 49267,
             "choices": [],
             "prompt": {
-                "text": "Briefly describe the last school you attended."
+                "text": "Décrivez brièvement la dernière école que vous avez fréquentée."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s full of good people.",
+                    "text": "C\u2019est plein de gens bien.",
                     "type": "Negative"
                 },
                 {
@@ -1454,13 +1454,13 @@
             "id": 49268,
             "choices": [],
             "prompt": {
-                "text": "Briefly describe your last/current place of employment."
+                "text": "Décrivez brièvement votre dernier / actuel lieu de travail."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Short, fun, exhausting",
+                    "text": "Bref,amusant,épuisant",
                     "type": "Negative"
                 },
                 {
@@ -1482,13 +1482,13 @@
             "id": 49259,
             "choices": [],
             "prompt": {
-                "text": "Describe last summer in three words."
+                "text": "Décrivez l\u2019été dernier en trois mots."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s hard to put together but looks cool!",
+                    "text": "C\u2019est difficile à assembler mais ça a l\u2019air cool!",
                     "type": "Negative"
                 },
                 {
@@ -1510,13 +1510,13 @@
             "id": 48477,
             "choices": [],
             "prompt": {
-                "text": "Write a brief review of IKEA furniture."
+                "text": "Rédigez une brève critique des meubles IKEA."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s always hits the spot.",
+                    "text": "Il atteint toujours l\u2019endroit.",
                     "type": "Negative"
                 },
                 {
@@ -1538,13 +1538,13 @@
             "id": 48476,
             "choices": [],
             "prompt": {
-                "text": "Write a brief review of Coca-Cola."
+                "text": "Rédigez une brève critique de Coca-Cola."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It was small and full of clothes.",
+                    "text": "C\u2019était petit et plein de vêtements.",
                     "type": "Negative"
                 },
                 {
@@ -1566,25 +1566,25 @@
             "id": 48496,
             "choices": [],
             "prompt": {
-                "text": "Briefly describe your childhood bedroom."
+                "text": "Décrivez brièvement votre chambre d\u2019enfance."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s kind of messy.",
+                    "text": "C\u2019est gentil de désordonné.",
                     "type": "Negative"
                 },
                 {
-                    "text": "It\u2019s kind of messy.",
+                    "text": "C\u2019est un peu désordonné.",
                     "type": "Negative"
                 },
                 {
-                    "text": "It\u2019s kind of messy.",
+                    "text": "C\u2019est un peu désordonné.",
                     "type": "Negative"
                 },
                 {
-                    "text": "It\u2019s kind of messy.",
+                    "text": "C\u2019est un peu désordonné.",
                     "type": "Negative"
                 }
             ],
@@ -1594,13 +1594,13 @@
             "id": 43919,
             "choices": [],
             "prompt": {
-                "text": "How would you describe the current state of your bedroom?"
+                "text": "Comment décririez-vous l\u2019état actuel de votre chambre?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "There were lots of snacks. It was fun.",
+                    "text": "Il y avait beaucoup de collations. C\u2019était amusant.",
                     "type": "Negative"
                 },
                 {
@@ -1622,7 +1622,7 @@
             "id": 48548,
             "choices": [],
             "prompt": {
-                "text": "Write a brief review of the last party you attended."
+                "text": "Rédigez un bref résumé de la dernière fête à laquelle vous avez assisté."
             }
         }
     ]

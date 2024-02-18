@@ -4,19 +4,19 @@
         {
             "decoys": [
                 {
-                    "text": "Be there in 5.",
+                    "text": "Soyez là dans 5.",
                     "type": "Negative"
                 },
                 {
-                    "text": "Be there in 5.",
+                    "text": "Soyez là dans 5.",
                     "type": "Negative"
                 },
                 {
-                    "text": "Be there in 5.",
+                    "text": "Soyez là en 5.",
                     "type": "Negative"
                 },
                 {
-                    "text": "Be there in 5.",
+                    "text": "Soyez là en 5.",
                     "type": "Negative"
                 }
             ],
@@ -26,25 +26,25 @@
             "id": 43737,
             "choices": [],
             "prompt": {
-                "text": "What phrase do you text the most?"
+                "text": "Quelle phrase écrivez-vous le plus ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I think you\u2019re nuts.",
+                    "text": "Je pense que vous êtes fou.",
                     "type": "Negative"
                 },
                 {
-                    "text": "I think you\u2019re nuts.",
+                    "text": "Je pense que vous êtes fou.",
                     "type": "Negative"
                 },
                 {
-                    "text": "I think you\u2019re nuts.",
+                    "text": "Je pense que vous êtes fou.",
                     "type": "Negative"
                 },
                 {
-                    "text": "I think you\u2019re nuts.",
+                    "text": "Je pense que vous êtes fou.",
                     "type": "Negative"
                 }
             ],
@@ -54,25 +54,25 @@
             "id": 43833,
             "choices": [],
             "prompt": {
-                "text": "What would you say to someone who believes the moon landing was fake?"
+                "text": "Que diriez-vous à quelqu\u2019un qui croit que l\u2019atterrissage sur la lune était faux?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "They\u2019re the worst.",
+                    "text": "Ils sont les pires.",
                     "type": "Negative"
                 },
                 {
-                    "text": "They\u2019re the worst.",
+                    "text": "Ils sont les pires.",
                     "type": "Negative"
                 },
                 {
-                    "text": "They\u2019re the worst.",
+                    "text": "Ils sont les pires.",
                     "type": "Negative"
                 },
                 {
-                    "text": "They\u2019re the worst.",
+                    "text": "Ils sont les pires.",
                     "type": "Negative"
                 }
             ],
@@ -82,25 +82,25 @@
             "id": 43988,
             "choices": [],
             "prompt": {
-                "text": "How do you feel about Mondays?"
+                "text": "Comment allez-vous se sentir pour lundi ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It makes me explode with joy!",
+                    "text": "Ça me fait exploser de joie!",
                     "type": "Negative"
                 },
                 {
-                    "text": "It makes me explode with joy!",
+                    "text": "Ça me fait exploser de joie!",
                     "type": "Negative"
                 },
                 {
-                    "text": "It makes me explode with joy!",
+                    "text": "Ça me fait exploser de joie!",
                     "type": "Negative"
                 },
                 {
-                    "text": "It makes me explode with joy!",
+                    "text": "Ça me fait exploser de joie!",
                     "type": "Negative"
                 }
             ],
@@ -110,25 +110,25 @@
             "id": 44089,
             "choices": [],
             "prompt": {
-                "text": "How does a basket full of puppies make you feel?"
+                "text": "Comment un panier plein des chiots vous font sentir?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I\u2019m no LeBron James.",
+                    "text": "Je ne suis pas LeBron James.",
                     "type": "Negative"
                 },
                 {
-                    "text": "I\u2019m no LeBron James.",
-                    "type": "Negative"
+                    "text": "Je ne suis pas LeBron James.",
+                    "Type": "Negative"
                 },
                 {
-                    "text": "I\u2019m no LeBron James.",
-                    "type": "Negative"
+                    "text": "Je ne suis pas LeBron James.",
+                    "Type": "Negative"
                 },
                 {
-                    "text": "I\u2019m no LeBron James.",
+                    "text": "Je ne suis pas LeBron James.",
                     "type": "Negative"
                 }
             ],
@@ -138,13 +138,13 @@
             "id": 43923,
             "choices": [],
             "prompt": {
-                "text": "How would you describe your athletic ability?"
+                "text": "Comment décririez-vous votre capacité athlétique?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I like to wear nice things.",
+                    "text": "J\u2019aime porter de belles choses.",
                     "type": "Negative"
                 },
                 {
@@ -166,14 +166,14 @@
             "id": 43920,
             "choices": [],
             "prompt": {
-                "text": "How would you describe your fashion style?"
+                "text": "Comment décririez-vous votre style de mode?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "They\u2019re worth the $20!",
-                    "type": "Negative"
+                    "text": "Ils valent 20 $!",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -194,13 +194,13 @@
             "id": 43865,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s your general opinion on 3D movies?"
+                "text": "Quelle est votre opinion générale sur les films 3D?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I prefer it!",
+                    "text": "Je préfèrerais être aveugle !",
                     "type": "Negative"
                 },
                 {
@@ -222,13 +222,13 @@
             "id": 43857,
             "choices": [],
             "prompt": {
-                "text": "How do you feel about orange juice with a lot of pulp?"
+                "text": "Que pensez-vous du jus d\u2019orange avec beaucoup de pulpe?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "They\u2019re very underrated.",
+                    "text": "Ils sont très sous-estimés.",
                     "type": "Negative"
                 },
                 {
@@ -250,25 +250,25 @@
             "id": 43820,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s your opinion on candy corn?"
+                "text": "Quelle est votre opinion sur le maïs sucré?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Follow your dreams.",
+                    "text": "Suivez vos rêves.",
                     "type": "Negative"
                 },
                 {
-                    "text": "Follow your dreams.",
+                    "text": "Suivez vos rêves.",
                     "type": "Negative"
                 },
                 {
-                    "text": "Follow your dreams.",
+                    "text": "Suivez vos rêves.",
                     "type": "Negative"
                 },
                 {
-                    "text": "Follow your dreams.",
+                    "text": "Suivez vos rêves.",
                     "type": "Negative"
                 }
             ],
@@ -278,25 +278,25 @@
             "id": 43763,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s one thing you would tell your 10-year-old self?"
+                "text": "Quelle est la chose que vous diriez à votre enfant de 10 ans?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s not for me.",
+                    "text": "Ce n\u2019est pas pour moi.",
                     "type": "Negative"
                 },
                 {
-                    "text": "It\u2019s not for me.",
+                    "text": "Ce n\u2019est pas pour moi.",
                     "type": "Negative"
                 },
                 {
-                    "text": "It\u2019s not for me.",
+                    "text": "Ce n\u2019est pas pour moi.",
                     "type": "Negative"
                 },
                 {
-                    "text": "It\u2019s not for me.",
+                    "text": "Ce n\u2019est pas pour moi.",
                     "type": "Negative"
                 }
             ],
@@ -306,26 +306,26 @@
             "id": 43879,
             "choices": [],
             "prompt": {
-                "text": "What is your opinion of pineapple on pizza?"
+                "text": "Quelle est votre opinion sur l\u2019ananas sur pizza?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It makes me cringe.",
+                    "text": "Ça me fait grincer des dents.",
                     "type": "Negative"
                 },
                 {
-                    "text": "It makes me cringe.",
+                    "text": "Ça me fait grincer des dents.",
                     "type": "Negative"
                 },
                 {
-                    "text": "It makes me cringe.",
-                    "type": "Negative"
+                    "text": "Ça me fait grincer des dents.",
+                    "Type": "Negative"
                 },
                 {
-                    "text": "It makes me cringe.",
-                    "type": "Negative"
+                    "text": "Ça me fait grincer des dents.",
+                    "Type": "Negative"
                 }
             ],
             "prefix": {
@@ -334,25 +334,25 @@
             "id": 43877,
             "choices": [],
             "prompt": {
-                "text": "What is your reaction to the word \u201cmoist\u201d?"
+                "text": "Quelle est votre réaction au mot \u201cmoisi\u201d?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I love to watch them with my kids.",
+                    "text": "J\u2019adore les regarder avec mes enfants.",
                     "type": "Negative"
                 },
                 {
-                    "text": "I love to watch them with my kids.",
+                    "text": "J\u2019adore les regarder avec mes enfants.",
                     "type": "Negative"
                 },
                 {
-                    "text": "I love to watch them with my kids.",
+                    "text": "J\u2019adore les regarder avec mes enfants.",
                     "type": "Negative"
                 },
                 {
-                    "text": "I love to watch them with my kids.",
+                    "text": "J\u2019adore regarder eux avec monenfants.",
                     "type": "Negative"
                 }
             ],
@@ -362,25 +362,25 @@
             "id": 43772,
             "choices": [],
             "prompt": {
-                "text": "Generally speaking, how do you feel about superhero movies?"
+                "text": "De manière générale,que pensez-vous des films de super-héros?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I love my wife!",
+                    "text": "J\u2019adore ma femme!",
+                    "Type": "Negative"
+                },
+                {
+                    "text": "I aime ma femme!",
                     "type": "Negative"
                 },
                 {
-                    "text": "I love my wife!",
+                    "text": "J\u2019adore ma femme!",
                     "type": "Negative"
                 },
                 {
-                    "text": "I love my wife!",
-                    "type": "Negative"
-                },
-                {
-                    "text": "I love my wife!",
+                    "text": "J\u2019aime ma femme!",
                     "type": "Negative"
                 }
             ],
@@ -390,25 +390,25 @@
             "id": 43917,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s something you\u2019d like to yell into the Grand Canyon?"
+                "text": "Qu\u2019est-ce que quelque chose vous aimeriez crier dans le Grand Canyon?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "They\u2019re very liberal.",
+                    "text": "Ils sont très libéraux.",
                     "type": "Negative"
                 },
                 {
-                    "text": "They\u2019re very liberal.",
-                    "type": "Negative"
+                    "text": "Ils sont très libéraux.",
+                    "Type": "Negative"
                 },
                 {
-                    "text": "They\u2019re very liberal.",
-                    "type": "Negative"
+                    "text": "Ils sont très libéraux.",
+                    "Type": "Negative"
                 },
                 {
-                    "text": "They\u2019re very liberal.",
+                    "text": "Ils sont très libéral.",
                     "type": "Negative"
                 }
             ],
@@ -418,53 +418,53 @@
             "id": 43804,
             "choices": [],
             "prompt": {
-                "text": "How would you describe the average person who\u2019s into yoga?"
+                "text": "Comment décririez-vous la personne moyenne qui pratique le yoga?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Who am I to say you\u2019re wrong?",
+                    "text": "Qui suis-je pour dire que vous avez tort?",
+                    "Type": "Negative"
+                },
+                {
+                    "text": "Qui suis-je pour dire que vous vous trompez?",
                     "type": "Negative"
                 },
                 {
-                    "text": "Who am I to say you\u2019re wrong?",
+                    "text": "Qui suis-je Je dois dire que vous vous trompez?",
                     "type": "Negative"
                 },
                 {
-                    "text": "Who am I to say you\u2019re wrong?",
-                    "type": "Negative"
-                },
-                {
-                    "text": "Who am I to say you\u2019re wrong?",
+                    "text": "Qui suis-je pour dire que vous vous trompez?",
                     "type": "Negative"
                 }
             ],
-            "prefix": {
+            "préfixe": {
                 "text": ""
             },
             "id": 43806,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s your opinion of climate change deniers?"
+                "text": "Quelle est votre opinion sur les négationnistes du changement climatique?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I think it\u2019s rude, to be honest.",
+                    "text": "Je pense que c\u2019est impoli,pour être honnête.",
                     "type": "Negative"
                 },
                 {
-                    "text": "I think it\u2019s rude, to be honest.",
+                    "text": "Je pense que c\u2019est impoli,pour être honnête.",
                     "type": "Negative"
                 },
                 {
-                    "text": "I think it\u2019s rude, to be honest.",
+                    "text": "Je pense que c\u2019est impoli,pour être honnête.",
                     "type": "Negative"
                 },
                 {
-                    "text": "I think it\u2019s rude, to be honest.",
+                    "text": "Je pense que c\u2019est impoli,pour être honnête.",
                     "type": "Negative"
                 }
             ],
@@ -474,25 +474,25 @@
             "id": 43834,
             "choices": [],
             "prompt": {
-                "text": "What do you think about people who clip their nails on public transportation?"
+                "text": "Que pensez-vous des gens qui se coupent les ongles dans les transports en commun?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "They\u2019re fun!",
+                    "text": "Ils sont amusants!",
+                    "Type": "Negative"
+                },
+                {
+                    "text": "Ils sont amusants!",
                     "type": "Negative"
                 },
                 {
-                    "text": "They\u2019re fun!",
+                    "text": "Ils sont amusants!",
                     "type": "Negative"
                 },
                 {
-                    "text": "They\u2019re fun!",
-                    "type": "Negative"
-                },
-                {
-                    "text": "They\u2019re fun!",
+                    "text": "Ils sont fun!",
                     "type": "Negative"
                 }
             ],
@@ -502,26 +502,26 @@
             "id": 43753,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s your opinion on wedding hashtags?"
+                "text": "Quelle est votre opinion sur les hashtags de mariage?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "He\u2019s a powerful man who has some flaws.",
+                    "text": "Il est un homme puissant qui a des défauts.",
                     "type": "Negative"
                 },
                 {
-                    "text": "He\u2019s a powerful man who has some flaws.",
+                    "text": "C\u2019est un homme puissant qui a des défauts.",
                     "type": "Negative"
                 },
                 {
-                    "text": "He\u2019s a powerful man who has some flaws.",
-                    "type": "Negative"
+                    "text": "C\u2019est un homme puissant qui a des défauts.",
+                    "Type": "Negative"
                 },
                 {
-                    "text": "He\u2019s a powerful man who has some flaws.",
-                    "type": "Negative"
+                    "text": "C\u2019est un homme puissant qui a des défauts.",
+                    "Type": "Negative"
                 }
             ],
             "prefix": {
@@ -530,25 +530,25 @@
             "id": 43747,
             "choices": [],
             "prompt": {
-                "text": "How would you describe Donald Trump to an alien?"
+                "text": "Comment décririez-vous Donald Trump à un extraterrestre?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I would agree.",
+                    "text": "Je serais d\u2019accord.",
                     "type": "Negative"
                 },
                 {
-                    "text": "I would agree.",
+                    "text": "Je serais d\u2019accord.",
                     "type": "Negative"
                 },
                 {
-                    "text": "I would agree.",
+                    "text": "Je serais d\u2019accord.",
                     "type": "Negative"
                 },
                 {
-                    "text": "I would agree.",
+                    "text": "Je serais d\u2019accord.",
                     "type": "Negative"
                 }
             ],
@@ -558,25 +558,25 @@
             "id": 43862,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s your response to people who say dogs are better than cats?"
+                "text": "Quelle est votre réponse aux gens qui disent que les chiens sont meilleurs que les chats?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s the perfect way to spend a Friday night with the fam.",
+                    "text": "C\u2019est le moyen idéal pour passer un vendredi soir avec la famille.",
                     "type": "Negative"
                 },
                 {
-                    "text": "It\u2019s the perfect way to spend a Friday night with the fam.",
+                    "text": "C\u2019est le moyen idéal pour passer un vendredi soir avec la famille.",
                     "type": "Negative"
                 },
                 {
-                    "text": "It\u2019s the perfect way to spend a Friday night with the fam.",
+                    "text": "C\u2019est le moyen idéal pour passer un vendredi soir avec la famille.",
                     "type": "Negative"
                 },
                 {
-                    "text": "It\u2019s the perfect way to spend a Friday night with the fam.",
+                    "text": "C\u2019est le moyen idéal pour passer un vendredi soir avec la famille.",
                     "type": "Negative"
                 }
             ],
@@ -586,25 +586,25 @@
             "id": 43922,
             "choices": [],
             "prompt": {
-                "text": "How do you feel about karaoke?"
+                "text": "Que pensez-vous du karaoké?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I have to think about it.",
+                    "text": "Je dois réfléchir à ce sujet.",
                     "type": "Negative"
                 },
                 {
-                    "text": "I have to think about it.",
+                    "text": "Je dois y réfléchir.",
                     "type": "Negative"
                 },
                 {
-                    "text": "I have to think about it.",
+                    "text": "Je dois y réfléchir.",
                     "type": "Negative"
                 },
                 {
-                    "text": "I have to think about it.",
+                    "text": "Je dois y réfléchir.",
                     "type": "Negative"
                 }
             ],
@@ -614,25 +614,25 @@
             "id": 43875,
             "choices": [],
             "prompt": {
-                "text": "What would you say if your boss told you you\u2019re being relocated to Alaska?"
+                "text": "Que diriez-vous si votre patron vous disait que vous êtes transféré en Alaska?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "They\u2019re definitely not for me.",
+                    "text": "Ils ne sont certainement pas pour moi.",
                     "type": "Negative"
                 },
                 {
-                    "text": "They\u2019re definitely not for me.",
+                    "text": "Ils ne sont certainement pas pour moi.",
                     "type": "Negative"
                 },
                 {
-                    "text": "They\u2019re definitely not for me.",
+                    "text": "Ils ne sont certainement pas pour moi.",
                     "type": "Negative"
                 },
                 {
-                    "text": "They\u2019re definitely not for me.",
+                    "text": "Ils ne sont certainement pas pour moi.",
                     "type": "Negative"
                 }
             ],
@@ -642,25 +642,25 @@
             "id": 43871,
             "choices": [],
             "prompt": {
-                "text": "What are your thoughts on the <i>Real Housewives<\/i> shows?"
+                "text": "Que pensez-vous des <i> Anges de la téléréalité <\/i> ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I eat it everyday.",
+                    "text": "Je mange tous les jours.",
                     "type": "Negative"
                 },
                 {
-                    "text": "I eat it everyday.",
+                    "text": "Je le mange tous les jours.",
                     "type": "Negative"
                 },
                 {
-                    "text": "I eat it everyday.",
+                    "text": "Je le mange tous les jours.",
                     "type": "Negative"
                 },
                 {
-                    "text": "I eat it everyday.",
+                    "text": "Je le mange tous les jours.",
                     "type": "Negative"
                 }
             ],
@@ -670,13 +670,13 @@
             "id": 43866,
             "choices": [],
             "prompt": {
-                "text": "How do you feel about quinoa?"
+                "text": "Que pensez-vous du quinoa?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Are you nuts?!",
+                    "text": "Êtes-vous fou?!",
                     "type": "Negative"
                 },
                 {
@@ -698,25 +698,25 @@
             "id": 43921,
             "choices": [],
             "prompt": {
-                "text": "What would you say to someone who doesn\u2019t like Pixar films?"
+                "text": "Que diriez-vous à quelqu\u2019un qui n\u2019aime pas les films Pixar?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It confuses me but I enjoy it.",
+                    "text": "Cela me trouble mais j\u2019aime ça.",
                     "type": "Negative"
                 },
                 {
-                    "text": "It confuses me but I enjoy it.",
+                    "text": "It me déroute mais j\u2019aime ça.",
                     "type": "Negative"
                 },
                 {
-                    "text": "It confuses me but I enjoy it.",
+                    "text": "Ça me déroute mais j\u2019aime ça.",
                     "type": "Negative"
                 },
                 {
-                    "text": "It confuses me but I enjoy it.",
+                    "text": "Ça me confond mais j\u2019aime ça.",
                     "type": "Negative"
                 }
             ],
@@ -726,26 +726,26 @@
             "id": 43863,
             "choices": [],
             "prompt": {
-                "text": "What are your general thoughts on <i>Game of Thrones<\/i>?"
+                "text": "Que pensez-vous de <i> Game of Thrones <\/i>?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "All of the action makes me nauseous.",
+                    "text": "Toute cette action me donne la nausée.",
                     "type": "Negative"
                 },
                 {
-                    "text": "All of the action makes me nauseous.",
+                    "text": "Toute l\u2019action me donne la nausée.",
                     "type": "Negative"
                 },
                 {
-                    "text": "All of the action makes me nauseous.",
+                    "text": "Toute l\u2019action me donne la nausée.",
                     "type": "Negative"
                 },
                 {
-                    "text": "All of the action makes me nauseous.",
-                    "type": "Negative"
+                    "text": "Toute l\u2019action me donne la nausée.",
+                    "Type": "Negative"
                 }
             ],
             "prefix": {
@@ -754,14 +754,14 @@
             "id": 43856,
             "choices": [],
             "prompt": {
-                "text": "What is your general opinion of the <i>Transformers<\/i> movies?"
+                "text": "Quelle est votre opinion générale sur les films <i> Transformers <\/i>?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I\u2019m just ok at it.",
-                    "type": "Negative"
+                    "text": "Je suis d\u2019accord.",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -782,25 +782,25 @@
             "id": 45621,
             "choices": [],
             "prompt": {
-                "text": "How would you describe your cooking ability?"
+                "text": "Comment décririez-vous votre capacité à cuisiner?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I respect you.",
+                    "text": "Je vous respecte.",
                     "type": "Negative"
                 },
                 {
-                    "text": "I respect you.",
-                    "type": "Negative"
+                    "text": "Je vous respecte.",
+                    "Type": "Negative"
                 },
                 {
-                    "text": "I respect you.",
-                    "type": "Negative"
+                    "text": "Je vous respecte.",
+                    "Type": "Negative"
                 },
                 {
-                    "text": "I respect you.",
+                    "text": "Je vous respecte.",
                     "type": "Negative"
                 }
             ],
@@ -810,25 +810,25 @@
             "id": 43831,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s something you would like to tell your boss?"
+                "text": "Qu\u2019est-ce que quelque chose vous aimeriez dire à votre patron?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It hurts my mouth.",
+                    "text": "Ça me fait mal à la bouche.",
                     "type": "Negative"
                 },
                 {
-                    "text": "It hurts my mouth.",
+                    "text": "Ça me fait mal à la bouche.",
                     "type": "Negative"
                 },
                 {
-                    "text": "It hurts my mouth.",
+                    "text": "Ça me fait mal à la bouche.",
                     "type": "Negative"
                 },
                 {
-                    "text": "It hurts my mouth.",
+                    "text": "Ça me fait mal à la bouche.",
                     "type": "Negative"
                 }
             ],
@@ -838,26 +838,26 @@
             "id": 43769,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s your opinion on extra crunchy peanut butter?"
+                "text": "Quelle est votre opinion sur le beurre d\u2019arachide extra croquant?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I\u2019m grateful that I don\u2019t have one.",
+                    "text": "Je suis reconnaissant de ne pas en avoir.",
                     "type": "Negative"
                 },
                 {
-                    "text": "I\u2019m grateful that I don\u2019t have one.",
-                    "type": "Negative"
+                    "text": "Je suis reconnaissant d\u2019avoir Je n\u2019en ai pas.",
+                    "Type": "Negative"
                 },
                 {
-                    "text": "I\u2019m grateful that I don\u2019t have one.",
-                    "type": "Negative"
+                    "text": "Je suis reconnaissant de ne pas en avoir.",
+                    "Type": "Negative"
                 },
                 {
-                    "text": "I\u2019m grateful that I don\u2019t have one.",
-                    "type": "Negative"
+                    "text": "Je suis reconnaissant de ne pas en avoir.",
+                    "Type": "Negative"
                 }
             ],
             "prefix": {
@@ -866,26 +866,26 @@
             "id": 43704,
             "choices": [],
             "prompt": {
-                "text": "What are your thoughts on gluten-free diets?"
+                "text": "Que pensez-vous des régimes sans gluten?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I think their costumes look neat.",
+                    "text": "Je pense que leurs costumes ont l\u2019air bien.",
                     "type": "Negative"
                 },
                 {
-                    "text": "I think their costumes look neat.",
-                    "type": "Negative"
+                    "text": "Je pense que leurs costumes ont l\u2019air bien.",
+                    "Type": "Negative"
                 },
                 {
-                    "text": "I think their costumes look neat.",
-                    "type": "Negative"
+                    "text": "Je pense que leurs costumes ont l\u2019air bien.",
+                    "Type": "Negative"
                 },
                 {
-                    "text": "I think their costumes look neat.",
-                    "type": "Negative"
+                    "text": "Je pense que leurs costumes ont l\u2019air bien.",
+                    "Type": "Negative"
                 }
             ],
             "prefix": {
@@ -894,26 +894,26 @@
             "id": 43755,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s your opinion on people who cosplay?"
+                "text": "Quelle est votre opinion sur les gens qui font du cosplay?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "You\u2019ll never see me on one!",
+                    "text": "Vous ne me verrez jamais seul!",
                     "type": "Negative"
                 },
                 {
-                    "text": "You\u2019ll never see me on one!",
+                    "text": "Vous ne me verrez jamais seul!",
                     "type": "Negative"
                 },
                 {
-                    "text": "You\u2019ll never see me on one!",
+                    "text": "Vous ne me verrez jamais seul!",
                     "type": "Negative"
                 },
                 {
-                    "text": "You\u2019ll never see me on one!",
-                    "type": "Negative"
+                    "text": "Vous ne me verrez jamais seul!",
+                    "Type": "Negative"
                 }
             ],
             "prefix": {
@@ -922,13 +922,13 @@
             "id": 43756,
             "choices": [],
             "prompt": {
-                "text": "What do you think about nude beaches?"
+                "text": "Que pensez-vous des plages nudistes?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I\u2019m not getting my hopes up.",
+                    "text": "Je n\u2019ai pas espoir.",
                     "type": "Negative"
                 },
                 {
@@ -950,13 +950,13 @@
             "id": 43768,
             "choices": [],
             "prompt": {
-                "text": "How do you feel when you hear, \u201cA technician will be there between noon and six\u201d?"
+                "text": "Comment vous sentez-vous lorsque l'on vous dit qu'un technicien arrivera entre midi et six heure ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I go straight to the Hard Rock cafe.",
+                    "text": "Je vais directement au Hard Rock cafe.",
                     "type": "Negative"
                 },
                 {
@@ -978,14 +978,14 @@
             "id": 43805,
             "choices": [],
             "prompt": {
-                "text": "You have two hours in New Orleans. What do you do?"
+                "text": "Vous avez deux heures à la Nouvelle-Orléans.Que faites-vous?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "He\u2019s a talented young man who has a bit of an attitude problem.",
-                    "type": "Negative"
+                    "text": "C\u2019est un jeune homme talentueux qui a un petit problème d\u2019attitude.",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -1006,13 +1006,13 @@
             "id": 43816,
             "choices": [],
             "prompt": {
-                "text": "What are your thoughts on Justin Bieber?"
+                "text": "Que pensez-vous de Justin Bieber?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Thanks for having my back.",
+                    "text": "Merci de m\u2019avoir soutenu.",
                     "type": "Negative"
                 },
                 {
@@ -1034,13 +1034,13 @@
             "id": 43817,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s something you\u2019d like to tell your next door neighbor?"
+                "text": "Quelque chose que vous aimeriez dire à votre voisin?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "They make me laugh more than anything.",
+                    "text": "Ils me font rire plus que tout.",
                     "type": "Negative"
                 },
                 {
@@ -1062,14 +1062,14 @@
             "id": 43827,
             "choices": [],
             "prompt": {
-                "text": "How do you feel about puns?"
+                "text": "Que pensez-vous des jeux de mots?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "They must love their family.",
-                    "type": "Negative"
+                    "text": "Ils doivent aimer leur famille.",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -1090,13 +1090,13 @@
             "id": 43869,
             "choices": [],
             "prompt": {
-                "text": "What do you think about people who camp out for Black Friday sales?"
+                "text": "Que pensez-vous des gens qui campent pour les soldes du Black Friday?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I support their right to.",
+                    "text": "Je soutiens leur droit de.",
                     "type": "Negative"
                 },
                 {
@@ -1118,14 +1118,14 @@
             "id": 43830,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s your opinion on putting ketchup on hot dogs?"
+                "text": "Quel est votre opinion sur la mise du ketchup sur les hot dogs?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Um, excuse me. That\u2019s rude.",
-                    "type": "Negative"
+                    "text": "Euh,excusez-moi.C\u2019est impoli.",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -1146,13 +1146,13 @@
             "id": 43854,
             "choices": [],
             "prompt": {
-                "text": "What would you like to say to someone who cuts in front of you in line?"
+                "text": "Qu\u2019aimeriez-vous dire à quelqu\u2019un qui coupe devant vous en ligne?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I love to wear them around the house.",
+                    "text": "J\u2019adore les porter à la maison.",
                     "type": "Negative"
                 },
                 {
@@ -1174,14 +1174,14 @@
             "id": 43965,
             "choices": [],
             "prompt": {
-                "text": "How do you feel about Crocs?"
+                "text": "Que pensez-vous des Crocs?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "They\u2019re very convenient.",
-                    "type": "Negative"
+                    "text": "Ils sont très pratiques.",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -1202,13 +1202,13 @@
             "id": 48529,
             "choices": [],
             "prompt": {
-                "text": "How do you feel about cargo shorts?"
+                "text": "Que pensez-vous des shorts cargo?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s what keeps me alive.",
+                    "text": "C\u2019est ce qui me maintient en vie.",
                     "type": "Negative"
                 },
                 {
@@ -1230,13 +1230,13 @@
             "id": 44154,
             "choices": [],
             "prompt": {
-                "text": "How do you feel about coffee?"
+                "text": "Que pensez-vous du café?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It gets me to the dance floor.",
+                    "text": "Ça m\u2019amène à la piste de danse.",
                     "type": "Negative"
                 },
                 {
@@ -1258,13 +1258,13 @@
             "id": 44158,
             "choices": [],
             "prompt": {
-                "text": "How do you feel about country music?"
+                "text": "Que pensez-vous de la musique country?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I feel pretty chirpy right now.",
+                    "text": "Je me sens assez gazouillis en ce moment.",
                     "type": "Negative"
                 },
                 {
@@ -1286,13 +1286,13 @@
             "id": 44159,
             "choices": [],
             "prompt": {
-                "text": "How would you describe your current mood?"
+                "text": "Comment décririez-vous votre humeur actuelle?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I scream like a little girl.",
+                    "text": "Je crie comme un peu girl.",
                     "type": "Negative"
                 },
                 {
@@ -1314,14 +1314,14 @@
             "id": 44155,
             "choices": [],
             "prompt": {
-                "text": "When you see a spider, how do you usually react?"
+                "text": "Quand vous voyez une araignée,comment réagissez-vous habituellement?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I don\u2019t feel well.",
-                    "type": "Negative"
+                    "text": "Je ne me sens pas bien.",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -1342,13 +1342,13 @@
             "id": 44161,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s your go-to excuse for getting out of an obligation?"
+                "text": "Que voulez-vous -pour excuser de se soustraire à une obligation?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "They\u2019re usually not true.",
+                    "text": "Ils ne sont généralement pas vrais.",
                     "type": "Negative"
                 },
                 {
@@ -1370,13 +1370,13 @@
             "id": 44160,
             "choices": [],
             "prompt": {
-                "text": "What are your general thoughts on political memes?"
+                "text": "Quelle est votre opinion générale sur les politiques?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Hey, y\u2019all, hope you\u2019re having a blessed day!",
+                    "text": "Hé, vous tous, j\u2019espère que vous passez une journée bénie!",
                     "type": "Negative"
                 },
                 {
@@ -1398,14 +1398,14 @@
             "id": 44163,
             "choices": [],
             "prompt": {
-                "text": "If you were a sitcom character, what would your catchphrase be?"
+                "text": "Si vous étiez un personnage de sitcom, quel serait votre slogan?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Here lies a man devoted to God.",
-                    "type": "Negative"
+                    "text": "Ici se trouve un homme dévoué à Dieu.",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -1426,13 +1426,13 @@
             "id": 44164,
             "choices": [],
             "prompt": {
-                "text": "What would you like your tombstone to say?"
+                "text": "Que voudriez-vous que votre tombe dise de vous ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It makes me feel in touch with nature.",
+                    "text": "Cela me fait me sentir en contact avec la nature.",
                     "type": "Negative"
                 },
                 {
@@ -1454,14 +1454,14 @@
             "id": 44167,
             "choices": [],
             "prompt": {
-                "text": "What are your thoughts on camping?"
+                "text": "Que pensez-vous du camping?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I liked the one at my wedding.",
-                    "type": "Negative"
+                    "text": "J\u2019ai aimé celui de mon mariage.",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -1482,13 +1482,13 @@
             "id": 48530,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s your opinion of DJs?"
+                "text": "Quelle est votre opinion sur les DJ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Please hurry up!",
+                    "text": "Faites vite!",
                     "type": "Negative"
                 },
                 {
@@ -1510,13 +1510,13 @@
             "id": 44169,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s something you typically yell while stuck in traffic?"
+                "text": "Qu\u2019est-ce que vous criez généralement lorsque vous êtes coincé dans la circulation?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Luckily I\u2019ve never used one.",
+                    "text": "Heureusement je n\u2019en ai jamais utilisé.",
                     "type": "Negative"
                 },
                 {
@@ -1538,13 +1538,13 @@
             "id": 44168,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s your opinion on dating apps?"
+                "text": "Quelle est votre opinion sur les applications de rencontres?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Please do your job better.",
+                    "text": "Faites mieux votre travail.",
                     "type": "Negative"
                 },
                 {
@@ -1566,13 +1566,13 @@
             "id": 44172,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s something you\u2019d like to tell your representative?"
+                "text": "Quelque chose que vous aimeriez dire à votre représentant?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "They make me feel yucky.",
+                    "text": "Ils me font me sentir dégueulasse.",
                     "type": "Negative"
                 },
                 {
@@ -1594,13 +1594,13 @@
             "id": 44246,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s your general opinion on zombie films?"
+                "text": "Quelle est votre opinion générale sur les films de zombies?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s fun with the right crowd.",
+                    "text": "C\u2019est amusant avec la bonne foule.",
                     "type": "Negative"
                 },
                 {
@@ -1622,13 +1622,13 @@
             "id": 44543,
             "choices": [],
             "prompt": {
-                "text": "How do you feel about trivia games?"
+                "text": "Que pensez-vous des jeux-questionnaires?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "She\u2019s the worst.",
+                    "text": "Elle est la pire.",
                     "type": "Negative"
                 },
                 {
@@ -1650,13 +1650,13 @@
             "id": 44170,
             "choices": [],
             "prompt": {
-                "text": "How would you describe the most annoying person at work/school?"
+                "text": "Comment décririez-vous la personne la plus ennuyeuse au travail /à l\u2019école?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It goes perfect with cookies.",
+                    "text": "Cela va parfaitement avec les cookies.",
                     "type": "Negative"
                 },
                 {
@@ -1678,13 +1678,13 @@
             "id": 44157,
             "choices": [],
             "prompt": {
-                "text": "What are your thoughts on skim milk?"
+                "text": "Que pensez-vous du lait écrémé?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Be kind to them.",
+                    "text": "Soyez gentil avec eux.",
                     "type": "Negative"
                 },
                 {
@@ -1706,13 +1706,13 @@
             "id": 45021,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s the best way to earn someone\u2019s respect?"
+                "text": "Quel est le meilleur moyen de gagner le respect de quelqu\u2019un?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s a disgusting display of gluttony.",
+                    "text": "C\u2019est un affichage dégoûtant de gourmandise.",
                     "type": "Negative"
                 },
                 {
@@ -1734,13 +1734,13 @@
             "id": 45017,
             "choices": [],
             "prompt": {
-                "text": "How do you feel about competitive eating?"
+                "text": "Comment faites-vous el à propos de l\u2019alimentation compétitive?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Happy wife, happy life.",
+                    "text": "Femme heureuse,vie heureuse.",
                     "type": "Positive"
                 },
                 {
@@ -1762,14 +1762,14 @@
             "id": 45000,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s the secret to a happy marriage?"
+                "text": "Quel est le secret d\u2019un mariage heureux?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "The floors are kinda gross.",
-                    "type": "Positive"
+                    "text": "Les sols sont un peu dégoûtants.",
+                    "Type": "Positive"
                 },
                 {
                     "text": "",
@@ -1790,13 +1790,13 @@
             "id": 44989,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s been your experience with budget hotels?"
+                "text": "Quelle a été votre expérience avec les hôtels bon marché?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I can\u2019t get enough of them!",
+                    "text": "Je ne peux pas en avoir assez!",
                     "type": "Negative"
                 },
                 {
@@ -1818,13 +1818,13 @@
             "id": 48533,
             "choices": [],
             "prompt": {
-                "text": "How do you feel about pickles?"
+                "text": "Que pensez-vous des cornichons?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I\u2019m really into gardening.",
+                    "text": "J\u2019aime vraiment le jardinage.",
                     "type": "Negative"
                 },
                 {
@@ -1846,13 +1846,13 @@
             "id": 44986,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s something most people don\u2019t know about you?"
+                "text": "Qu\u2019est- ce que la plupart des gens ne savent pas de vous?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I really enjoy your work.",
+                    "text": "J\u2019aime vraiment ton travail.",
                     "type": "Negative"
                 },
                 {
@@ -1874,13 +1874,13 @@
             "id": 44983,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s one thing you would like to say to Brad Pitt?"
+                "text": "Quelle est une chose que vous aimeriez dire à Brad Pitt?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It makes me feel clever!",
+                    "text": "Il me fait me sentir intelligent!",
                     "type": "Positive"
                 },
                 {
@@ -1902,13 +1902,13 @@
             "id": 44987,
             "choices": [],
             "prompt": {
-                "text": "Describe the feeling when people laugh at your joke."
+                "text": "Décrivez la sensation quand les gens se moquent de votre blague."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I could smell you a mile away.",
+                    "text": "Je pourrais vous sentir à un kilomètre de distance.",
                     "type": "Negative"
                 },
                 {
@@ -1930,14 +1930,14 @@
             "id": 44982,
             "choices": [],
             "prompt": {
-                "text": "What would you like to say to a guy who wears too much cologne?"
+                "text": "Qu\u2019aimeriez-vous dire à un gars qui porte trop d\u2019eau de Cologne?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Oh drats! Not again!",
-                    "type": "Negative"
+                    "text": "Oh drats! Pas encore!",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -1958,14 +1958,14 @@
             "id": 44979,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s your first thought when waking up late?"
+                "text": "Quelle est votre première pensée en vous réveillant tard?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I get super annoyed!",
-                    "type": "Negative"
+                    "text": "Je suis super ennuyé!",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -1986,13 +1986,13 @@
             "id": 48534,
             "choices": [],
             "prompt": {
-                "text": "How do you feel when someone tries to strike up a conversation with you in an elevator?"
+                "text": "Comment vous sentez-vous quand quelqu\u2019un essaie d\u2019engager une conversation avec vous dans un ascenseur?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s a rare chance to come together.",
+                    "text": "C\u2019est une rare occasion de se réunir.",
                     "type": "Positive"
                 },
                 {
@@ -2014,13 +2014,13 @@
             "id": 44977,
             "choices": [],
             "prompt": {
-                "text": "What do you enjoy about family dinners?"
+                "text": "Qu\u2019est-ce que vous appréciez dans les dîners en famille?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "No one\u2019s ever used one on me.",
+                    "text": "Personne n\u2019en a jamais utilisé un sur moi.",
                     "type": "Negative"
                 },
                 {
@@ -2042,13 +2042,13 @@
             "id": 44969,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s a good pickup line?"
+                "text": "Qu\u2019est-ce qu\u2019une bonne ligne de ramassage?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "They have good instincts.",
+                    "text": "Ils ont de bons instincts.",
                     "type": "Negative"
                 },
                 {
@@ -2070,13 +2070,13 @@
             "id": 44968,
             "choices": [],
             "prompt": {
-                "text": "What do all rich people have in common?"
+                "text": "Quoi tous les riches ont-ils en commun?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Such a proud majestic animal!",
+                    "text": "Un animal si fier et majestueux!",
                     "type": "Positive"
                 },
                 {
@@ -2098,13 +2098,13 @@
             "id": 44963,
             "choices": [],
             "prompt": {
-                "text": "Describe your thoughts when you see a lion in a zoo."
+                "text": "Décrivez ce que vous pensez quand vous voyez un lion dans un zoo."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "You can just tell he\u2019s a nice guy.",
+                    "text": "Vous pouvez juste dire qu\u2019il est un gars sympa.",
                     "type": "Positive"
                 },
                 {
@@ -2126,14 +2126,14 @@
             "id": 44973,
             "choices": [],
             "prompt": {
-                "text": "Why do people love Tom Hanks?"
+                "text": "Pourquoi les gens aiment-ils Tom Hanks?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "We both have the same work ethic.",
-                    "type": "Negative"
+                    "text": "Nous avons tous les deux la même éthique de travail.",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -2154,14 +2154,14 @@
             "id": 44958,
             "choices": [],
             "prompt": {
-                "text": "In what way are you most like your dad?"
+                "text": "De quelle manière êtes-vous le plus comme votre père?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Glad to have mine--gets me pumped!",
-                    "type": "Positive"
+                    "text": "Content d\u2019avoir le mien - me fait pomper!",
+                    "Type": "Positive"
                 },
                 {
                     "text": "",
@@ -2182,13 +2182,13 @@
             "id": 44956,
             "choices": [],
             "prompt": {
-                "text": "How do you feel about gym memberships?"
+                "text": "Que pensez-vous des abonnements à une salle de sport?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Those guys are nuts!",
+                    "text": "Ces gars sont noix!",
                     "type": "Negative"
                 },
                 {
@@ -2210,13 +2210,13 @@
             "id": 44951,
             "choices": [],
             "prompt": {
-                "text": "What are your thoughts on tornado hunters?"
+                "text": "Que pensez-vous des chasseurs de tornades?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I like that you care more about others",
+                    "text": "J\u2019aime le fait que vous vous souciez plus des autres",
                     "type": "Positive"
                 },
                 {
@@ -2238,13 +2238,13 @@
             "id": 45123,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s the best compliment someone can give you?"
+                "text": "Quel est le meilleur compliment que quelqu\u2019un puisse vous faire?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Always believe in yourself",
+                    "text": "Croyez toujours en vous",
                     "type": "Positive"
                 },
                 {
@@ -2266,13 +2266,13 @@
             "id": 44950,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s the best advice your parents ever gave you?"
+                "text": "Quel est le meilleur conseil que vos parents vous aient jamais donné?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I helped an old lady with her groceries.",
+                    "text": "J\u2019ai aidé une vieille dame avec ses courses.",
                     "type": "Positive"
                 },
                 {
@@ -2294,13 +2294,13 @@
             "id": 44942,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s the nicest thing you did today?"
+                "text": "Quelle est la plus belle chose que vous avez faite aujourd\u2019hui?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "They tend to rub me the wrong way.",
+                    "text": "Ils ont tendance à me frotter le mauvaise manière.",
                     "type": "Positive"
                 },
                 {
@@ -2322,14 +2322,14 @@
             "id": 44940,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s your opinion of the French?"
+                "text": "Quelle est votre opinion sur les Français?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I feel fulfilled.",
-                    "type": "Negative"
+                    "text": "Je me sens comblé.",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -2350,13 +2350,13 @@
             "id": 44971,
             "choices": [],
             "prompt": {
-                "text": "Briefly describe how you feel after binge-watching a TV show."
+                "text": "Décrivez brièvement ce que vous ressentez après avoir regardé une émission de télévision frénétique."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "If they\u2019re old enough, I\u2019m down",
+                    "text": "S\u2019ils sont assez vieux,je suis descendu",
                     "type": "Positive"
                 },
                 {
@@ -2378,13 +2378,13 @@
             "id": 45125,
             "choices": [],
             "prompt": {
-                "text": "How do you feel about kids with smartphones?"
+                "text": "Que pensez-vous des enfants avec des smartphones?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Can\u2019t handle \u2018em anymore.",
+                    "text": "Impossible d'en faire plus.",
                     "type": "Negative"
                 },
                 {
@@ -2406,14 +2406,14 @@
             "id": 45343,
             "choices": [],
             "prompt": {
-                "text": "How do you feel about roller coasters?"
+                "text": "Que pensez-vous des montagnes russes?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I\u2019m all for it.",
-                    "type": "Negative"
+                    "text": "Je suis tout à fait d\u2019accord.",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -2434,13 +2434,13 @@
             "id": 45612,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s your stance on net neutrality?"
+                "text": "Quelle est votre position sur la neutralité du Net?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I feel like a piece of meat.",
+                    "text": "Je me sens comme un morceau de viande.",
                     "type": "Negative"
                 },
                 {
@@ -2462,13 +2462,13 @@
             "id": 48535,
             "choices": [],
             "prompt": {
-                "text": "Briefly describe how you feel when walking through airport security."
+                "text": "Décrivez brièvement ce que vous ressentez en traversant l\u2019aéroport security."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Hey, whatever works for you.",
+                    "text": "Hé,tout ce qui fonctionne pour vous.",
                     "type": "Negative"
                 },
                 {
@@ -2490,13 +2490,13 @@
             "id": 45613,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s your opinion of people who take showers at night?"
+                "text": "Quelle est votre opinion sur les personnes qui o prendre une douche la nuit?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "The kids are alright!",
+                    "text": "Les enfants vont bien!",
                     "type": "Positive"
                 },
                 {
@@ -2518,14 +2518,14 @@
             "id": 45163,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s wrong with kids today?"
+                "text": "Quel est le problème avec les enfants aujourd\u2019hui?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I think they\u2019re a bunch of brutes.",
-                    "type": "Positive"
+                    "text": "Je pense que ce sont des brutes.",
+                    "Type": "Positive"
                 },
                 {
                     "text": "",
@@ -2546,13 +2546,13 @@
             "id": 45180,
             "choices": [],
             "prompt": {
-                "text": "What are your thoughts on MMA fighting?"
+                "text": "Que pensez-vous des combats de MMA?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Put that in your mouth and you\u2019ll regret it",
+                    "text": "Mettez ça dans votre bouche et vous le regretterez",
                     "type": "Negative"
                 },
                 {
@@ -2574,13 +2574,13 @@
             "id": 45131,
             "choices": [],
             "prompt": {
-                "text": "How do you feel about supermarket sushi?"
+                "text": "Que pensez-vous des sushis de supermarché ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "You can\u2019t stop them.",
+                    "text": "Vous ne pouvez pas les arrêter.",
                     "type": "Negative"
                 },
                 {
@@ -2602,13 +2602,13 @@
             "id": 45197,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s your stance on office romances?"
+                "text": "Quelle est votre position sur les romances au bureau?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It really riles me up!",
+                    "text": "Ça m\u2019énerve vraiment!",
                     "type": "Negative"
                 },
                 {
@@ -2630,13 +2630,13 @@
             "id": 45614,
             "choices": [],
             "prompt": {
-                "text": "How does Fox News make you feel?"
+                "text": "Que ressentez-vous Fox News?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "They really inspire me!",
+                    "text": "Ils m\u2019inspirent vraiment!",
                     "type": "Positive"
                 },
                 {
@@ -2658,13 +2658,13 @@
             "id": 45173,
             "choices": [],
             "prompt": {
-                "text": "How do inspirational quotes make you feel?"
+                "text": "Comment inspirer les citations vous font sentir?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I feel smarter after going there.",
+                    "text": "Je me sens plus intelligent après y être allé.",
                     "type": "Positive"
                 },
                 {
@@ -2686,14 +2686,14 @@
             "id": 44957,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s your opinion of libraries?"
+                "text": "Quelle est votre opinion sur les bibliothèques?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I think most of them are boring. Hard pass.",
-                    "type": "Negative"
+                    "text": "Je pense que la plupart d\u2019entre eux sont ennuyeux.Hard pass.",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -2714,14 +2714,14 @@
             "id": 44677,
             "choices": [],
             "prompt": {
-                "text": "Generally speaking, how do you feel about podcasts?"
+                "text": "De manière générale,que pensez-vous des podcasts?"
             }
         },
         {
             "decoys": [
                 {
                     "text": "Draining the swamp.",
-                    "type": "Negative"
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -2742,13 +2742,13 @@
             "id": 46406,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s an expression you would ban?"
+                "text": "Quelle est une expression que vous interdiriez?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "They\u2019re crafty!",
+                    "text": "Ils sont rusés!",
                     "type": "Negative"
                 },
                 {
@@ -2770,13 +2770,13 @@
             "id": 48536,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s a great thing about millennials?"
+                "text": "Qu\u2019est-ce qui est génial avec la génération Y?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Yeah right.",
+                    "text": "Ouais c\u2019est vrai.",
                     "type": "Negative"
                 },
                 {
@@ -2798,13 +2798,13 @@
             "id": 48519,
             "choices": [],
             "prompt": {
-                "text": "What would you say to someone who brags about not owning a TV?"
+                "text": "Que diriez-vous à quelqu\u2019un qui se vante de ne pas posséder de téléviseur?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "You gotta try new things!",
+                    "text": "Tu dois essayer de nouvelles choses!",
                     "type": "Negative"
                 },
                 {
@@ -2826,13 +2826,13 @@
             "id": 46417,
             "choices": [],
             "prompt": {
-                "text": "What dating advice would you give an older person?"
+                "text": "Quel conseil de rencontre donneriez-vous à une personne âgée?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "They\u2019re shy and nerdy.",
+                    "text": "Ils sont timides et ringards.",
                     "type": "Negative"
                 },
                 {
@@ -2854,13 +2854,13 @@
             "id": 45196,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s the average <i>World of Warcraft<\/i> player like?"
+                "text": "À quoi ressemble le joueur moyen de <i> World of Warcraft <\/i>?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Oh, I wish I had some cash.",
+                    "text": "Oh,j\u2019aimerais bien avait de l\u2019argent liquide.",
                     "type": "Negative"
                 },
                 {
@@ -2882,14 +2882,14 @@
             "id": 45617,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s your reaction when you see there\u2019s a bathroom attendant?"
+                "text": "Quelle est votre réaction lorsque vous voyez un préposé aux toilettes?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Please refrain.",
-                    "type": "Negative"
+                    "text": "Veuillez vous abstenir.",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -2910,13 +2910,13 @@
             "id": 46414,
             "choices": [],
             "prompt": {
-                "text": "What would you say to someone who texts during a movie?"
+                "text": "Que diriez-vous à quelqu\u2019un qui envoie un SMS pendant un film?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I can\u2019t eat enough swordfish!",
+                    "text": "Je ne peux pas manger assez d\u2019espadon!",
                     "type": "Negative"
                 },
                 {
@@ -2938,13 +2938,13 @@
             "id": 46418,
             "choices": [],
             "prompt": {
-                "text": "How do you feel about seafood?"
+                "text": "Que pensez-vous des fruits de mer?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I agree--he\u2019s out there!",
+                    "text": "Je suis d\u2019accord - il est là-bas!",
                     "type": "Positive"
                 },
                 {
@@ -2966,14 +2966,14 @@
             "id": 45162,
             "choices": [],
             "prompt": {
-                "text": "What would you say to someone who believes Bigfoot is real?"
+                "text": "Que diriez-vous à quelqu\u2019un qui pense que Bigfoot est réel?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Because they are terrible.",
-                    "type": "Negative"
+                    "text": "Parce qu\u2019ils sont terribles.",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -2994,14 +2994,14 @@
             "id": 46478,
             "choices": [],
             "prompt": {
-                "text": "Why do so many people make fun of Nickelback?"
+                "text": "Pourquoi tant de gens se moquent de Nickelback?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Do it in person.",
-                    "type": "Negative"
+                    "text": "Faites-le en personne.",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -3022,13 +3022,13 @@
             "id": 46569,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s a nice way to break up with somebody?"
+                "text": "Quelle est la meilleure façon de rompre avec quelqu\u2019un?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "People should work together more.",
+                    "text": "Les gens devraient travailler davantage ensemble.",
                     "type": "Negative"
                 },
                 {
@@ -3050,13 +3050,13 @@
             "id": 46487,
             "choices": [],
             "prompt": {
-                "text": "What are your thoughts on the current political climate?"
+                "text": "Que pensez-vous du climat politique actuel?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "This was very surprising!",
+                    "text": "C\u2019était très surprenant!",
                     "type": "Negative"
                 },
                 {
@@ -3078,14 +3078,14 @@
             "id": 46572,
             "choices": [],
             "prompt": {
-                "text": "What do you say to someone when you don\u2019t like their cooking?"
+                "text": "Que dites-vous à quelqu\u2019un quand vous n\u2019aimez pas sa cuisine?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "They do some good work.",
-                    "type": "Negative"
+                    "text": "Ils font du bon travail.",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -3106,13 +3106,13 @@
             "id": 46488,
             "choices": [],
             "prompt": {
-                "text": "What do you think of animal rights activists?"
+                "text": "Que pensez-vous des militants des droits des animaux?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I\u2019m the peacemaker.",
+                    "text": "Je suis le pacificateur.",
                     "type": "Negative"
                 },
                 {
@@ -3134,13 +3134,13 @@
             "id": 46579,
             "choices": [],
             "prompt": {
-                "text": "How would you explain your role in your family?"
+                "text": "Comment expliquez-vous votre rôle dans votre famille?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Because they\u2019re awesome!",
+                    "text": "Parce qu\u2019ils sont géniaux!",
                     "type": "Negative"
                 },
                 {
@@ -3162,13 +3162,13 @@
             "id": 48526,
             "choices": [],
             "prompt": {
-                "text": "Why do you think there are so many <i>Fast and the Furious<\/i> movies?"
+                "text": "Pourquoi pensez-vous qu\u2019il y a tant de films Fast and the Furious ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I\u2019m happy.",
+                    "text": "Je suis heureux.",
                     "type": "Negative"
                 },
                 {
@@ -3190,14 +3190,14 @@
             "id": 46471,
             "choices": [],
             "prompt": {
-                "text": "What do you think is the most common lie people tell?"
+                "text": "Selon vous,quel est le mensonge le plus courant des gens?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Heard any good jokes lately?",
-                    "type": "Negative"
+                    "text": "Vous avez entendu de bonnes blagues ces derniers temps?",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -3218,13 +3218,13 @@
             "id": 46610,
             "choices": [],
             "prompt": {
-                "text": "What do you say when conversations lull?"
+                "text": "Que dites-vous quand les conversations s\u2019endormissent?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I am finished discussing this.",
+                    "text": "J\u2019ai fini d\u2019en discuter.",
                     "type": "Negative"
                 },
                 {
@@ -3246,13 +3246,13 @@
             "id": 46587,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s your nuclear phrase that ends any argument?"
+                "text": "Quelle est votre phrase nucléaire qui met fin à un argument?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I don\u2019t get it.",
+                    "text": "Je ne comprends pas.",
                     "type": "Negative"
                 },
                 {
@@ -3274,7 +3274,7 @@
             "id": 49413,
             "choices": [],
             "prompt": {
-                "text": "How do you feel about modern art?"
+                "text": "Que pensez-vous de l\u2019art moderne?"
             }
         },
         {
@@ -3302,13 +3302,13 @@
             "id": 48516,
             "choices": [],
             "prompt": {
-                "text": "How do you feel about ukulele music?"
+                "text": "Que pensez-vous de la musique de ukulélé?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "All you need is love.",
+                    "text": "Tout ce dont vous avez besoin,c\u2019est d\u2019amour.",
                     "type": "Negative"
                 },
                 {
@@ -3330,13 +3330,13 @@
             "id": 46573,
             "choices": [],
             "prompt": {
-                "text": "What cliché line do you use the most?"
+                "text": "Quelle ligne de cliché utilisez-vous le plus?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "They\u2019re fake but they scare me!",
+                    "text": "Ils sont faux mais ils me font peur!",
                     "type": "Negative"
                 },
                 {
@@ -3358,13 +3358,13 @@
             "id": 45200,
             "choices": [],
             "prompt": {
-                "text": "How would you describe your stance on ghosts?"
+                "text": "Comment décririez-vous votre position sur les fantômes ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "You are terrible at your job!",
+                    "text": "Vous êtes mauvais dans votre travail!",
                     "type": "Negative"
                 },
                 {
@@ -3386,13 +3386,13 @@
             "id": 49440,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s something you\u2019d like to say to a bad customer service rep?"
+                "text": "Qu\u2019est-ce que vous aimeriez dire à un mauvais représentant du service client?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I think it\u2019s overrated.",
+                    "text": "Je pense que c\u2019est surestimé.",
                     "type": "Negative"
                 },
                 {
@@ -3414,13 +3414,13 @@
             "id": 48528,
             "choices": [],
             "prompt": {
-                "text": "How do you feel about chocolate?"
+                "text": "Que pensez-vous du chocolat?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "They\u2019re doing a lot of harm.",
+                    "text": "Ils font beaucoup de mal.",
                     "type": "Negative"
                 },
                 {
@@ -3442,13 +3442,13 @@
             "id": 49258,
             "choices": [],
             "prompt": {
-                "text": "How do you feel about parents who don\u2019t vaccinate their children?"
+                "text": "Comment vous sentez-vous des parents qui ne font pas vacciner leurs enfants?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "How about that weather?",
+                    "text": "Que diriez-vous de ce temps?",
                     "type": "Negative"
                 },
                 {
@@ -3470,7 +3470,7 @@
             "id": 46627,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s your go-to small talk line?"
+                "text": "Quelle est votre ligne de conversation privilégiée?"
             }
         },
         {
@@ -3498,13 +3498,13 @@
             "id": 46734,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s the first product slogan that comes to mind?"
+                "text": "Quel est le premier slogan de produit qui me vient à l\u2019esprit?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I\u2019d have to agree with you.",
+                    "text": "Je dois être d\u2019accord avec vous.",
                     "type": "Negative"
                 },
                 {
@@ -3526,13 +3526,13 @@
             "id": 46816,
             "choices": [],
             "prompt": {
-                "text": "What would you say to someone who thinks cake is better than pie?"
+                "text": "Que diriez-vous à quelqu\u2019un qui pense que le gâteau vaut mieux que la tarte?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "He\u2019s overrated.",
+                    "text": "Il surfait.",
                     "type": "Negative"
                 },
                 {
@@ -3554,13 +3554,13 @@
             "id": 46792,
             "choices": [],
             "prompt": {
-                "text": "What do you think about Shakespeare?"
+                "text": "Que pensez-vous de Shakespeare?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "He\u2019s so dreamy!",
+                    "text": "Il est si rêveur!",
                     "type": "Negative"
                 },
                 {
@@ -3582,13 +3582,13 @@
             "id": 48523,
             "choices": [],
             "prompt": {
-                "text": "What are your thoughts on Canadian Prime Minister Justin Trudeau?"
+                "text": "Que sont y nos réflexions sur le Premier ministre canadien Justin Trudeau?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Noooooo!!!",
+                    "text": "Noooooo !!!",
                     "type": "Negative"
                 },
                 {
@@ -3610,13 +3610,13 @@
             "id": 49260,
             "choices": [],
             "prompt": {
-                "text": "What would you say if your doctor told you that you have to lay off sugar for a month?"
+                "text": "Que diriez-vous si votre médecin vous disait que vous devez mettre le sucre à la porte pendant un mois?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s completely natural!",
+                    "text": "C\u2019est tout à fait naturel!",
                     "type": "Negative"
                 },
                 {
@@ -3638,13 +3638,13 @@
             "id": 46778,
             "choices": [],
             "prompt": {
-                "text": "How do you feel about nudity on television?"
+                "text": "Que pensez-vous de la nudité à la télévision?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "They\u2019re doing the right thing.",
+                    "text": "Ils font ce qu\u2019il faut chose.",
                     "type": "Negative"
                 },
                 {
@@ -3666,14 +3666,14 @@
             "id": 48537,
             "choices": [],
             "prompt": {
-                "text": "People who ghost at parties. Your thoughts?"
+                "text": "Les gens qui fantômes lors des fêtes.Vos pensées?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Good morning, everyone.",
-                    "type": "Negative"
+                    "text": "Bonjour à tous.",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -3694,14 +3694,14 @@
             "id": 49249,
             "choices": [],
             "prompt": {
-                "text": "What was one of the first things you said today?"
+                "text": "Quelle a été l\u2019une des premières choses que vous avez dites aujourd\u2019hui?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "You\u2019re a bad person!",
-                    "type": "Negative"
+                    "text": "Vous êtes une mauvaise personne!",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -3722,13 +3722,13 @@
             "id": 48520,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s a good line to shout out during a fit of road rage?"
+                "text": "Quelle est la bonne réplique à crier lors d\u2019une crise de rage au volant?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I\u2019m all for it.",
+                    "text": "Je suis tout à fait d\u2019accord.",
                     "type": "Negative"
                 },
                 {
@@ -3750,13 +3750,13 @@
             "id": 46771,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s your stance on the death penalty?"
+                "text": "Quelle est votre position sur la peine de mort?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "We have the same sense of humor.",
+                    "text": "Nous avons le même sens de l\u2019humour.",
                     "type": "Negative"
                 },
                 {
@@ -3778,13 +3778,13 @@
             "id": 49262,
             "choices": [],
             "prompt": {
-                "text": "How are you most like your mom?"
+                "text": "Comment êtes-vous le plus comme votre maman?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "They\u2019re a waste!",
+                    "text": "Ils sont un gaspillage!",
                     "type": "Negative"
                 },
                 {
@@ -3806,7 +3806,7 @@
             "id": 46738,
             "choices": [],
             "prompt": {
-                "text": "What do you think about people who don\u2019t recycle?"
+                "text": "Que pensez-vous des gens qui ne recyclent pas?"
             }
         },
         {
@@ -3834,13 +3834,13 @@
             "id": 48499,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s a really terrible music lyric?"
+                "text": "Quelle est la musique avec les pires lyrics ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "They\u2019re pretty crazy.",
+                    "text": "Ils sont assez fous.",
                     "type": "Negative"
                 },
                 {
@@ -3862,13 +3862,13 @@
             "id": 49421,
             "choices": [],
             "prompt": {
-                "text": "What do you think about people who live on communes?"
+                "text": "Que pensez-vous des gens qui vivent dans les communes?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "They look dumb.",
+                    "text": "Ils ont l\u2019air idiot.",
                     "type": "Negative"
                 },
                 {
@@ -3890,14 +3890,14 @@
             "id": 46770,
             "choices": [],
             "prompt": {
-                "text": "Cops on Segways. Your thoughts?"
+                "text": "Flics sur Segway.Vos pensées?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I agree with most of it.",
-                    "type": "Negative"
+                    "text": "Je suis d\u2019accord avec la plupart d\u2019entre eux.",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -3918,13 +3918,13 @@
             "id": 46769,
             "choices": [],
             "prompt": {
-                "text": "How do you feel about how your tax dollars are spent?"
+                "text": "Que pensez-vous de la façon dont vos impôts sont dépensés?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s just an excuse to make money",
+                    "text": "C\u2019est juste une excuse pour gagner de l\u2019argent",
                     "type": "Negative"
                 },
                 {
@@ -3946,13 +3946,13 @@
             "id": 44583,
             "choices": [],
             "prompt": {
-                "text": "How do you feel about Valentine\u2019s Day?"
+                "text": "Que pensez-vous de la Saint-Valentin?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It really raises my heart rate!",
+                    "text": "Cela augmente vraiment ma fréquence cardiaque!",
                     "type": "Negative"
                 },
                 {
@@ -3974,13 +3974,13 @@
             "id": 48525,
             "choices": [],
             "prompt": {
-                "text": "How do you feel about scary movies?"
+                "text": "Que pensez-vous des films d\u2019horreur ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s everyone\u2019s choice, but not for me.",
+                    "text": "C\u2019est le choices de tout le monde,mais pas pour moi.",
                     "type": "Negative"
                 },
                 {
@@ -4002,13 +4002,13 @@
             "id": 46766,
             "choices": [],
             "prompt": {
-                "text": "How do you feel about people wearing fur?"
+                "text": "Comment vous sentez-vous sur les gens qui portent de la fourrure?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Crap!",
+                    "text": "Merde!",
                     "type": "Negative"
                 },
                 {
@@ -4030,13 +4030,13 @@
             "id": 49252,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s your favorite bad word?"
+                "text": "Quel est votre mauvais mot préféré?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It seems like a really cool place.",
+                    "text": "Cela ressemble à un endroit vraiment cool.",
                     "type": "Negative"
                 },
                 {
@@ -4058,14 +4058,14 @@
             "id": 49398,
             "choices": [],
             "prompt": {
-                "text": "What do you think about Amsterdam?"
+                "text": "Que pensez-vous d\u2019 Amsterdam?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s completely bonkers.",
-                    "type": "Negative"
+                    "text": "C\u2019est complètement dingue.",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -4086,14 +4086,14 @@
             "id": 48538,
             "choices": [],
             "prompt": {
-                "text": "What do you think about the theory that aliens built the pyramids?"
+                "text": "Que pensez-vous de la théorie selon laquelle les extraterrestres ont construit les pyramides?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Yeah, baby. Yeah!",
-                    "type": "Negative"
+                    "text": "Ouais,bébé.Ouais!",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -4114,14 +4114,14 @@
             "id": 49254,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s one of your favorite movie quotes?"
+                "text": "Quelle est l\u2019une de vos citations de films préférées?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I love positive people!",
-                    "type": "Negative"
+                    "text": "J\u2019adore les gens positifs!",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -4142,14 +4142,14 @@
             "id": 46480,
             "choices": [],
             "prompt": {
-                "text": "Describe an attitude you admire."
+                "text": "Décrivez une attitude que vous admirez."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s all so fake.",
-                    "type": "Negative"
+                    "text": "Tout est si faux.",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -4170,13 +4170,13 @@
             "id": 48524,
             "choices": [],
             "prompt": {
-                "text": "What are your thoughts on professional wrestling?"
+                "text": "Que pensez-vous de la lutte professionnelle?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s nonexistant!",
+                    "text": "Inexistant!",
                     "type": "Negative"
                 },
                 {
@@ -4198,13 +4198,13 @@
             "id": 49366,
             "choices": [],
             "prompt": {
-                "text": "How\u2019s your retirement fund doing?"
+                "text": "Comment se déroule votre retraite fu nd faire?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Did I do that?",
+                    "text": "Ai-je fait ça?",
                     "type": "Negative"
                 },
                 {
@@ -4226,14 +4226,14 @@
             "id": 49255,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s one of your all-time favorite TV quotes?"
+                "text": "Quelle est l\u2019une de vos citations télévisées préférées de tous les temps?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "She\u2019s a great friend!",
-                    "type": "Negative"
+                    "text": "C\u2019est une grande amie!",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -4254,13 +4254,13 @@
             "id": 49484,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s a nice thing you could say about the person closest to you right now?"
+                "text": "Qu\u2019est-ce que vous pourriez dire de gentil à propos de la personne la plus proche de vous en ce moment?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "You\u2019re a poopy head.",
+                    "text": "Vous êtes une tête de merde.",
                     "type": "Negative"
                 },
                 {
@@ -4282,13 +4282,13 @@
             "id": 49250,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s your favorite insult?"
+                "text": "Quelle est votre insulte préférée?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "So what do you think about politics?",
+                    "text": "Alors que pensez-vous de la politique?",
                     "type": "Negative"
                 },
                 {
@@ -4310,13 +4310,13 @@
             "id": 46466,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s a good conversation-starter question?"
+                "text": "Quelle est une bonne question pour démarrer une conversation ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I can\u2019t get enough!",
+                    "text": "Je ne peux pas en avoir assez!",
                     "type": "Negative"
                 },
                 {
@@ -4338,13 +4338,13 @@
             "id": 46403,
             "choices": [],
             "prompt": {
-                "text": "What do you think of anchovies?"
+                "text": "Que pensez-vous des anchois?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s a hot dumpster fire.",
+                    "text": "C\u2019est un feu chaud de benne à ordures.",
                     "type": "Negative"
                 },
                 {
@@ -4366,14 +4366,14 @@
             "id": 48522,
             "choices": [],
             "prompt": {
-                "text": "How would you describe politics in 2017?"
+                "text": "Comment décririez-vous la politique en 2017?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "We\u2019re misunderstood.",
-                    "type": "Negative"
+                    "text": "Nous sommes mal compris.",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -4394,13 +4394,13 @@
             "id": 46643,
             "choices": [],
             "prompt": {
-                "text": "How would you describe your generation?"
+                "text": "Comment décririez-vous votre génération?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s ok to fail.",
+                    "text": "Il est normal d\u2019échouer.",
                     "type": "Negative"
                 },
                 {
@@ -4422,14 +4422,14 @@
             "id": 43849,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s something you would tell your younger self?"
+                "text": "Que diriez-vous à votre jeune moi?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Because she\u2019s beautiful.",
-                    "type": "Negative"
+                    "text": "Parce qu\u2019elle est belle.",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -4450,13 +4450,13 @@
             "id": 49478,
             "choices": [],
             "prompt": {
-                "text": "Why is the Mona Lisa so popular?"
+                "text": "Pourquoi la Joconde est-elle si populaire?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I think he wears too many scarves.",
+                    "text": "Je pense qu\u2019il porte trop de foulards.",
                     "type": "Negative"
                 },
                 {
@@ -4478,7 +4478,7 @@
             "id": 48497,
             "choices": [],
             "prompt": {
-                "text": "What are your thoughts on Johnny Depp?"
+                "text": "Que pensez-vous de Johnny Depp?"
             }
         },
         {
@@ -4506,13 +4506,13 @@
             "id": 49251,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s something you like to shout out when you\u2019re excited?"
+                "text": "Qu\u2019est-ce que vous aimez crier lorsque vous êtes excité?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s not you, it\u2019s me.",
+                    "text": "Ce n\u2019est pas vous,c\u2019est moi.",
                     "type": "Negative"
                 },
                 {
@@ -4534,14 +4534,14 @@
             "id": 46763,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s a good line to use when trying to gently break up with someone?"
+                "text": "Quelle est la bonne ligne à utiliser pour rompre doucement avec quelqu\u2019un?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I want to have your babies.",
-                    "type": "Negative"
+                    "text": "Je veux avoir vos bébés.",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -4562,13 +4562,13 @@
             "id": 49256,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s a really creepy thing to whisper to somebody?"
+                "text": "Qu\u2019est-ce qui est vraiment effrayant à chuchoter à quelqu\u2019un?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "He sure is a cool guy!",
+                    "text": "C\u2019est vraiment un gars cool!",
                     "type": "Negative"
                 },
                 {
@@ -4590,13 +4590,13 @@
             "id": 49364,
             "choices": [],
             "prompt": {
-                "text": "How would your mailman probably describe you?"
+                "text": "Comment votre facteur vous décrirait probablement ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "He never sees me!",
+                    "text": "Il ne me voit jamais!",
                     "type": "Negative"
                 },
                 {
@@ -4618,13 +4618,13 @@
             "id": 49365,
             "choices": [],
             "prompt": {
-                "text": "How would your doctor probably describe you?"
+                "text": "Comment votre médecin vous décrirait-il probablement?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I hope you like screwing me!",
+                    "text": "J\u2019espère que vous aimez me baiser!",
                     "type": "Negative"
                 },
                 {
@@ -4646,14 +4646,14 @@
             "id": 49271,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s a message you\u2019d like to write on your tax forms?"
+                "text": "Quel message aimeriez-vous écrire sur vos formulaires fiscaux?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Gosh darnit!",
-                    "type": "Negative"
+                    "text": "Bon sang!",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -4674,14 +4674,14 @@
             "id": 46497,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s a phrase you use when you\u2019re mad?"
+                "text": "Quelle phrase utilisez-vous lorsque vous êtes fou?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s just a gimmick.",
-                    "type": "Negative"
+                    "text": "C\u2019est juste un gadget.",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -4702,13 +4702,13 @@
             "id": 48540,
             "choices": [],
             "prompt": {
-                "text": "How do you feel about unusual potato chip flavors?"
+                "text": "Que pensez-vous des saveurs inhabituelles de croustilles?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "They\u2019re a great team building exercise!",
+                    "text": "C\u2019est un excellent exercice de consolidation d\u2019équipe ise!",
                     "type": "Negative"
                 },
                 {
@@ -4730,14 +4730,14 @@
             "id": 49253,
             "choices": [],
             "prompt": {
-                "text": "What do you think about escape room puzzles?"
+                "text": "Que pensez-vous des puzzles de salles d\u2019évasion?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Kinda sad.",
-                    "type": "Negative"
+                    "text": "Un peu triste.",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -4758,14 +4758,14 @@
             "id": 48527,
             "choices": [],
             "prompt": {
-                "text": "How do you usually feel on your birthday?"
+                "text": "Comment vous sentez-vous habituellement le jour de votre anniversaire?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I prefer organic.",
-                    "type": "Negative"
+                    "text": "Je préfère le bio.",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -4786,13 +4786,13 @@
             "id": 47162,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s your opinion on GMO food?"
+                "text": "Quelle est votre opinion sur les aliments OGM?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "You will get very rich.",
+                    "text": "Vous deviendrez très riche.",
                     "type": "Negative"
                 },
                 {
@@ -4814,14 +4814,14 @@
             "id": 46835,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s a lame fortune cookie saying?"
+                "text": "Que dit un biscuit de fortune boiteux?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s nice to do once in a while.",
-                    "type": "Negative"
+                    "text": "C\u2019est bien de faire de temps en temps.",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -4842,13 +4842,13 @@
             "id": 48539,
             "choices": [],
             "prompt": {
-                "text": "How do you feel about serving breakfast for dinner?"
+                "text": "Que pensez-vous de servir le petit-déjeuner pour le dîner?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Lock her up!",
+                    "text": "Enfermez-la!",
                     "type": "Negative"
                 },
                 {
@@ -4870,13 +4870,13 @@
             "id": 46745,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s a political phrase or slogan you\u2019re tired of hearing?"
+                "text": "Quelle est une phrase ou un slogan politique que vous êtes fatigué d\u2019entendre?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "They make me wanna puke",
+                    "text": "Ils me donnent envie de vomir",
                     "type": "Negative"
                 },
                 {
@@ -4898,13 +4898,13 @@
             "id": 44450,
             "choices": [],
             "prompt": {
-                "text": "How do you feel about really ripe bananas?"
+                "text": "Comment vous sentez-vous à propos des bananes vraiment mûres?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Please make it stop!",
+                    "text": "Veuillez arrêter!",
                     "type": "Negative"
                 },
                 {
@@ -4926,14 +4926,14 @@
             "id": 49209,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s something you often want to shout while watching the news?"
+                "text": "Qu\u2019est-ce que vous voulez souvent crier en regardant les actualités?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I could write more.",
-                    "type": "Negative"
+                    "text": "Je pourrais en écrire plus.",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -4954,13 +4954,13 @@
             "id": 46489,
             "choices": [],
             "prompt": {
-                "text": "How could you be a better friend?"
+                "text": "Comment pourriez-vous être un meilleur ami?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It fills me with joy!",
+                    "text": "Ça me remplit de joie!",
                     "type": "Negative"
                 },
                 {
@@ -4982,13 +4982,13 @@
             "id": 48521,
             "choices": [],
             "prompt": {
-                "text": "How do you feel about Christmas?"
+                "text": "Que pensez-vous de Noël?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Too religious for me.",
+                    "text": "Trop religieux pour moi.",
                     "type": "Negative"
                 },
                 {
@@ -5010,13 +5010,13 @@
             "id": 49261,
             "choices": [],
             "prompt": {
-                "text": "How do you feel about Easter?"
+                "text": "Que pensez-vous de Pâques?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I have a lot to do tomorrow.",
+                    "text": "J\u2019ai beaucoup à faire demain.",
                     "type": "Negative"
                 },
                 {
@@ -5038,13 +5038,13 @@
             "id": 48542,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s a thought you commonly have when trying to fall asleep?"
+                "text": "Qu\u2019est-ce que vous pensez souvent en essayant de vous endormir?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Kids really seem to like them.",
+                    "text": "Les enfants semblent vraiment les aimer.",
                     "type": "Negative"
                 },
                 {
@@ -5066,13 +5066,13 @@
             "id": 47554,
             "choices": [],
             "prompt": {
-                "text": "How do you feel about fidget spinners?"
+                "text": "Que pensez-vous des spinners fidget?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Her music annoys me.",
+                    "text": "Sa musique m\u2019ennuie.",
                     "type": "Negative"
                 },
                 {
@@ -5094,13 +5094,13 @@
             "id": 49236,
             "choices": [],
             "prompt": {
-                "text": "What are your thoughts on Taylor Swift?"
+                "text": "Que pensez-vous de Taylor Swift ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "It\u2019s super boring.",
+                    "text": "C\u2019est super ennuyeux.",
                     "type": "Negative"
                 },
                 {
@@ -5122,14 +5122,14 @@
             "id": 43987,
             "choices": [],
             "prompt": {
-                "text": "What are your thoughts on golf?"
+                "text": "Que pensez-vous du golf?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Ohhh yeah. Daddy likes.",
-                    "type": "Negative"
+                    "text": "Ohhh ouais.Papa aime.",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -5150,13 +5150,13 @@
             "id": 43743,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s something you\u2019d whisper to yourself while in a hot tub?"
+                "text": "Qu\u2019est-ce que vous vous murmurez vous- même dans un bain à remous?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "You don\u2019t know me!",
+                    "text": "Vous ne me connaissez pas!",
                     "type": "Negative"
                 },
                 {
@@ -5178,13 +5178,13 @@
             "id": 49363,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s something you\u2019d like to tell your haters?"
+                "text": "Quelque chose que vous aimeriez faire dites à vos ennemis?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "How\u2019s everything tasting?",
+                    "text": "Comment tout goûte-t-il?",
                     "type": "Negative"
                 },
                 {
@@ -5206,14 +5206,14 @@
             "id": 48498,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s something an obnoxious waiter always says?"
+                "text": "Qu\u2019est-ce qu\u2019un serveur désagréable dit toujours?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I don\u2019t get it.",
-                    "type": "Negative"
+                    "text": "Je ne comprends pas.",
+                    "Type": "Negative"
                 },
                 {
                     "text": "",
@@ -5234,13 +5234,13 @@
             "id": 48541,
             "choices": [],
             "prompt": {
-                "text": "How do you feel about anime?"
+                "text": "Que pensez-vous de l\u2019anime?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "I have a crush on you.",
+                    "text": "J\u2019ai le béguin sur vous.",
                     "type": "Negative"
                 },
                 {
@@ -5262,7 +5262,7 @@
             "id": 49457,
             "choices": [],
             "prompt": {
-                "text": "What\u2019s something you\u2019d like to tell the person who\u2019s closest to you right now?"
+                "text": "Qu\u2019est-ce que vous aimeriez dire à la personne qui est la plus proche de vous en ce moment?"
             }
         }
     ]
