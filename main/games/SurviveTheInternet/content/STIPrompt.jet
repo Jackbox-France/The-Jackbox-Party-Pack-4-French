@@ -4,19 +4,19 @@
         {
             "decoys": [
                 {
-                    "text": "Soyez là dans 5.",
+                    "text": "Soyez là dans 5 minutes.",
                     "type": "Negative"
                 },
                 {
-                    "text": "Soyez là dans 5.",
+                    "text": "Soyez là dans 5 minutes.",
                     "type": "Negative"
                 },
                 {
-                    "text": "Soyez là en 5.",
+                    "text": "Soyez là en 5 minutes.",
                     "type": "Negative"
                 },
                 {
-                    "text": "Soyez là en 5.",
+                    "text": "Soyez là en 5 minutes.",
                     "type": "Negative"
                 }
             ],
@@ -54,25 +54,25 @@
             "id": 43833,
             "choices": [],
             "prompt": {
-                "text": "Que diriez-vous à quelqu\u2019un qui croit que l\u2019atterrissage sur la lune était faux?"
+                "text": "Que diriez-vous à quelqu'un qui croit que l'atterrissage sur la lune était faux?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Ils sont les pires.",
+                    "text": "C'est la pire journée",
                     "type": "Negative"
                 },
                 {
-                    "text": "Ils sont les pires.",
+                    "text": "C'est la pire journée",
                     "type": "Negative"
                 },
                 {
-                    "text": "Ils sont les pires.",
+                    "text": "C'est la pire journée",
                     "type": "Negative"
                 },
                 {
-                    "text": "Ils sont les pires.",
+                    "text": "C'est la pire journée",
                     "type": "Negative"
                 }
             ],
@@ -82,25 +82,25 @@
             "id": 43988,
             "choices": [],
             "prompt": {
-                "text": "Comment allez-vous se sentir pour lundi ?"
+                "text": "Que pensez-vous des lundis ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Ça me fait exploser de joie!",
+                    "text": "Ça me fait exploser de joie !",
                     "type": "Negative"
                 },
                 {
-                    "text": "Ça me fait exploser de joie!",
+                    "text": "Ça me fait exploser de joie !",
                     "type": "Negative"
                 },
                 {
-                    "text": "Ça me fait exploser de joie!",
+                    "text": "Ça me fait exploser de joie !",
                     "type": "Negative"
                 },
                 {
-                    "text": "Ça me fait exploser de joie!",
+                    "text": "Ça me fait exploser de joie !",
                     "type": "Negative"
                 }
             ],
@@ -110,7 +110,7 @@
             "id": 44089,
             "choices": [],
             "prompt": {
-                "text": "Comment un panier plein des chiots vous font sentir?"
+                "text": "Comment un panier plein de chiots vous fait sentir ?"
             }
         },
         {
@@ -138,7 +138,7 @@
             "id": 43923,
             "choices": [],
             "prompt": {
-                "text": "Comment décririez-vous votre capacité athlétique?"
+                "text": "Comment décririez-vous votre capacité athlétique ?"
             }
         },
         {
@@ -166,7 +166,7 @@
             "id": 43920,
             "choices": [],
             "prompt": {
-                "text": "Comment décririez-vous votre style de mode?"
+                "text": "Comment décririez-vous votre style de mode ?"
             }
         },
         {
@@ -194,13 +194,13 @@
             "id": 43865,
             "choices": [],
             "prompt": {
-                "text": "Quelle est votre opinion générale sur les films 3D?"
+                "text": "Quelle est votre opinion générale sur les films 3D ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Je préfèrerais être aveugle !",
+                    "text": "Je préfère être aveugle !",
                     "type": "Negative"
                 },
                 {
@@ -222,13 +222,13 @@
             "id": 43857,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous du jus d\u2019orange avec beaucoup de pulpe?"
+                "text": "Que pensez-vous du jus d\u2019orange avec beaucoup de pulpe ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Ils sont très sous-estimés.",
+                    "text": "C'est sous-coté.",
                     "type": "Negative"
                 },
                 {
@@ -256,19 +256,19 @@
         {
             "decoys": [
                 {
-                    "text": "Suivez vos rêves.",
+                    "text": "Suis tes rêves.",
                     "type": "Negative"
                 },
                 {
-                    "text": "Suivez vos rêves.",
+                    "text": "Suis tes rêves.",
                     "type": "Negative"
                 },
                 {
-                    "text": "Suivez vos rêves.",
+                    "text": "Suis tes rêves.",
                     "type": "Negative"
                 },
                 {
-                    "text": "Suivez vos rêves.",
+                    "text": "Suis tes rêves.",
                     "type": "Negative"
                 }
             ],
@@ -306,7 +306,7 @@
             "id": 43879,
             "choices": [],
             "prompt": {
-                "text": "Quelle est votre opinion sur l\u2019ananas sur pizza?"
+                "text": "Quelle est votre opinion sur les pizzas aux ananas"
             }
         },
         {
@@ -334,7 +334,7 @@
             "id": 43877,
             "choices": [],
             "prompt": {
-                "text": "Quelle est votre réaction au mot \u201cmoisi\u201d?"
+                "text": "Quelle est votre réaction au mot \u201cmoisi\u201d ?"
             }
         },
         {
@@ -362,7 +362,7 @@
             "id": 43772,
             "choices": [],
             "prompt": {
-                "text": "De manière générale,que pensez-vous des films de super-héros?"
+                "text": "De manière générale,que pensez-vous des films de super-héros ?"
             }
         },
         {
@@ -372,7 +372,7 @@
                     "Type": "Negative"
                 },
                 {
-                    "text": "I aime ma femme!",
+                    "text": "J\u2019adore ma femme!",
                     "type": "Negative"
                 },
                 {
@@ -390,7 +390,7 @@
             "id": 43917,
             "choices": [],
             "prompt": {
-                "text": "Qu\u2019est-ce que quelque chose vous aimeriez crier dans le Grand Canyon?"
+                "text": "Qu'aimeriez vous crier si vous étiez dans le Grand Canyon?"
             }
         },
         {
@@ -408,7 +408,7 @@
                     "Type": "Negative"
                 },
                 {
-                    "text": "Ils sont très libéral.",
+                    "text": "Ils sont très libéraux.",
                     "type": "Negative"
                 }
             ],
@@ -418,7 +418,7 @@
             "id": 43804,
             "choices": [],
             "prompt": {
-                "text": "Comment décririez-vous la personne moyenne qui pratique le yoga?"
+                "text": "Comment décririez-vous une personne qui pratique le yoga?"
             }
         },
         {
@@ -440,7 +440,7 @@
                     "type": "Negative"
                 }
             ],
-            "préfixe": {
+            "prefix": {
                 "text": ""
             },
             "id": 43806,
@@ -480,19 +480,19 @@
         {
             "decoys": [
                 {
-                    "text": "Ils sont amusants!",
+                    "text": "C'est amusant !",
                     "Type": "Negative"
                 },
                 {
-                    "text": "Ils sont amusants!",
+                    "text": "C'est amusant !",
                     "type": "Negative"
                 },
                 {
-                    "text": "Ils sont amusants!",
+                    "text": "C'est amusant !",
                     "type": "Negative"
                 },
                 {
-                    "text": "Ils sont fun!",
+                    "text": "C'est amusant !",
                     "type": "Negative"
                 }
             ],
@@ -502,7 +502,7 @@
             "id": 43753,
             "choices": [],
             "prompt": {
-                "text": "Quelle est votre opinion sur les hashtags de mariage?"
+                "text": "Quelle est votre opinion sur les mariages?"
             }
         },
         {
@@ -512,15 +512,15 @@
                     "type": "Negative"
                 },
                 {
-                    "text": "C\u2019est un homme puissant qui a des défauts.",
+                    "text": "C'est un homme puissant qui a des défauts.",
                     "type": "Negative"
                 },
                 {
-                    "text": "C\u2019est un homme puissant qui a des défauts.",
+                    "text": "C'est un homme puissant qui a des défauts.",
                     "Type": "Negative"
                 },
                 {
-                    "text": "C\u2019est un homme puissant qui a des défauts.",
+                    "text": "C'est un homme puissant qui a des défauts.",
                     "Type": "Negative"
                 }
             ],
@@ -530,25 +530,25 @@
             "id": 43747,
             "choices": [],
             "prompt": {
-                "text": "Comment décririez-vous Donald Trump à un extraterrestre?"
+                "text": "Comment décririez-vous Donald Trump à un extraterrestre ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Je serais d\u2019accord.",
+                    "text": "Je suis d'accord.",
                     "type": "Negative"
                 },
                 {
-                    "text": "Je serais d\u2019accord.",
+                    "text": "Je suis d'accord.",
                     "type": "Negative"
                 },
                 {
-                    "text": "Je serais d\u2019accord.",
+                    "text": "Je suis d'accord.",
                     "type": "Negative"
                 },
                 {
-                    "text": "Je serais d\u2019accord.",
+                    "text": "Je suis d'accord.",
                     "type": "Negative"
                 }
             ],
@@ -564,19 +564,19 @@
         {
             "decoys": [
                 {
-                    "text": "C\u2019est le moyen idéal pour passer un vendredi soir avec la famille.",
+                    "text": "C'est le moyen idéal pour passer un vendredi soir avec la famille.",
                     "type": "Negative"
                 },
                 {
-                    "text": "C\u2019est le moyen idéal pour passer un vendredi soir avec la famille.",
+                    "text": "C'est le moyen idéal pour passer un vendredi soir avec la famille.",
                     "type": "Negative"
                 },
                 {
-                    "text": "C\u2019est le moyen idéal pour passer un vendredi soir avec la famille.",
+                    "text": "C'est le moyen idéal pour passer un vendredi soir avec la famille.",
                     "type": "Negative"
                 },
                 {
-                    "text": "C\u2019est le moyen idéal pour passer un vendredi soir avec la famille.",
+                    "text": "C'est le moyen idéal pour passer un vendredi soir avec la famille.",
                     "type": "Negative"
                 }
             ],
@@ -614,7 +614,7 @@
             "id": 43875,
             "choices": [],
             "prompt": {
-                "text": "Que diriez-vous si votre patron vous disait que vous êtes transféré en Alaska?"
+                "text": "Que diriez-vous à votre patron si vous êtes muté en Alaska ?"
             }
         },
         {
@@ -648,19 +648,19 @@
         {
             "decoys": [
                 {
-                    "text": "Je mange tous les jours.",
+                    "text": "J'en mange tous les jours.",
                     "type": "Negative"
                 },
                 {
-                    "text": "Je le mange tous les jours.",
+                    "text": "J'en mange tous les jours.",
                     "type": "Negative"
                 },
                 {
-                    "text": "Je le mange tous les jours.",
+                    "text": "J'en mange tous les jours.",
                     "type": "Negative"
                 },
                 {
-                    "text": "Je le mange tous les jours.",
+                    "text": "J'en mange tous les jours.",
                     "type": "Negative"
                 }
             ],
@@ -708,7 +708,7 @@
                     "type": "Negative"
                 },
                 {
-                    "text": "It me déroute mais j\u2019aime ça.",
+                    "text": "Ça me déroute mais j\u2019aime ça.",
                     "type": "Negative"
                 },
                 {
@@ -736,15 +736,15 @@
                     "type": "Negative"
                 },
                 {
-                    "text": "Toute l\u2019action me donne la nausée.",
+                    "text": "Toute l'action me donne la nausée.",
                     "type": "Negative"
                 },
                 {
-                    "text": "Toute l\u2019action me donne la nausée.",
+                    "text": "Toute l'action me donne la nausée.",
                     "type": "Negative"
                 },
                 {
-                    "text": "Toute l\u2019action me donne la nausée.",
+                    "text": "Toute l'action me donne la nausée.",
                     "Type": "Negative"
                 }
             ],
@@ -760,7 +760,7 @@
         {
             "decoys": [
                 {
-                    "text": "Je suis d\u2019accord.",
+                    "text": "C'est passable.",
                     "Type": "Negative"
                 },
                 {
@@ -782,7 +782,7 @@
             "id": 45621,
             "choices": [],
             "prompt": {
-                "text": "Comment décririez-vous votre capacité à cuisiner?"
+                "text": "Comment décririez-vous votre capacité à cuisiner ?"
             }
         },
         {
@@ -810,7 +810,7 @@
             "id": 43831,
             "choices": [],
             "prompt": {
-                "text": "Qu\u2019est-ce que quelque chose vous aimeriez dire à votre patron?"
+                "text": "Que voudririez vous dire à votre patron ?"
             }
         },
         {
@@ -838,7 +838,7 @@
             "id": 43769,
             "choices": [],
             "prompt": {
-                "text": "Quelle est votre opinion sur le beurre d\u2019arachide extra croquant?"
+                "text": "Quelle est votre opinion sur le beurre d\u2019arachide extra croquant ?"
             }
         },
         {
@@ -848,7 +848,7 @@
                     "type": "Negative"
                 },
                 {
-                    "text": "Je suis reconnaissant d\u2019avoir Je n\u2019en ai pas.",
+                    "text": "Je suis reconnaissant de ne pas en avoir.",
                     "Type": "Negative"
                 },
                 {
@@ -928,7 +928,7 @@
         {
             "decoys": [
                 {
-                    "text": "Je n\u2019ai pas espoir.",
+                    "text": "Je n\u2019ai pas d'espoir.",
                     "type": "Negative"
                 },
                 {
@@ -950,7 +950,7 @@
             "id": 43768,
             "choices": [],
             "prompt": {
-                "text": "Comment vous sentez-vous lorsque l'on vous dit qu'un technicien arrivera entre midi et six heure ?"
+                "text": "Comment vous sentez-vous lorsque l'on vous dit qu'un technicien arrivera pour vous entre 8 heure et 18 heure?"
             }
         },
         {
@@ -978,7 +978,7 @@
             "id": 43805,
             "choices": [],
             "prompt": {
-                "text": "Vous avez deux heures à la Nouvelle-Orléans.Que faites-vous?"
+                "text": "Vous passez deux heures en Australie.Que faites-vous?"
             }
         },
         {
@@ -1118,13 +1118,13 @@
             "id": 43830,
             "choices": [],
             "prompt": {
-                "text": "Quel est votre opinion sur la mise du ketchup sur les hot dogs?"
+                "text": "Quelle est votre opinion sur les gens mettant du ketchup dans leur hot-dog ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Euh,excusez-moi.C\u2019est impoli.",
+                    "text": "Euh, excusez-moi. C\u2019est impoli.",
                     "Type": "Negative"
                 },
                 {
@@ -1146,7 +1146,7 @@
             "id": 43854,
             "choices": [],
             "prompt": {
-                "text": "Qu\u2019aimeriez-vous dire à quelqu\u2019un qui coupe devant vous en ligne?"
+                "text": "Qu\u2019aimeriez-vous dire à quelqu\u2019un qui vous double par la droite en voiture ?"
             }
         },
         {
@@ -1174,7 +1174,7 @@
             "id": 43965,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous des Crocs?"
+                "text": "Que pensez-vous des Crocs ?"
             }
         },
         {
@@ -1202,7 +1202,7 @@
             "id": 48529,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous des shorts cargo?"
+                "text": "Que pensez-vous des shorts cargo ?"
             }
         },
         {
@@ -1230,7 +1230,7 @@
             "id": 44154,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous du café?"
+                "text": "Que pensez-vous du café ?"
             }
         },
         {
@@ -1258,13 +1258,13 @@
             "id": 44158,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous de la musique country?"
+                "text": "Que pensez-vous de la musique country ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Je me sens assez gazouillis en ce moment.",
+                    "text": "Je suis comme un poisson dans l'eau.",
                     "type": "Negative"
                 },
                 {
@@ -1286,13 +1286,13 @@
             "id": 44159,
             "choices": [],
             "prompt": {
-                "text": "Comment décririez-vous votre humeur actuelle?"
+                "text": "Comment décririez-vous votre humeur actuelle ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Je crie comme un peu girl.",
+                    "text": "Je crie comme une fillette.",
                     "type": "Negative"
                 },
                 {
@@ -1314,7 +1314,7 @@
             "id": 44155,
             "choices": [],
             "prompt": {
-                "text": "Quand vous voyez une araignée,comment réagissez-vous habituellement?"
+                "text": "Quand vous voyez une araignée, comment réagissez-vous habituellement?"
             }
         },
         {
@@ -1342,13 +1342,13 @@
             "id": 44161,
             "choices": [],
             "prompt": {
-                "text": "Que voulez-vous -pour excuser de se soustraire à une obligation?"
+                "text": "Quelle est l'excuse que vous sortez habituellement ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Ils ne sont généralement pas vrais.",
+                    "text": "Ils ne sont généralement pas humble.",
                     "type": "Negative"
                 },
                 {
@@ -1370,13 +1370,13 @@
             "id": 44160,
             "choices": [],
             "prompt": {
-                "text": "Quelle est votre opinion générale sur les politiques?"
+                "text": "Quelle est votre opinion générale sur les politiques ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Hé, vous tous, j\u2019espère que vous passez une journée bénie!",
+                    "text": "Hé, vous tous, j\u2019espère que vous passez une bonne journée !",
                     "type": "Negative"
                 },
                 {
@@ -1398,7 +1398,7 @@
             "id": 44163,
             "choices": [],
             "prompt": {
-                "text": "Si vous étiez un personnage de sitcom, quel serait votre slogan?"
+                "text": "Si vous étiez un personnage de sitcom, quel serait votre slogan ?"
             }
         },
         {
@@ -1454,7 +1454,7 @@
             "id": 44167,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous du camping?"
+                "text": "Que pensez-vous du camping ?"
             }
         },
         {
@@ -1482,13 +1482,13 @@
             "id": 48530,
             "choices": [],
             "prompt": {
-                "text": "Quelle est votre opinion sur les DJ?"
+                "text": "Quelle est votre opinion sur les DJ ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Faites vite!",
+                    "text": "Faites vite !",
                     "type": "Negative"
                 },
                 {
@@ -1510,7 +1510,7 @@
             "id": 44169,
             "choices": [],
             "prompt": {
-                "text": "Qu\u2019est-ce que vous criez généralement lorsque vous êtes coincé dans la circulation?"
+                "text": "Qu\u2019est-ce que vous criez généralement lorsque vous êtes coincé dans la circulation ?"
             }
         },
         {
@@ -1538,7 +1538,7 @@
             "id": 44168,
             "choices": [],
             "prompt": {
-                "text": "Quelle est votre opinion sur les applications de rencontres?"
+                "text": "Quelle est votre opinion sur les applications de rencontres ?"
             }
         },
         {
@@ -1566,13 +1566,13 @@
             "id": 44172,
             "choices": [],
             "prompt": {
-                "text": "Quelque chose que vous aimeriez dire à votre représentant?"
+                "text": "Quelque chose que vous aimeriez dire à votre chef ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Ils me font me sentir dégueulasse.",
+                    "text": "Ils me font me sentir pas propre.",
                     "type": "Negative"
                 },
                 {
@@ -1594,13 +1594,13 @@
             "id": 44246,
             "choices": [],
             "prompt": {
-                "text": "Quelle est votre opinion générale sur les films de zombies?"
+                "text": "Quelle est votre opinion générale sur les films de zombies ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "C\u2019est amusant avec la bonne foule.",
+                    "text": "C\u2019est amusant avec les bonnes personnes.",
                     "type": "Negative"
                 },
                 {
@@ -1622,13 +1622,13 @@
             "id": 44543,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous des jeux-questionnaires?"
+                "text": "Que pensez-vous des jeux de culture générale ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Elle est la pire.",
+                    "text": "C'est la pire.",
                     "type": "Negative"
                 },
                 {
@@ -1650,7 +1650,7 @@
             "id": 44170,
             "choices": [],
             "prompt": {
-                "text": "Comment décririez-vous la personne la plus ennuyeuse au travail /à l\u2019école?"
+                "text": "Comment décririez-vous la personne la plus ennuyeuse au travail / à l\u2019école?"
             }
         },
         {
@@ -1684,7 +1684,7 @@
         {
             "decoys": [
                 {
-                    "text": "Soyez gentil avec eux.",
+                    "text": "Être gentil avec eux.",
                     "type": "Negative"
                 },
                 {
@@ -1712,7 +1712,7 @@
         {
             "decoys": [
                 {
-                    "text": "C\u2019est un affichage dégoûtant de gourmandise.",
+                    "text": "C\u2019est dégoûtant.",
                     "type": "Negative"
                 },
                 {
@@ -1734,7 +1734,7 @@
             "id": 45017,
             "choices": [],
             "prompt": {
-                "text": "Comment faites-vous el à propos de l\u2019alimentation compétitive?"
+                "text": "Que pensez-vous des compétitions de nourriture ?"
             }
         },
         {
@@ -1768,7 +1768,7 @@
         {
             "decoys": [
                 {
-                    "text": "Les sols sont un peu dégoûtants.",
+                    "text": "Les sols sont mal lavés.",
                     "Type": "Positive"
                 },
                 {
@@ -1790,13 +1790,13 @@
             "id": 44989,
             "choices": [],
             "prompt": {
-                "text": "Quelle a été votre expérience avec les hôtels bon marché?"
+                "text": "Racontez votre expérience sur les hôtels pas chers ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Je ne peux pas en avoir assez!",
+                    "text": "Il m'en faut plus !",
                     "type": "Negative"
                 },
                 {
@@ -1818,7 +1818,7 @@
             "id": 48533,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous des cornichons?"
+                "text": "Que pensez-vous des cornichons ?"
             }
         },
         {
@@ -1846,13 +1846,13 @@
             "id": 44986,
             "choices": [],
             "prompt": {
-                "text": "Qu\u2019est- ce que la plupart des gens ne savent pas de vous?"
+                "text": "Qu\u2019est-ce que la plupart des gens ne savent pas de vous ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "J\u2019aime vraiment ton travail.",
+                    "text": "J\u2019aime vraiment votre travail.",
                     "type": "Negative"
                 },
                 {
@@ -1874,13 +1874,13 @@
             "id": 44983,
             "choices": [],
             "prompt": {
-                "text": "Quelle est une chose que vous aimeriez dire à Brad Pitt?"
+                "text": "Que voudriez vous dire à Brad Pitt ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Il me fait me sentir intelligent!",
+                    "text": "Ca me fait sentir intelligent !",
                     "type": "Positive"
                 },
                 {
@@ -1902,7 +1902,7 @@
             "id": 44987,
             "choices": [],
             "prompt": {
-                "text": "Décrivez la sensation quand les gens se moquent de votre blague."
+                "text": "Décrivez la sensation quand votre entourage rigole à votre blague."
             }
         },
         {
@@ -1936,7 +1936,7 @@
         {
             "decoys": [
                 {
-                    "text": "Oh drats! Pas encore!",
+                    "text": "Oh non ! Pas encore !",
                     "Type": "Negative"
                 },
                 {
@@ -1958,13 +1958,13 @@
             "id": 44979,
             "choices": [],
             "prompt": {
-                "text": "Quelle est votre première pensée en vous réveillant tard?"
+                "text": "Quelle est votre première pensée en vous réveillant en retard ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Je suis super ennuyé!",
+                    "text": "Je suis super ennuyé !",
                     "Type": "Negative"
                 },
                 {
@@ -1986,7 +1986,7 @@
             "id": 48534,
             "choices": [],
             "prompt": {
-                "text": "Comment vous sentez-vous quand quelqu\u2019un essaie d\u2019engager une conversation avec vous dans un ascenseur?"
+                "text": "Comment vous sentez-vous quand quelqu\u2019un essaie d\u2019engager une conversation avec vous dans un ascenseur ?"
             }
         },
         {
@@ -2020,7 +2020,7 @@
         {
             "decoys": [
                 {
-                    "text": "Personne n\u2019en a jamais utilisé un sur moi.",
+                    "text": "Personne n\u2019en a jamais utilisé une sur moi.",
                     "type": "Negative"
                 },
                 {
@@ -2042,7 +2042,7 @@
             "id": 44969,
             "choices": [],
             "prompt": {
-                "text": "Qu\u2019est-ce qu\u2019une bonne ligne de ramassage?"
+                "text": "Inventez une bonne phrase d'accroche pour un site de rencontre."
             }
         },
         {
@@ -2070,13 +2070,13 @@
             "id": 44968,
             "choices": [],
             "prompt": {
-                "text": "Quoi tous les riches ont-ils en commun?"
+                "text": "Qu'est ce que tous les riches ont en commun ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Un animal si fier et majestueux!",
+                    "text": "Un animal si fier et majestueux !",
                     "type": "Positive"
                 },
                 {
@@ -2104,7 +2104,7 @@
         {
             "decoys": [
                 {
-                    "text": "Vous pouvez juste dire qu\u2019il est un gars sympa.",
+                    "text": "C'est un gars sympa.",
                     "type": "Positive"
                 },
                 {
@@ -2154,13 +2154,13 @@
             "id": 44958,
             "choices": [],
             "prompt": {
-                "text": "De quelle manière êtes-vous le plus comme votre père?"
+                "text": "En quoi ressemblez-vous le plus à votre père ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Content d\u2019avoir le mien - me fait pomper!",
+                    "text": "Je suis content d\u2019avoir le mien !",
                     "Type": "Positive"
                 },
                 {
@@ -2182,13 +2182,13 @@
             "id": 44956,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous des abonnements à une salle de sport?"
+                "text": "Que pensez-vous des abonnements aux salles de sport?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Ces gars sont noix!",
+                    "text": "Ces gens sont fous !",
                     "type": "Negative"
                 },
                 {
@@ -2210,13 +2210,13 @@
             "id": 44951,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous des chasseurs de tornades?"
+                "text": "Que pensez-vous des chasseurs de tornades ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "J\u2019aime le fait que vous vous souciez plus des autres",
+                    "text": "J\u2019aime le fait que vous vous souciez des autres",
                     "type": "Positive"
                 },
                 {
@@ -2238,13 +2238,13 @@
             "id": 45123,
             "choices": [],
             "prompt": {
-                "text": "Quel est le meilleur compliment que quelqu\u2019un puisse vous faire?"
+                "text": "Quel est le meilleur compliment que quelqu\u2019un puisse vous faire ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Croyez toujours en vous",
+                    "text": "Crois toujours en toi.",
                     "type": "Positive"
                 },
                 {
@@ -2266,7 +2266,7 @@
             "id": 44950,
             "choices": [],
             "prompt": {
-                "text": "Quel est le meilleur conseil que vos parents vous aient jamais donné?"
+                "text": "Quel est le meilleur conseil que vos parents vous aient jamais donné ?"
             }
         },
         {
@@ -2294,13 +2294,13 @@
             "id": 44942,
             "choices": [],
             "prompt": {
-                "text": "Quelle est la plus belle chose que vous avez faite aujourd\u2019hui?"
+                "text": "Quelle est la dernière bonne action que vous ayez faite ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Ils ont tendance à me frotter le mauvaise manière.",
+                    "text": "Ils ont tendance à me crisper",
                     "type": "Positive"
                 },
                 {
@@ -2322,7 +2322,7 @@
             "id": 44940,
             "choices": [],
             "prompt": {
-                "text": "Quelle est votre opinion sur les Français?"
+                "text": "Quelle est votre opinion sur les américains"
             }
         },
         {
@@ -2356,7 +2356,7 @@
         {
             "decoys": [
                 {
-                    "text": "S\u2019ils sont assez vieux,je suis descendu",
+                    "text": "Je suis un peu déçu.",
                     "type": "Positive"
                 },
                 {
@@ -2378,7 +2378,7 @@
             "id": 45125,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous des enfants avec des smartphones?"
+                "text": "Que pensez-vous des enfants avec des smartphones ?"
             }
         },
         {
@@ -2434,7 +2434,7 @@
             "id": 45612,
             "choices": [],
             "prompt": {
-                "text": "Quelle est votre position sur la neutralité du Net?"
+                "text": "Quelle est votre position sur la neutralité d'internet ?"
             }
         },
         {
@@ -2462,13 +2462,13 @@
             "id": 48535,
             "choices": [],
             "prompt": {
-                "text": "Décrivez brièvement ce que vous ressentez en traversant l\u2019aéroport security."
+                "text": "Décrivez brièvement ce que vous ressentez en traversant la sécurité d'un aéroport"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Hé,tout ce qui fonctionne pour vous.",
+                    "text": "Ca me va",
                     "type": "Negative"
                 },
                 {
@@ -2490,13 +2490,13 @@
             "id": 45613,
             "choices": [],
             "prompt": {
-                "text": "Quelle est votre opinion sur les personnes qui o prendre une douche la nuit?"
+                "text": "Quelle est votre opinion sur les personnes qui prennent une douche la nuit?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Les enfants vont bien!",
+                    "text": "Ils sont tous sur leur smartphone !",
                     "type": "Positive"
                 },
                 {
@@ -2518,7 +2518,7 @@
             "id": 45163,
             "choices": [],
             "prompt": {
-                "text": "Quel est le problème avec les enfants aujourd\u2019hui?"
+                "text": "Quel est le problème avec les enfants d'aujourd\u2019hui ?"
             }
         },
         {
@@ -2602,7 +2602,7 @@
             "id": 45197,
             "choices": [],
             "prompt": {
-                "text": "Quelle est votre position sur les romances au bureau?"
+                "text": "Quelle est votre position sur les romances au bureau ?"
             }
         },
         {
