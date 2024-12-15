@@ -10,7 +10,7 @@
             "skipResponse":true,
             
             "responsePlaceholder" : null,
-            "twistPlaceholder" : "entre une caption",
+            "twistPlaceholder" : "entrez quelque chose",
             "prefix" : null,
             
             "revealSpec":{

@@ -110,7 +110,7 @@
             "id": 44089,
             "choices": [],
             "prompt": {
-                "text": "Comment un panier plein de chiots vous fait sentir ?"
+                "text": "Que ressentez-vous en voyant un panier plein de chiots ?"
             }
         },
         {
@@ -166,7 +166,7 @@
             "id": 43920,
             "choices": [],
             "prompt": {
-                "text": "Comment décririez-vous votre style de mode ?"
+                "text": "Comment décririez-vous votre style ?"
             }
         },
         {
@@ -250,7 +250,7 @@
             "id": 43820,
             "choices": [],
             "prompt": {
-                "text": "Quelle est votre opinion sur le maïs sucré?"
+                "text": "Quelle est votre opinion sur le maïs sucré ?"
             }
         },
         {
@@ -278,7 +278,7 @@
             "id": 43763,
             "choices": [],
             "prompt": {
-                "text": "Quelle est la chose que vous diriez à votre enfant de 10 ans?"
+                "text": "Quelle est la chose que vous diriez à votre enfant de 10 ans ?"
             }
         },
         {
@@ -306,7 +306,7 @@
             "id": 43879,
             "choices": [],
             "prompt": {
-                "text": "Quelle est votre opinion sur les pizzas aux ananas"
+                "text": "Quelle est votre opinion sur les pizzas aux ananas ?"
             }
         },
         {
@@ -362,7 +362,7 @@
             "id": 43772,
             "choices": [],
             "prompt": {
-                "text": "De manière générale,que pensez-vous des films de super-héros ?"
+                "text": "De manière générale, que pensez-vous des films de super-héros ?"
             }
         },
         {
@@ -390,7 +390,7 @@
             "id": 43917,
             "choices": [],
             "prompt": {
-                "text": "Qu'aimeriez vous crier si vous étiez dans le Grand Canyon?"
+                "text": "Qu'aimeriez vous crier si vous étiez dans le Grand Canyon ?"
             }
         },
         {
@@ -418,7 +418,7 @@
             "id": 43804,
             "choices": [],
             "prompt": {
-                "text": "Comment décririez-vous une personne qui pratique le yoga?"
+                "text": "Comment décririez-vous une personne qui pratique le yoga ?"
             }
         },
         {
@@ -446,25 +446,25 @@
             "id": 43806,
             "choices": [],
             "prompt": {
-                "text": "Quelle est votre opinion sur les négationnistes du changement climatique?"
+                "text": "Quelle est votre opinion sur les négationnistes du changement climatique ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Je pense que c\u2019est impoli,pour être honnête.",
+                    "text": "Je pense que c\u2019est impoli, pour être honnête.",
                     "type": "Negative"
                 },
                 {
-                    "text": "Je pense que c\u2019est impoli,pour être honnête.",
+                    "text": "Je pense que c\u2019est impoli, pour être honnête.",
                     "type": "Negative"
                 },
                 {
-                    "text": "Je pense que c\u2019est impoli,pour être honnête.",
+                    "text": "Je pense que c\u2019est impoli, pour être honnête.",
                     "type": "Negative"
                 },
                 {
-                    "text": "Je pense que c\u2019est impoli,pour être honnête.",
+                    "text": "Je pense que c\u2019est impoli, pour être honnête.",
                     "type": "Negative"
                 }
             ],
@@ -474,7 +474,7 @@
             "id": 43834,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous des gens qui se coupent les ongles dans les transports en commun?"
+                "text": "Que pensez-vous des gens qui se coupent les ongles dans les transports en commun ?"
             }
         },
         {
@@ -502,7 +502,7 @@
             "id": 43753,
             "choices": [],
             "prompt": {
-                "text": "Quelle est votre opinion sur les mariages?"
+                "text": "Quelle est votre opinion sur les mariages ?"
             }
         },
         {
@@ -558,7 +558,7 @@
             "id": 43862,
             "choices": [],
             "prompt": {
-                "text": "Quelle est votre réponse aux gens qui disent que les chiens sont meilleurs que les chats?"
+                "text": "Quelle est votre réponse aux gens qui disent que les chiens sont meilleurs que les chats ?"
             }
         },
         {
@@ -586,7 +586,7 @@
             "id": 43922,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous du karaoké?"
+                "text": "Que pensez-vous du karaoké ?"
             }
         },
         {
@@ -670,7 +670,7 @@
             "id": 43866,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous du quinoa?"
+                "text": "Que pensez-vous du quinoa ?"
             }
         },
         {
@@ -698,7 +698,7 @@
             "id": 43921,
             "choices": [],
             "prompt": {
-                "text": "Que diriez-vous à quelqu\u2019un qui n\u2019aime pas les films Pixar?"
+                "text": "Que diriez-vous à quelqu\u2019un qui n\u2019aime pas les films Pixar ?"
             }
         },
         {
@@ -726,7 +726,7 @@
             "id": 43863,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous de <i> Game of Thrones <\/i>?"
+                "text": "Que pensez-vous de <i> Game of Thrones <\/i> ?"
             }
         },
         {
@@ -754,7 +754,7 @@
             "id": 43856,
             "choices": [],
             "prompt": {
-                "text": "Quelle est votre opinion générale sur les films <i> Transformers <\/i>?"
+                "text": "Quelle est votre opinion générale sur les films <i> Transformers <\/i> ?"
             }
         },
         {
@@ -810,7 +810,7 @@
             "id": 43831,
             "choices": [],
             "prompt": {
-                "text": "Que voudririez vous dire à votre patron ?"
+                "text": "Que voudriez vous dire à votre patron ?"
             }
         },
         {
@@ -838,7 +838,7 @@
             "id": 43769,
             "choices": [],
             "prompt": {
-                "text": "Quelle est votre opinion sur le beurre d\u2019arachide extra croquant ?"
+                "text": "Quelle est votre opinion sur le nutella ?"
             }
         },
         {
@@ -866,7 +866,7 @@
             "id": 43704,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous des régimes sans gluten?"
+                "text": "Que pensez-vous des régimes sans gluten ?"
             }
         },
         {
@@ -894,7 +894,7 @@
             "id": 43755,
             "choices": [],
             "prompt": {
-                "text": "Quelle est votre opinion sur les gens qui font du cosplay?"
+                "text": "Quelle est votre opinion sur les gens qui font du cosplay ?"
             }
         },
         {
@@ -922,7 +922,7 @@
             "id": 43756,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous des plages nudistes?"
+                "text": "Que pensez-vous des plages nudistes ?"
             }
         },
         {
@@ -950,7 +950,7 @@
             "id": 43768,
             "choices": [],
             "prompt": {
-                "text": "Comment vous sentez-vous lorsque l'on vous dit qu'un technicien arrivera pour vous entre 8 heure et 18 heure?"
+                "text": "Comment vous sentez-vous lorsque l'on vous dit qu'un technicien arrivera pour vous entre 8 heure et 18 heure ?"
             }
         },
         {
@@ -978,7 +978,7 @@
             "id": 43805,
             "choices": [],
             "prompt": {
-                "text": "Vous passez deux heures en Australie.Que faites-vous?"
+                "text": "Vous passez deux heures en Australie. Que faites-vous?"
             }
         },
         {
@@ -1006,7 +1006,7 @@
             "id": 43816,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous de Justin Bieber?"
+                "text": "Que pensez-vous de Justin Bieber ?"
             }
         },
         {
@@ -1034,7 +1034,7 @@
             "id": 43817,
             "choices": [],
             "prompt": {
-                "text": "Quelque chose que vous aimeriez dire à votre voisin?"
+                "text": "Quelque chose que vous aimeriez dire à votre voisin ?"
             }
         },
         {
@@ -1062,7 +1062,7 @@
             "id": 43827,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous des jeux de mots?"
+                "text": "Que pensez-vous des jeux de mots ?"
             }
         },
         {
@@ -1090,7 +1090,7 @@
             "id": 43869,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous des gens qui campent pour les soldes du Black Friday?"
+                "text": "Que pensez-vous des gens qui campent pour les soldes du Black Friday ?"
             }
         },
         {
@@ -1314,7 +1314,7 @@
             "id": 44155,
             "choices": [],
             "prompt": {
-                "text": "Quand vous voyez une araignée, comment réagissez-vous habituellement?"
+                "text": "Quand vous voyez une araignée, comment réagissez-vous habituellement ?"
             }
         },
         {
@@ -1650,7 +1650,7 @@
             "id": 44170,
             "choices": [],
             "prompt": {
-                "text": "Comment décririez-vous la personne la plus ennuyeuse au travail / à l\u2019école?"
+                "text": "Comment décririez-vous la personne la plus ennuyeuse au travail / à l\u2019école ?"
             }
         },
         {
@@ -1678,7 +1678,7 @@
             "id": 44157,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous du lait écrémé?"
+                "text": "Que pensez-vous du lait écrémé ?"
             }
         },
         {
@@ -1706,7 +1706,7 @@
             "id": 45021,
             "choices": [],
             "prompt": {
-                "text": "Quel est le meilleur moyen de gagner le respect de quelqu\u2019un?"
+                "text": "Quel est le meilleur moyen de gagner le respect de quelqu\u2019un ?"
             }
         },
         {
@@ -1762,7 +1762,7 @@
             "id": 45000,
             "choices": [],
             "prompt": {
-                "text": "Quel est le secret d\u2019un mariage heureux?"
+                "text": "Quel est le secret d\u2019un mariage heureux ?"
             }
         },
         {
@@ -1930,7 +1930,7 @@
             "id": 44982,
             "choices": [],
             "prompt": {
-                "text": "Qu\u2019aimeriez-vous dire à un gars qui porte trop d\u2019eau de Cologne?"
+                "text": "Qu\u2019aimeriez-vous dire à un gars qui porte trop d\u2019eau de Cologne ?"
             }
         },
         {
@@ -2014,7 +2014,7 @@
             "id": 44977,
             "choices": [],
             "prompt": {
-                "text": "Qu\u2019est-ce que vous appréciez dans les dîners en famille?"
+                "text": "Qu\u2019est-ce que vous appréciez dans les dîners en famille ?"
             }
         },
         {
@@ -2126,7 +2126,7 @@
             "id": 44973,
             "choices": [],
             "prompt": {
-                "text": "Pourquoi les gens aiment-ils Tom Hanks?"
+                "text": "Pourquoi les gens aiment-ils Tom Hanks ?"
             }
         },
         {
@@ -2182,7 +2182,7 @@
             "id": 44956,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous des abonnements aux salles de sport?"
+                "text": "Que pensez-vous des abonnements aux salles de sport ?"
             }
         },
         {
@@ -2322,7 +2322,7 @@
             "id": 44940,
             "choices": [],
             "prompt": {
-                "text": "Quelle est votre opinion sur les américains"
+                "text": "Quelle est votre opinion sur les américains ?"
             }
         },
         {
@@ -2406,7 +2406,7 @@
             "id": 45343,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous des montagnes russes?"
+                "text": "Que pensez-vous des montagnes russes ?"
             }
         },
         {
@@ -2490,7 +2490,7 @@
             "id": 45613,
             "choices": [],
             "prompt": {
-                "text": "Quelle est votre opinion sur les personnes qui prennent une douche la nuit?"
+                "text": "Quelle est votre opinion sur les personnes qui prennent une douche la nuit ?"
             }
         },
         {
@@ -2546,7 +2546,7 @@
             "id": 45180,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous des combats de MMA?"
+                "text": "Que pensez-vous des combats de MMA ?"
             }
         },
         {
@@ -2602,7 +2602,7 @@
             "id": 45197,
             "choices": [],
             "prompt": {
-                "text": "Quelle est votre position sur les romances au bureau ?"
+                "text": "Quel est votre avis sur les romances au bureau ?"
             }
         },
         {
@@ -2630,7 +2630,7 @@
             "id": 45614,
             "choices": [],
             "prompt": {
-                "text": "Que ressentez-vous Fox News?"
+                "text": "Vous pensez quoi de BFMTV ?"
             }
         },
         {
@@ -2658,7 +2658,7 @@
             "id": 45173,
             "choices": [],
             "prompt": {
-                "text": "Comment inspirer les citations vous font sentir?"
+                "text": "Quel est votre avis sur les gens utilisant des citations dans des conversations ?"
             }
         },
         {
@@ -2686,7 +2686,7 @@
             "id": 44957,
             "choices": [],
             "prompt": {
-                "text": "Quelle est votre opinion sur les bibliothèques?"
+                "text": "Quelle est votre opinion sur les bibliothèques ?"
             }
         },
         {
@@ -2714,7 +2714,7 @@
             "id": 44677,
             "choices": [],
             "prompt": {
-                "text": "De manière générale,que pensez-vous des podcasts?"
+                "text": "De manière générale, que pensez-vous des podcasts ?"
             }
         },
         {
@@ -2742,7 +2742,7 @@
             "id": 46406,
             "choices": [],
             "prompt": {
-                "text": "Quelle est une expression que vous interdiriez?"
+                "text": "Quelle est une expression que vous interdiriez ?"
             }
         },
         {
@@ -2770,7 +2770,7 @@
             "id": 48536,
             "choices": [],
             "prompt": {
-                "text": "Qu\u2019est-ce qui est génial avec la génération Y?"
+                "text": "Qu\u2019est-ce qui est génial avec la génération Z ?"
             }
         },
         {
@@ -2798,7 +2798,7 @@
             "id": 48519,
             "choices": [],
             "prompt": {
-                "text": "Que diriez-vous à quelqu\u2019un qui se vante de ne pas posséder de téléviseur?"
+                "text": "Que diriez-vous à quelqu\u2019un qui se vante de ne pas posséder de téléviseur ?"
             }
         },
         {
@@ -2826,7 +2826,7 @@
             "id": 46417,
             "choices": [],
             "prompt": {
-                "text": "Quel conseil de rencontre donneriez-vous à une personne âgée?"
+                "text": "Quel conseil de rencontre donneriez-vous à une personne âgée ?"
             }
         },
         {
@@ -2854,7 +2854,7 @@
             "id": 45196,
             "choices": [],
             "prompt": {
-                "text": "À quoi ressemble le joueur moyen de <i> World of Warcraft <\/i>?"
+                "text": "À quoi ressemble le joueur moyen de <i> World of Warcraft <\/i> ?"
             }
         },
         {
@@ -2882,7 +2882,7 @@
             "id": 45617,
             "choices": [],
             "prompt": {
-                "text": "Quelle est votre réaction lorsque vous voyez un préposé aux toilettes?"
+                "text": "Quelle est votre réaction lorsque vous voyez un préposé aux toilettes ?"
             }
         },
         {
@@ -2910,7 +2910,7 @@
             "id": 46414,
             "choices": [],
             "prompt": {
-                "text": "Que diriez-vous à quelqu\u2019un qui envoie un SMS pendant un film?"
+                "text": "Que diriez-vous à quelqu\u2019un qui envoie un SMS pendant un film ?"
             }
         },
         {
@@ -2938,7 +2938,7 @@
             "id": 46418,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous des fruits de mer?"
+                "text": "Que pensez-vous des fruits de mer ?"
             }
         },
         {
@@ -2966,7 +2966,7 @@
             "id": 45162,
             "choices": [],
             "prompt": {
-                "text": "Que diriez-vous à quelqu\u2019un qui pense que Bigfoot est réel?"
+                "text": "Que diriez-vous à quelqu\u2019un qui pense que Bigfoot est réel ?"
             }
         },
         {
@@ -2994,7 +2994,7 @@
             "id": 46478,
             "choices": [],
             "prompt": {
-                "text": "Pourquoi tant de gens se moquent de Nickelback?"
+                "text": "Pourquoi tant de gens aiment Johnny Halliday ?"
             }
         },
         {
@@ -3022,7 +3022,7 @@
             "id": 46569,
             "choices": [],
             "prompt": {
-                "text": "Quelle est la meilleure façon de rompre avec quelqu\u2019un?"
+                "text": "Quelle est la meilleure façon de rompre avec quelqu\u2019un ?"
             }
         },
         {
@@ -3050,7 +3050,7 @@
             "id": 46487,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous du climat politique actuel?"
+                "text": "Que pensez-vous du climat politique actuel ?"
             }
         },
         {
@@ -3078,7 +3078,7 @@
             "id": 46572,
             "choices": [],
             "prompt": {
-                "text": "Que dites-vous à quelqu\u2019un quand vous n\u2019aimez pas sa cuisine?"
+                "text": "Que dites-vous à quelqu\u2019un quand vous n\u2019aimez pas sa cuisine ?"
             }
         },
         {
@@ -3106,7 +3106,7 @@
             "id": 46488,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous des militants des droits des animaux?"
+                "text": "Que pensez-vous des militants des droits des animaux ?"
             }
         },
         {
@@ -3134,7 +3134,7 @@
             "id": 46579,
             "choices": [],
             "prompt": {
-                "text": "Comment expliquez-vous votre rôle dans votre famille?"
+                "text": "Comment expliquez-vous votre rôle dans votre famille ?"
             }
         },
         {
@@ -3190,7 +3190,7 @@
             "id": 46471,
             "choices": [],
             "prompt": {
-                "text": "Selon vous,quel est le mensonge le plus courant des gens?"
+                "text": "Selon vous, quel est le mensonge le plus courant des gens ?"
             }
         },
         {
@@ -3218,7 +3218,7 @@
             "id": 46610,
             "choices": [],
             "prompt": {
-                "text": "Que dites-vous quand les conversations s\u2019endormissent?"
+                "text": "Que dites-vous quand il y a un blanc ?"
             }
         },
         {
@@ -3246,7 +3246,7 @@
             "id": 46587,
             "choices": [],
             "prompt": {
-                "text": "Quelle est votre phrase nucléaire qui met fin à un argument?"
+                "text": "Quelle est votre phrase qui met fin à n'importe quel débat ?"
             }
         },
         {
@@ -3274,7 +3274,7 @@
             "id": 49413,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous de l\u2019art moderne?"
+                "text": "Que pensez-vous de l\u2019art moderne ?"
             }
         },
         {
@@ -3302,7 +3302,7 @@
             "id": 48516,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous de la musique de ukulélé?"
+                "text": "Que pensez-vous du ukulélé ?"
             }
         },
         {
@@ -3330,7 +3330,7 @@
             "id": 46573,
             "choices": [],
             "prompt": {
-                "text": "Quelle ligne de cliché utilisez-vous le plus?"
+                "text": "Quel cliché utilisez-vous le plus dans vos conversations ?"
             }
         },
         {
@@ -3358,7 +3358,7 @@
             "id": 45200,
             "choices": [],
             "prompt": {
-                "text": "Comment décririez-vous votre position sur les fantômes ?"
+                "text": "Quel est votre avis sur les fantômes ?"
             }
         },
         {
@@ -3386,7 +3386,7 @@
             "id": 49440,
             "choices": [],
             "prompt": {
-                "text": "Qu\u2019est-ce que vous aimeriez dire à un mauvais représentant du service client?"
+                "text": "Qu\u2019est-ce que vous aimeriez dire à un démarcheur téléphonique ?"
             }
         },
         {
@@ -3414,7 +3414,7 @@
             "id": 48528,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous du chocolat?"
+                "text": "Que pensez-vous du chocolat ?"
             }
         },
         {
@@ -3442,7 +3442,7 @@
             "id": 49258,
             "choices": [],
             "prompt": {
-                "text": "Comment vous sentez-vous des parents qui ne font pas vacciner leurs enfants?"
+                "text": "Comment vous sentez-vous des parents qui ne font pas vacciner leurs enfants ?"
             }
         },
         {
@@ -3470,7 +3470,7 @@
             "id": 46627,
             "choices": [],
             "prompt": {
-                "text": "Quelle est votre ligne de conversation privilégiée?"
+                "text": "Quelle est votre ligne de conversation privilégiée ?"
             }
         },
         {
@@ -3498,7 +3498,7 @@
             "id": 46734,
             "choices": [],
             "prompt": {
-                "text": "Quel est le premier slogan de produit qui me vient à l\u2019esprit?"
+                "text": "Quel est le premier slogan de produit qui vous vient à l\u2019esprit ?"
             }
         },
         {
@@ -3526,7 +3526,7 @@
             "id": 46816,
             "choices": [],
             "prompt": {
-                "text": "Que diriez-vous à quelqu\u2019un qui pense que le gâteau vaut mieux que la tarte?"
+                "text": "Que diriez-vous à quelqu\u2019un qui pense que le gâteau vaut mieux que la tarte ?"
             }
         },
         {
@@ -3554,7 +3554,7 @@
             "id": 46792,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous de Shakespeare?"
+                "text": "Que pensez-vous de Shakespeare ?"
             }
         },
         {
@@ -3582,7 +3582,7 @@
             "id": 48523,
             "choices": [],
             "prompt": {
-                "text": "Que sont y nos réflexions sur le Premier ministre canadien Justin Trudeau?"
+                "text": "Quelles sont vos réflexions sur le premier ministre actuel ?"
             }
         },
         {
@@ -3610,7 +3610,7 @@
             "id": 49260,
             "choices": [],
             "prompt": {
-                "text": "Que diriez-vous si votre médecin vous disait que vous devez mettre le sucre à la porte pendant un mois?"
+                "text": "Votre médecin vous interdit de manger du sucre pendant le prochain mois. Que lui dites-vous ?"
             }
         },
         {
@@ -3638,7 +3638,7 @@
             "id": 46778,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous de la nudité à la télévision?"
+                "text": "Que pensez-vous de la nudité à la télévision ?"
             }
         },
         {
@@ -3666,7 +3666,7 @@
             "id": 48537,
             "choices": [],
             "prompt": {
-                "text": "Les gens qui fantômes lors des fêtes.Vos pensées?"
+                "text": "Que pensez-vous des gens qui annulent au dernier moment les soirées ?"
             }
         },
         {
@@ -3694,7 +3694,7 @@
             "id": 49249,
             "choices": [],
             "prompt": {
-                "text": "Quelle a été l\u2019une des premières choses que vous avez dites aujourd\u2019hui?"
+                "text": "Quelle a été l\u2019une des premières choses que vous avez dites aujourd\u2019hui ?"
             }
         },
         {
@@ -3722,7 +3722,7 @@
             "id": 48520,
             "choices": [],
             "prompt": {
-                "text": "Quelle est la bonne réplique à crier lors d\u2019une crise de rage au volant?"
+                "text": "Que dire à cet automobiliste qui vous a coupé la route ?"
             }
         },
         {
@@ -3750,7 +3750,7 @@
             "id": 46771,
             "choices": [],
             "prompt": {
-                "text": "Quelle est votre position sur la peine de mort?"
+                "text": "Quel est votre avis sur la peine de mort ?"
             }
         },
         {
@@ -3778,7 +3778,7 @@
             "id": 49262,
             "choices": [],
             "prompt": {
-                "text": "Comment êtes-vous le plus comme votre maman?"
+                "text": "Pourquoi vous ressemblez à votre mère ?"
             }
         },
         {
@@ -3806,7 +3806,7 @@
             "id": 46738,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous des gens qui ne recyclent pas?"
+                "text": "Que pensez-vous des gens qui ne recyclent pas ?"
             }
         },
         {
@@ -3834,7 +3834,7 @@
             "id": 48499,
             "choices": [],
             "prompt": {
-                "text": "Quelle est la musique avec les pires lyrics ?"
+                "text": "Quelle est la musique avec les pires paroles ?"
             }
         },
         {
@@ -3862,7 +3862,7 @@
             "id": 49421,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous des gens qui vivent dans les communes?"
+                "text": "Que pensez-vous des gens qui vivent à la campagne ?"
             }
         },
         {
@@ -3890,7 +3890,7 @@
             "id": 46770,
             "choices": [],
             "prompt": {
-                "text": "Flics sur Segway.Vos pensées?"
+                "text": "Votre avis sur Matrix ?"
             }
         },
         {
@@ -3918,7 +3918,7 @@
             "id": 46769,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous de la façon dont vos impôts sont dépensés?"
+                "text": "Que pensez-vous de la façon dont vos impôts sont dépensés ?"
             }
         },
         {
@@ -3946,13 +3946,13 @@
             "id": 44583,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous de la Saint-Valentin?"
+                "text": "Que pensez-vous de la Saint-Valentin ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Cela augmente vraiment ma fréquence cardiaque!",
+                    "text": "Cela augmente vraiment ma fréquence cardiaque !",
                     "type": "Negative"
                 },
                 {
@@ -3980,7 +3980,7 @@
         {
             "decoys": [
                 {
-                    "text": "C\u2019est le choices de tout le monde,mais pas pour moi.",
+                    "text": "C\u2019est le choix de tout le monde, mais pas pour moi.",
                     "type": "Negative"
                 },
                 {
@@ -4002,7 +4002,7 @@
             "id": 46766,
             "choices": [],
             "prompt": {
-                "text": "Comment vous sentez-vous sur les gens qui portent de la fourrure?"
+                "text": "Quel est votre avis sur les gens portant de la fourure ?"
             }
         },
         {
@@ -4030,7 +4030,7 @@
             "id": 49252,
             "choices": [],
             "prompt": {
-                "text": "Quel est votre mauvais mot préféré?"
+                "text": "Quel est votre insulte préférée ?"
             }
         },
         {
@@ -4058,7 +4058,7 @@
             "id": 49398,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous d\u2019 Amsterdam?"
+                "text": "Que pensez-vous de Paris ?"
             }
         },
         {
@@ -4086,7 +4086,7 @@
             "id": 48538,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous de la théorie selon laquelle les extraterrestres ont construit les pyramides?"
+                "text": "Que pensez-vous de la théorie selon laquelle les extraterrestres ont construit les pyramides ?"
             }
         },
         {
@@ -4114,7 +4114,7 @@
             "id": 49254,
             "choices": [],
             "prompt": {
-                "text": "Quelle est l\u2019une de vos citations de films préférées?"
+                "text": "Quelle est l\u2019une de vos citations de films préférées ?"
             }
         },
         {
@@ -4170,7 +4170,7 @@
             "id": 48524,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous de la lutte professionnelle?"
+                "text": "Que pensez-vous des syndicats de travail ?"
             }
         },
         {
@@ -4198,7 +4198,7 @@
             "id": 49366,
             "choices": [],
             "prompt": {
-                "text": "Comment se déroule votre retraite fu nd faire?"
+                "text": "Comment se déroule votre retraite ?"
             }
         },
         {
@@ -4226,7 +4226,7 @@
             "id": 49255,
             "choices": [],
             "prompt": {
-                "text": "Quelle est l\u2019une de vos citations télévisées préférées de tous les temps?"
+                "text": "Quelle est l\u2019une de vos citations télévisées préférées de tous les temps ?"
             }
         },
         {
@@ -4254,7 +4254,7 @@
             "id": 49484,
             "choices": [],
             "prompt": {
-                "text": "Qu\u2019est-ce que vous pourriez dire de gentil à propos de la personne la plus proche de vous en ce moment?"
+                "text": "Qu\u2019est-ce que vous pourriez dire de gentil à propos de la personne la plus proche de vous en ce moment ?"
             }
         },
         {
@@ -4282,7 +4282,7 @@
             "id": 49250,
             "choices": [],
             "prompt": {
-                "text": "Quelle est votre insulte préférée?"
+                "text": "Quelle est votre insulte préférée ?"
             }
         },
         {
@@ -4310,7 +4310,7 @@
             "id": 46466,
             "choices": [],
             "prompt": {
-                "text": "Quelle est une bonne question pour démarrer une conversation ?"
+                "text": "Donnez une bonne question pour démarrer une conversation ?"
             }
         },
         {
@@ -4338,7 +4338,7 @@
             "id": 46403,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous des anchois?"
+                "text": "Que pensez-vous des anchois ?"
             }
         },
         {
@@ -4366,7 +4366,7 @@
             "id": 48522,
             "choices": [],
             "prompt": {
-                "text": "Comment décririez-vous la politique en 2017?"
+                "text": "Comment décririez-vous la politique dans le futur ?"
             }
         },
         {
@@ -4394,7 +4394,7 @@
             "id": 46643,
             "choices": [],
             "prompt": {
-                "text": "Comment décririez-vous votre génération?"
+                "text": "Comment décririez-vous votre génération ?"
             }
         },
         {
@@ -4422,7 +4422,7 @@
             "id": 43849,
             "choices": [],
             "prompt": {
-                "text": "Que diriez-vous à votre jeune moi?"
+                "text": "Que diriez-vous à votre jeune moi ?"
             }
         },
         {
@@ -4450,7 +4450,7 @@
             "id": 49478,
             "choices": [],
             "prompt": {
-                "text": "Pourquoi la Joconde est-elle si populaire?"
+                "text": "Pourquoi la Joconde est-elle si populaire ?"
             }
         },
         {
@@ -4478,7 +4478,7 @@
             "id": 48497,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous de Johnny Depp?"
+                "text": "Que pensez-vous de Johnny Depp ?"
             }
         },
         {
@@ -4506,7 +4506,7 @@
             "id": 49251,
             "choices": [],
             "prompt": {
-                "text": "Qu\u2019est-ce que vous aimez crier lorsque vous êtes excité?"
+                "text": "Qu\u2019est-ce que vous aimez crier lorsque vous êtes excité ?"
             }
         },
         {
@@ -4534,7 +4534,7 @@
             "id": 46763,
             "choices": [],
             "prompt": {
-                "text": "Quelle est la bonne ligne à utiliser pour rompre doucement avec quelqu\u2019un?"
+                "text": "Quelle est la bonne phrase à utiliser pour rompre doucement avec quelqu\u2019un ?"
             }
         },
         {
@@ -4562,13 +4562,13 @@
             "id": 49256,
             "choices": [],
             "prompt": {
-                "text": "Qu\u2019est-ce qui est vraiment effrayant à chuchoter à quelqu\u2019un?"
+                "text": "Qu\u2019est-ce qui est vraiment effrayant à chuchoter à quelqu\u2019un ?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "C\u2019est vraiment un gars cool!",
+                    "text": "C\u2019est vraiment un gars cool !",
                     "type": "Negative"
                 },
                 {
@@ -4618,7 +4618,7 @@
             "id": 49365,
             "choices": [],
             "prompt": {
-                "text": "Comment votre médecin vous décrirait-il probablement?"
+                "text": "Comment votre médecin vous décrirait-il probablement ?"
             }
         },
         {
@@ -4646,7 +4646,7 @@
             "id": 49271,
             "choices": [],
             "prompt": {
-                "text": "Quel message aimeriez-vous écrire sur vos formulaires fiscaux?"
+                "text": "Quel message aimeriez-vous écrire aux inspecteurs des impôts ?"
             }
         },
         {
@@ -4674,7 +4674,7 @@
             "id": 46497,
             "choices": [],
             "prompt": {
-                "text": "Quelle phrase utilisez-vous lorsque vous êtes fou?"
+                "text": "Quelle phrase utilisez-vous lorsque vous êtes fou ?"
             }
         },
         {
@@ -4702,7 +4702,7 @@
             "id": 48540,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous des saveurs inhabituelles de croustilles?"
+                "text": "Que pensez-vous des saveurs utilisés dans les yaourts ?"
             }
         },
         {
@@ -4730,7 +4730,7 @@
             "id": 49253,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous des puzzles de salles d\u2019évasion?"
+                "text": "Que pensez-vous des escape games ?"
             }
         },
         {
@@ -4758,7 +4758,7 @@
             "id": 48527,
             "choices": [],
             "prompt": {
-                "text": "Comment vous sentez-vous habituellement le jour de votre anniversaire?"
+                "text": "Comment vous sentez-vous habituellement le jour de votre anniversaire ?"
             }
         },
         {
@@ -4786,7 +4786,7 @@
             "id": 47162,
             "choices": [],
             "prompt": {
-                "text": "Quelle est votre opinion sur les aliments OGM?"
+                "text": "Quelle est votre opinion sur les aliments sans OGM ?"
             }
         },
         {
@@ -4814,7 +4814,7 @@
             "id": 46835,
             "choices": [],
             "prompt": {
-                "text": "Que dit un biscuit de fortune boiteux?"
+                "text": "Qu'y a t'il d'écrit dans un fortune cookie périmé ?"
             }
         },
         {
@@ -4842,7 +4842,7 @@
             "id": 48539,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous de servir le petit-déjeuner pour le dîner?"
+                "text": "Quel est votre avis sur les gens mangeant un petit-déjeuner lors du diner ?"
             }
         },
         {
@@ -4870,7 +4870,7 @@
             "id": 46745,
             "choices": [],
             "prompt": {
-                "text": "Quelle est une phrase ou un slogan politique que vous êtes fatigué d\u2019entendre?"
+                "text": "Donnez une phrase ou un slogan politique que vous êtes fatigué d\u2019entendre ?"
             }
         },
         {
@@ -4898,7 +4898,7 @@
             "id": 44450,
             "choices": [],
             "prompt": {
-                "text": "Comment vous sentez-vous à propos des bananes vraiment mûres?"
+                "text": "Comment vous sentez-vous à propos des bananes vraiment mûres ?"
             }
         },
         {
@@ -4926,7 +4926,7 @@
             "id": 49209,
             "choices": [],
             "prompt": {
-                "text": "Qu\u2019est-ce que vous voulez souvent crier en regardant les actualités?"
+                "text": "Qu\u2019est-ce que vous voulez souvent crier en regardant les actualités ?"
             }
         },
         {
@@ -4954,7 +4954,7 @@
             "id": 46489,
             "choices": [],
             "prompt": {
-                "text": "Comment pourriez-vous être un meilleur ami?"
+                "text": "Comment pourriez-vous être mon meilleur ami ?"
             }
         },
         {
@@ -4982,7 +4982,7 @@
             "id": 48521,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous de Noël?"
+                "text": "Que pensez-vous de Noël ?"
             }
         },
         {
@@ -5010,7 +5010,7 @@
             "id": 49261,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous de Pâques?"
+                "text": "Que pensez-vous de Pâques ?"
             }
         },
         {
@@ -5038,7 +5038,7 @@
             "id": 48542,
             "choices": [],
             "prompt": {
-                "text": "Qu\u2019est-ce que vous pensez souvent en essayant de vous endormir?"
+                "text": "Qu\u2019est-ce que vous pensez souvent en essayant de vous endormir ?"
             }
         },
         {
@@ -5066,7 +5066,7 @@
             "id": 47554,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous des spinners fidget?"
+                "text": "Que pensez-vous des fidgets spinners ?"
             }
         },
         {
@@ -5122,7 +5122,7 @@
             "id": 43987,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous du golf?"
+                "text": "Que pensez-vous du golf ?"
             }
         },
         {
@@ -5150,7 +5150,7 @@
             "id": 43743,
             "choices": [],
             "prompt": {
-                "text": "Qu\u2019est-ce que vous vous murmurez vous- même dans un bain à remous?"
+                "text": "Qu\u2019est-ce que vous vous murmurez à vous-même dans un bain à remous?"
             }
         },
         {
@@ -5178,7 +5178,7 @@
             "id": 49363,
             "choices": [],
             "prompt": {
-                "text": "Quelque chose que vous aimeriez faire dites à vos ennemis?"
+                "text": "Quelque chose que vous aimeriez dire à vos amis ?"
             }
         },
         {
@@ -5206,7 +5206,7 @@
             "id": 48498,
             "choices": [],
             "prompt": {
-                "text": "Qu\u2019est-ce qu\u2019un serveur désagréable dit toujours?"
+                "text": "Qu\u2019est-ce qu\u2019un serveur désagréable dit toujours ?"
             }
         },
         {
@@ -5234,7 +5234,7 @@
             "id": 48541,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous de l\u2019anime?"
+                "text": "Que pensez-vous des animés ?"
             }
         },
         {
@@ -5262,7 +5262,7 @@
             "id": 49457,
             "choices": [],
             "prompt": {
-                "text": "Qu\u2019est-ce que vous aimeriez dire à la personne qui est la plus proche de vous en ce moment?"
+                "text": "Qu\u2019est-ce que vous aimeriez dire à la personne qui est la plus proche de vous en ce moment ?"
             }
         }
     ]

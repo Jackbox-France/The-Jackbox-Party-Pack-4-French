@@ -334,7 +334,7 @@
             "id": 44165,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous du raisin?"
+                "text": "Que pensez-vous du raisin ?"
             }
         },
         {
@@ -390,7 +390,7 @@
             "id": 45069,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous du brocoli?"
+                "text": "Que pensez-vous du brocoli ?"
             }
         },
         {
@@ -418,13 +418,13 @@
             "id": 45070,
             "choices": [],
             "prompt": {
-                "text": "Rédigez un bref avis des bains."
+                "text": "Rédigez un bref sur les piscines municipales."
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Ça m\u2019a fait look super spiffy!",
+                    "text": "Ça m\u2019a fait un look super sexy !",
                     "type": "Negative"
                 },
                 {
@@ -452,7 +452,7 @@
         {
             "decoys": [
                 {
-                    "text": "C\u2019était un super moment en famille!",
+                    "text": "C\u2019était un super moment en famille !",
                     "type": "Negative"
                 },
                 {
@@ -642,7 +642,7 @@
             "id": 47143,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous de Mountain Dew?"
+                "text": "Que pensez-vous de Pepsi ?"
             }
         },
         {
@@ -670,7 +670,7 @@
             "id": 48392,
             "choices": [],
             "prompt": {
-                "text": "Ecrire une critique de trois mots sur le chou frisé."
+                "text": "Ecrivez une critique de trois mots sur la salade frisée."
             }
         },
         {
@@ -1062,7 +1062,7 @@
             "id": 49270,
             "choices": [],
             "prompt": {
-                "text": "Écrivez un bref avis de Taco Bell."
+                "text": "Écrivez un bref avis de O'Tacos."
             }
         },
         {
@@ -1174,7 +1174,7 @@
             "id": 48382,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous du papier toilette monocouche?"
+                "text": "Que pensez-vous du papier toilette monocouche ?"
             }
         },
         {
@@ -1202,7 +1202,7 @@
             "id": 48479,
             "choices": [],
             "prompt": {
-                "text": "Rédigez un bref Negative sur les produits Apple."
+                "text": "Rédigez un avis négatif sur les produits Apple."
             }
         },
         {
@@ -1230,7 +1230,7 @@
             "id": 49269,
             "choices": [],
             "prompt": {
-                "text": "Que pensez-vous des produits Android?"
+                "text": "Que pensez-vous des produits Android ?"
             }
         },
         {
@@ -1258,7 +1258,7 @@
             "id": 49257,
             "choices": [],
             "prompt": {
-                "text": "Décrivez brièvement votre maison de rêve e."
+                "text": "Décrivez brièvement votre maison de rêve."
             }
         },
         {
@@ -1398,7 +1398,7 @@
             "id": 48532,
             "choices": [],
             "prompt": {
-                "text": "Rédigez un bref Negative sur le dernier hôtel / Airbnb où vous avez séjourné."
+                "text": "Rédigez une critique sur le dernier hôtel / Airbnb où vous avez séjourné."
             }
         },
         {

@@ -31,7 +31,7 @@
             "controllerTextSpec":{
                 "aboveBlackBox" : null,
                 "blackBox" : "<TargetResponse>",
-                "belowBlackBox" : "serait un commentaire ridicule en dessous d'une vidéo intitulée:",
+                "belowBlackBox" : "serait un commentaire ridicule en dessous d'une vidéo intitulée :",
                 "caret" : true
             },
             "controllerInputSpec":{
