@@ -27,15 +27,15 @@
             "choices": [
                 {
                     "id": "Beach",
-                    "text": "a beach"
+                    "text": "une plage"
                 },
                 {
                     "id": "Mountains",
-                    "text": "the mountains"
+                    "text": "les montagnes"
                 }
             ],
             "prompt": {
-                "text": "Where\u2019s the better place to propose to someone?"
+                "text": "Quel est le meilleur endroit pour faire sa demande en mariage ?"
             }
         },
         {
@@ -64,7 +64,7 @@
             "choices": [
                 {
                     "id": "Salmon",
-                    "text": "salmon"
+                    "text": "saumon"
                 },
                 {
                     "id": "Steak",
@@ -72,7 +72,7 @@
                 }
             ],
             "prompt": {
-                "text": "If you had to eat one of these foods, which one would you pick?"
+                "text": "Si vous deviez manger l'un de ces aliments, lequel choisiriez-vous ?"
             }
         },
         {
@@ -101,15 +101,15 @@
             "choices": [
                 {
                     "id": "Dog",
-                    "text": "a dog"
+                    "text": "un chien"
                 },
                 {
                     "id": "Moose",
-                    "text": "a moose"
+                    "text": "un élan"
                 }
             ],
             "prompt": {
-                "text": "If you had to be one of these animals, which one would you be?"
+                "text": "Si vous deviez être l'un de ces animaux, lequel seriez-vous ?"
             }
         },
         {
@@ -138,15 +138,15 @@
             "choices": [
                 {
                     "id": "Airplane",
-                    "text": "an airplane"
+                    "text": "un avion"
                 },
                 {
                     "id": "SubwayCar",
-                    "text": "a subway"
+                    "text": "un métro"
                 }
             ],
             "prompt": {
-                "text": "Which mode of transportation makes you more uncomfortable?"
+                "text": "Quel mode de transport est le plus inconfortable ?"
             }
         },
         {
@@ -175,15 +175,15 @@
             "choices": [
                 {
                     "id": "Sailboat",
-                    "text": "owning a sailboat"
+                    "text": "posséder un voilier"
                 },
                 {
                     "id": "HotAirBalloon",
-                    "text": "owning a hot air balloon"
+                    "text": "posséder une montgolfière"
                 }
             ],
             "prompt": {
-                "text": "What\u2019s a higher status symbol?"
+                "text": "Lequel est le plus grand symbole de richesse ?"
             }
         },
         {
@@ -212,15 +212,15 @@
             "choices": [
                 {
                     "id": "Suitcase",
-                    "text": "pack for a vacation"
+                    "text": "faire ses valises pour les vacances"
                 },
                 {
                     "id": "Moving",
-                    "text": "pack for a move"
+                    "text": "préparer un déménagement"
                 }
             ],
             "prompt": {
-                "text": "What kind of packing will you probably do next?"
+                "text": "Quel sera le prochain événement que vous ferez ?"
             }
         },
         {
@@ -249,15 +249,15 @@
             "choices": [
                 {
                     "id": "Dog",
-                    "text": "a dog"
+                    "text": "un chien"
                 },
                 {
                     "id": "Moose",
-                    "text": "a moose"
+                    "text": "un élan"
                 }
             ],
             "prompt": {
-                "text": "Which animal is more interesting?"
+                "text": "Quel animal est le plus intéressant ?"
             }
         },
         {
@@ -286,15 +286,15 @@
             "choices": [
                 {
                     "id": "Mexican",
-                    "text": "Mexican food"
+                    "text": "Cuisine mexicaine"
                 },
                 {
                     "id": "Indian",
-                    "text": "Indian food"
+                    "text": "Cuisine indienne"
                 }
             ],
             "prompt": {
-                "text": "If you could only eat one of these cuisines the rest of your life, what would you pick?"
+                "text": "Si vous ne pouviez manger qu'une seule de ces cuisines jusqu'à la fin de votre vie, laquelle choisiriez-vous ?"
             }
         },
         {
@@ -323,15 +323,15 @@
             "choices": [
                 {
                     "id": "Park",
-                    "text": "in a park"
+                    "text": "dans un parc"
                 },
                 {
                     "id": "Office",
-                    "text": "at your desk"
+                    "text": "à votre bureau"
                 }
             ],
             "prompt": {
-                "text": "During the summer, where do you most often eat lunch?"
+                "text": "Pendant l'été, où déjeunez-vous le plus souvent ?"
             }
         },
         {
@@ -360,15 +360,15 @@
             "choices": [
                 {
                     "id": "Giraffe",
-                    "text": "spotting a giraffe in the wild"
+                    "text": "apercevoir une girafe dans la nature"
                 },
                 {
                     "id": "ShootingStar",
-                    "text": "catching a shooting star"
+                    "text": "attraper une étoile filante"
                 }
             ],
             "prompt": {
-                "text": "What\u2019s more breathtaking?"
+                "text": "Qu'y a-t-il de plus époustouflant ?"
             }
         },
         {
@@ -397,15 +397,15 @@
             "choices": [
                 {
                     "id": "Chimpanzee",
-                    "text": "a chimpanzee"
+                    "text": "un chimpanzé"
                 },
                 {
                     "id": "Rabbit",
-                    "text": "a rabbit"
+                    "text": "un lapin"
                 }
             ],
             "prompt": {
-                "text": "Which animal do you think you can draw better?"
+                "text": "Quel animal penses-tu pouvoir le mieux dessiner ?"
             }
         },
         {
@@ -434,15 +434,15 @@
             "choices": [
                 {
                     "id": "Lion",
-                    "text": "the lion"
+                    "text": "le lion"
                 },
                 {
                     "id": "Horse",
-                    "text": "the horse"
+                    "text": "le cheval"
                 }
             ],
             "prompt": {
-                "text": "Which animal has a better mane?"
+                "text": "Quel animal a la plus belle crinière ?"
             }
         },
         {
@@ -471,15 +471,15 @@
             "choices": [
                 {
                     "id": "PostOffice",
-                    "text": "in line at the post office"
+                    "text": "dans la file d'attente du bureau de poste"
                 },
                 {
                     "id": "Traffic",
-                    "text": "sitting in traffic"
+                    "text": "dans les embouteillages"
                 }
             ],
             "prompt": {
-                "text": "Where would you rather not be when you have diarrhea?"
+                "text": "Où préférez-vous ne pas être lorsque vous avez la diarrhée ?"
             }
         },
         {
@@ -508,15 +508,15 @@
             "choices": [
                 {
                     "id": "Russia",
-                    "text": "Russia"
+                    "text": "en Russie"
                 },
                 {
                     "id": "Jungle",
-                    "text": "the Amazon Rainforest"
+                    "text": "dans la forêt amazonienne"
                 }
             ],
             "prompt": {
-                "text": "Where would you go if you were in exile?"
+                "text": "Où iriez-vous si vous étiez en exil ?"
             }
         },
         {
@@ -545,15 +545,15 @@
             "choices": [
                 {
                     "id": "ParkingTicket",
-                    "text": "getting a parking ticket"
+                    "text": "recevoir une amende pour stationnement"
                 },
                 {
                     "id": "Goldfish",
-                    "text": "swallowing a goldfish"
+                    "text": "avaler un poisson rouge"
                 }
             ],
             "prompt": {
-                "text": "If it were a choice between the two, which would you choose?"
+                "text": "Si vous deviez choisir entre les deux, lequel choisiriez-vous ?"
             }
         },
         {
@@ -582,15 +582,15 @@
             "choices": [
                 {
                     "id": "CoffeeShop",
-                    "text": "in a coffee shop"
+                    "text": "dans un café"
                 },
                 {
                     "id": "Boxing",
-                    "text": "at a boxing match"
+                    "text": "lors d'un match de boxe"
                 }
             ],
             "prompt": {
-                "text": "Where is there better people watching?"
+                "text": "Où peut-on mieux observer les gens ?"
             }
         },
         {
@@ -619,15 +619,15 @@
             "choices": [
                 {
                     "id": "Wedding",
-                    "text": "a wedding"
+                    "text": "un mariage"
                 },
                 {
                     "id": "Minivan",
-                    "text": "a car"
+                    "text": "un mini-van"
                 }
             ],
             "prompt": {
-                "text": "What should you spend more money on?"
+                "text": "À quoi devriez-vous consacrer le plus d'argent ?"
             }
         },
         {
@@ -656,15 +656,15 @@
             "choices": [
                 {
                     "id": "Island",
-                    "text": "your own island"
+                    "text": "votre propre île"
                 },
                 {
                     "id": "Steak",
-                    "text": "free steak for life"
+                    "text": "steak gratuit à vie"
                 }
             ],
             "prompt": {
-                "text": "What would you rather win?"
+                "text": "Que préférez-vous avoir ?"
             }
         },
         {
@@ -693,15 +693,15 @@
             "choices": [
                 {
                     "id": "Minivan",
-                    "text": "buying minivans"
+                    "text": "l'achat de minivans"
                 },
                 {
                     "id": "AvocadoToast",
-                    "text": "buying avocado toast"
+                    "text": "acheter des toasts à l'avocat"
                 }
             ],
             "prompt": {
-                "text": "What\u2019s more popular among your friends?"
+                "text": "Qu'est-ce qui est le plus apprécié par vos amis ?"
             }
         },
         {
@@ -730,15 +730,15 @@
             "choices": [
                 {
                     "id": "Sunset",
-                    "text": "a sunset"
+                    "text": "un coucher de soleil"
                 },
                 {
                     "id": "HorseRace",
-                    "text": "a horse race"
+                    "text": "une course de chevaux"
                 }
             ],
             "prompt": {
-                "text": "What better describes your mood right now?"
+                "text": "Qu'est-ce qui décrit le mieux votre état d'esprit actuel ?"
             }
         },
         {
@@ -767,15 +767,15 @@
             "choices": [
                 {
                     "id": "MovieTheater",
-                    "text": "at a movie theater"
+                    "text": "dans un cinéma"
                 },
                 {
                     "id": "Wrestling",
-                    "text": "at a wrestling match"
+                    "text": "lors d'un match de catch"
                 }
             ],
             "prompt": {
-                "text": "Where\u2019s a better place to break up with someone?"
+                "text": "Quel est le meilleur endroit pour rompre avec quelqu'un ?"
             }
         },
         {
@@ -804,15 +804,15 @@
             "choices": [
                 {
                     "id": "HouseParty",
-                    "text": "around people"
+                    "text": "avec des personnes"
                 },
                 {
                     "id": "Meditation",
-                    "text": "alone"
+                    "text": "seul"
                 }
             ],
             "prompt": {
-                "text": "Where do you usually feel most comfortable?"
+                "text": "Où vous sentez-vous le plus à l'aise ?"
             }
         },
         {
@@ -841,15 +841,15 @@
             "choices": [
                 {
                     "id": "Segway",
-                    "text": "owning a Segway"
+                    "text": "posséder un Segway"
                 },
                 {
                     "id": "Orangutan",
-                    "text": "owning a pet Orangutan"
+                    "text": "posséder un orang-outan"
                 }
             ],
             "prompt": {
-                "text": "What would impress your friends more?"
+                "text": "Qu'est-ce qui impressionnerait le plus vos amis ?"
             }
         },
         {
@@ -878,15 +878,15 @@
             "choices": [
                 {
                     "id": "SemiTruck",
-                    "text": "a semi"
+                    "text": "un semi-remorque"
                 },
                 {
                     "id": "Segway",
-                    "text": "a Segway"
+                    "text": "un Segway"
                 }
             ],
             "prompt": {
-                "text": "On the highway of life, which are you?"
+                "text": "Sur l'autoroute de la vie, lequel êtes-vous ?"
             }
         },
         {
@@ -915,15 +915,15 @@
             "choices": [
                 {
                     "id": "GasStation",
-                    "text": "at a gas station"
+                    "text": "dans une station-service"
                 },
                 {
                     "id": "Airplane",
-                    "text": "on an airplane"
+                    "text": "dans un avion"
                 }
             ],
             "prompt": {
-                "text": "Where would you rather pee?"
+                "text": "Où préférez-vous faire pipi ?"
             }
         },
         {
@@ -952,15 +952,15 @@
             "choices": [
                 {
                     "id": "Gym",
-                    "text": "at the gym"
+                    "text": "à la gym"
                 },
                 {
                     "id": "ConcertStage",
-                    "text": "at an outdoor concert"
+                    "text": "à un concert en plein air"
                 }
             ],
             "prompt": {
-                "text": "Where would you rather sweat?"
+                "text": "Où préférez-vous transpirer ?"
             }
         },
         {
@@ -989,15 +989,15 @@
             "choices": [
                 {
                     "id": "Convertible",
-                    "text": "being picked up in convertible"
+                    "text": "être pris en charge dans une décapotable"
                 },
                 {
                     "id": "Museum",
-                    "text": "going to a museum"
+                    "text": "aller au musée"
                 }
             ],
             "prompt": {
-                "text": "What would impress you more on a date?"
+                "text": "Qu'est-ce qui vous impressionnerait le plus lors d'un rendez-vous galant ?"
             }
         },
         {
@@ -1026,7 +1026,7 @@
             "choices": [
                 {
                     "id": "London",
-                    "text": "London"
+                    "text": "Londres"
                 },
                 {
                     "id": "Vegas",
@@ -1034,7 +1034,7 @@
                 }
             ],
             "prompt": {
-                "text": "Where would you rather take your next vacation?"
+                "text": "Où préféreriez-vous prendre vos prochaines vacances ?"
             }
         },
         {
@@ -1063,15 +1063,15 @@
             "choices": [
                 {
                     "id": "Indian",
-                    "text": "an Indian meal"
+                    "text": "un repas indien"
                 },
                 {
                     "id": "Volleyball",
-                    "text": "a volleyball match"
+                    "text": "un match volleyball "
                 }
             ],
             "prompt": {
-                "text": "Which would more of your friends join you for?"
+                "text": "Pour lequel de ces événements vos amis vous rejoindraient-ils le plus ?"
             }
         },
         {
@@ -1100,15 +1100,15 @@
             "choices": [
                 {
                     "id": "Football",
-                    "text": "football"
+                    "text": "le football"
                 },
                 {
                     "id": "ApplePicking",
-                    "text": "apple picking"
+                    "text": "la cueillette de pommes"
                 }
             ],
             "prompt": {
-                "text": "What\u2019s more appealing about fall?"
+                "text": "Qu'est-ce qui rend l'automne plus attrayant ?"
             }
         },
         {
@@ -1137,15 +1137,15 @@
             "choices": [
                 {
                     "id": "RollerCoaster",
-                    "text": "going on a roller coaster"
+                    "text": "faire des montagnes russes"
                 },
                 {
                     "id": "Motorcycle",
-                    "text": "riding a motorcycle"
+                    "text": "la conduite d'une moto"
                 }
             ],
             "prompt": {
-                "text": "What\u2019s more of a thrill?"
+                "text": "Qu'est-ce qui est le plus excitant ?"
             }
         },
         {
@@ -1174,15 +1174,15 @@
             "choices": [
                 {
                     "id": "Train",
-                    "text": "a scenic train ride"
+                    "text": "un voyage en train pittoresque"
                 },
                 {
                     "id": "Mountains",
-                    "text": "a mountain hike"
+                    "text": "une randonnée en montagne"
                 }
             ],
             "prompt": {
-                "text": "What sounds like a better adventure to you?"
+                "text": "Qu'est-ce qui vous semble être une meilleure aventure ?"
             }
         },
         {
@@ -1211,15 +1211,15 @@
             "choices": [
                 {
                     "id": "Beach",
-                    "text": "a beach"
+                    "text": "une plage"
                 },
                 {
                     "id": "Mountains",
-                    "text": "the mountains"
+                    "text": "les montagnes"
                 }
             ],
             "prompt": {
-                "text": "Which scenery would you rather have on your next vacation?"
+                "text": "Quel paysage préférez-vous pour vos prochaines vacances ?"
             }
         },
         {
@@ -1248,15 +1248,15 @@
             "choices": [
                 {
                     "id": "Hamburger",
-                    "text": "a good hamburger"
+                    "text": "un bon hamburger"
                 },
                 {
                     "id": "RomanticGetaway",
-                    "text": "a romantic getaway"
+                    "text": "une superbe escapade romantique"
                 }
             ],
             "prompt": {
-                "text": "Which would you rather have right now?"
+                "text": "Lequel des deux préfèrerait-on avoir maintenant ?"
             }
         },
         {
@@ -1285,15 +1285,15 @@
             "choices": [
                 {
                     "id": "Bicycle",
-                    "text": "riding a bike"
+                    "text": "faire du vélo"
                 },
                 {
                     "id": "Tennis",
-                    "text": "playing tennis"
+                    "text": "jouer au tennis"
                 }
             ],
             "prompt": {
-                "text": "What form of exercise would you prefer?"
+                "text": "Quelle forme d'exercice préférez-vous ?"
             }
         },
         {
@@ -1322,15 +1322,15 @@
             "choices": [
                 {
                     "id": "Puppies",
-                    "text": "puppies"
+                    "text": "chiots"
                 },
                 {
                     "id": "Kittens",
-                    "text": "kittens"
+                    "text": "chatons"
                 }
             ],
             "prompt": {
-                "text": "What are easier to take care of?"
+                "text": "Quels sont ceux dont il est le plus facile de s'occuper ?"
             }
         },
         {
@@ -1359,15 +1359,15 @@
             "choices": [
                 {
                     "id": "Baseball",
-                    "text": "the baseball game"
+                    "text": "le match de baseball"
                 },
                 {
                     "id": "HotDogs",
-                    "text": "the hot dog"
+                    "text": "le hot-dog"
                 }
             ],
             "prompt": {
-                "text": "Which are you more interested in?"
+                "text": "Lequel vous intéresse le plus ?"
             }
         },
         {
@@ -1396,15 +1396,15 @@
             "choices": [
                 {
                     "id": "Salad",
-                    "text": "eating salads"
+                    "text": "manger des salades"
                 },
                 {
                     "id": "Yoga",
-                    "text": "doing yoga"
+                    "text": "faire du yoga"
                 }
             ],
             "prompt": {
-                "text": "Which healthy habit is easier to adopt?"
+                "text": "Quelle habitude saine est la plus facile à adopter ?"
             }
         },
         {
@@ -1433,15 +1433,15 @@
             "choices": [
                 {
                     "id": "Forest",
-                    "text": "a walk in the woods"
+                    "text": "une promenade dans les bois"
                 },
                 {
                     "id": "Rainstorm",
-                    "text": "a rainy day inside"
+                    "text": "un jour de pluie à l'intérieur"
                 }
             ],
             "prompt": {
-                "text": "What\u2019s more soothing?"
+                "text": "Qu'y a-t-il de plus apaisant ?"
             }
         },
         {
@@ -1470,15 +1470,15 @@
             "choices": [
                 {
                     "id": "FarmHouse",
-                    "text": "in a remote farm house"
+                    "text": "dans une ferme isolée"
                 },
                 {
                     "id": "SemiTruck",
-                    "text": "in a semi truck"
+                    "text": "dans un semi-remorque"
                 }
             ],
             "prompt": {
-                "text": "Where would you feel safer in the zombie apocalypse?"
+                "text": "Où vous sentiriez-vous le plus en sécurité en cas d'apocalypse zombie ?"
             }
         },
         {
@@ -1507,15 +1507,15 @@
             "choices": [
                 {
                     "id": "Statue",
-                    "text": "a statue of yourself"
+                    "text": "une statue de vous-même"
                 },
                 {
                     "id": "Sailboat",
-                    "text": "a sailboat"
+                    "text": "un voilier"
                 }
             ],
             "prompt": {
-                "text": "If you were ultra-wealthy, what would you buy first?"
+                "text": "Si vous étiez richissime, qu'achèteriez-vous en premier ?"
             }
         },
         {
@@ -1544,15 +1544,15 @@
             "choices": [
                 {
                     "id": "Graduation",
-                    "text": "someone\u2019s graduation"
+                    "text": "l'obtention d'un diplôme"
                 },
                 {
                     "id": "BirthdayParty",
-                    "text": "their birthday party"
+                    "text": "un anniversaire"
                 }
             ],
             "prompt": {
-                "text": "Which of these is it harder to buy a gift for?"
+                "text": "Pour lequel de ces événements est-il le plus difficile d'acheter un cadeau ?"
             }
         },
         {
@@ -1581,15 +1581,15 @@
             "choices": [
                 {
                     "id": "Cabin",
-                    "text": "a cabin in the woods"
+                    "text": "une cabane dans les bois"
                 },
                 {
                     "id": "Condo",
-                    "text": "a condo"
+                    "text": "un appartement"
                 }
             ],
             "prompt": {
-                "text": "Where would you rather live?"
+                "text": "Où préférez-vous vivre ?"
             }
         },
         {
@@ -1618,15 +1618,15 @@
             "choices": [
                 {
                     "id": "Motorcycle",
-                    "text": "riding a motorcycle"
+                    "text": "faire de la moto"
                 },
                 {
                     "id": "Boxing",
-                    "text": "boxing"
+                    "text": "faire de la boxe"
                 }
             ],
             "prompt": {
-                "text": "Which would be more exciting?"
+                "text": "Qu'est-ce qui serait le plus excitant ?"
             }
         },
         {
@@ -1655,7 +1655,7 @@
             "choices": [
                 {
                     "id": "Salmon",
-                    "text": "salmon"
+                    "text": "saumon"
                 },
                 {
                     "id": "Steak",
@@ -1663,7 +1663,7 @@
                 }
             ],
             "prompt": {
-                "text": "What would you rather spend more money on?"
+                "text": "À quoi préféreriez-vous consacrer plus d'argent ?"
             }
         },
         {
@@ -1692,15 +1692,15 @@
             "choices": [
                 {
                     "id": "Puppies",
-                    "text": "puppies"
+                    "text": "chiots"
                 },
                 {
                     "id": "Kittens",
-                    "text": "kittens"
+                    "text": "chatons"
                 }
             ],
             "prompt": {
-                "text": "What are more overrated?"
+                "text": "Qu'est-ce qui est le plus surcôté ?"
             }
         },
         {
@@ -1729,15 +1729,15 @@
             "choices": [
                 {
                     "id": "Rainstorm",
-                    "text": "getting caught in a rainstorm"
+                    "text": "être pris dans une tempête de pluie"
                 },
                 {
                     "id": "Airplane",
-                    "text": "a two hour plane delay"
+                    "text": "un retard d'avion de deux heures"
                 }
             ],
             "prompt": {
-                "text": "Which would suck worse?"
+                "text": "Lequel des deux est le plus chiant ?"
             }
         },
         {
@@ -1766,15 +1766,15 @@
             "choices": [
                 {
                     "id": "Convertible",
-                    "text": "a convertible"
+                    "text": "un cabriolet"
                 },
                 {
                     "id": "Horse",
-                    "text": "a horse"
+                    "text": "un cheval"
                 }
             ],
             "prompt": {
-                "text": "What would you like to ride in a parade?"
+                "text": "Qu'aimeriez-vous prendre dans un défilé ?"
             }
         },
         {
@@ -1803,15 +1803,15 @@
             "choices": [
                 {
                     "id": "Rollerblades",
-                    "text": "on rollerblades"
+                    "text": "sur des rollers"
                 },
                 {
                     "id": "Segway",
-                    "text": "on a Segway"
+                    "text": "sur un Segway"
                 }
             ],
             "prompt": {
-                "text": "What\u2019s a more embarrassing way to die?"
+                "text": "Quelle est la façon la plus embarrassante de mourir ?"
             }
         },
         {
@@ -1840,15 +1840,15 @@
             "choices": [
                 {
                     "id": "Wedding",
-                    "text": "attending a wedding"
+                    "text": "assister à un mariage"
                 },
                 {
                     "id": "Camping",
-                    "text": "going on a camping trip"
+                    "text": "partir en camping"
                 }
             ],
             "prompt": {
-                "text": "What\u2019s usually a more fun weekend?"
+                "text": "Quel est le week-end le plus amusant ?"
             }
         },
         {
@@ -1877,15 +1877,15 @@
             "choices": [
                 {
                     "id": "ParkingTicket",
-                    "text": "getting a parking ticket"
+                    "text": "recevoir une amende pour stationnement"
                 },
                 {
                     "id": "Rainstorm",
-                    "text": "getting caught in a rainstorm"
+                    "text": "être pris dans une tempête de pluie"
                 }
             ],
             "prompt": {
-                "text": "Which sucks more?"
+                "text": "C'est quoi le pire ?"
             }
         },
         {
@@ -1914,15 +1914,15 @@
             "choices": [
                 {
                     "id": "Cabin",
-                    "text": "a cabin in the woods"
+                    "text": "une cabane dans les bois"
                 },
                 {
                     "id": "Condo",
-                    "text": "a condo"
+                    "text": "un appartement"
                 }
             ],
             "prompt": {
-                "text": "Where do you see yourself living in 30 years?"
+                "text": "Où vous voyez-vous vivre dans 30 ans ?"
             }
         },
         {
@@ -1951,15 +1951,15 @@
             "choices": [
                 {
                     "id": "Cabin",
-                    "text": "in a cabin"
+                    "text": "dans une cabane"
                 },
                 {
                     "id": "Island",
-                    "text": "on an island"
+                    "text": "sur une île"
                 }
             ],
             "prompt": {
-                "text": "Where would you write your manifesto?"
+                "text": "Où écririez-vous votre manifeste ?"
             }
         },
         {
@@ -1988,15 +1988,15 @@
             "choices": [
                 {
                     "id": "CoffeeShop",
-                    "text": "a coffee shop"
+                    "text": "un café"
                 },
                 {
                     "id": "Office",
-                    "text": "the office"
+                    "text": "le bureau"
                 }
             ],
             "prompt": {
-                "text": "Where can you get more work done?"
+                "text": "Dans quel environnement aimeriez-vous travailler ?"
             }
         },
         {
@@ -2025,15 +2025,15 @@
             "choices": [
                 {
                     "id": "Lion",
-                    "text": "a lion"
+                    "text": "un lion"
                 },
                 {
                     "id": "Bear",
-                    "text": "a bear"
+                    "text": "un ours"
                 }
             ],
             "prompt": {
-                "text": "Which animal has the more ferocious growl?"
+                "text": "Quel animal a le grognement le plus féroce ?"
             }
         },
         {
@@ -2062,15 +2062,15 @@
             "choices": [
                 {
                     "id": "Football",
-                    "text": "the game"
+                    "text": "le match"
                 },
                 {
                     "id": "Guacamole",
-                    "text": "the guacamole"
+                    "text": "le guacamole"
                 }
             ],
             "prompt": {
-                "text": "What\u2019s the best part about going to a football viewing party?"
+                "text": "Quel est le meilleur moment lors d'un match de football ?"
             }
         },
         {
@@ -2099,15 +2099,15 @@
             "choices": [
                 {
                     "id": "Spider",
-                    "text": "spiders"
+                    "text": "araignées"
                 },
                 {
                     "id": "Bat",
-                    "text": "bats"
+                    "text": "chauves-souris"
                 }
             ],
             "prompt": {
-                "text": "What are you more afraid of?"
+                "text": "De quoi avez-vous le plus peur ?"
             }
         },
         {
@@ -2136,15 +2136,15 @@
             "choices": [
                 {
                     "id": "Suitcase",
-                    "text": "when packing for a trip"
+                    "text": "lors de la préparation d'un voyage"
                 },
                 {
                     "id": "Gym",
-                    "text": "when packing for the gym"
+                    "text": "lors de la préparation pour aller à la salle de sport"
                 }
             ],
             "prompt": {
-                "text": "When are you most forgetful?"
+                "text": "Quand êtes-vous le plus oublieux ?"
             }
         },
         {
@@ -2181,7 +2181,7 @@
                 }
             ],
             "prompt": {
-                "text": "Which game do you understand better?"
+                "text": "Quel jeu comprenez-vous le mieux ??"
             }
         },
         {
@@ -2210,15 +2210,15 @@
             "choices": [
                 {
                     "id": "ConcertStage",
-                    "text": "a music festival"
+                    "text": "un festival de musique"
                 },
                 {
                     "id": "BBQ",
-                    "text": "a rib fest"
+                    "text": "un barbecue"
                 }
             ],
             "prompt": {
-                "text": "Which festival would you rather go to?"
+                "text": "À quel événement préférez-vous aller ?"
             }
         },
         {
@@ -2247,15 +2247,15 @@
             "choices": [
                 {
                     "id": "Moose",
-                    "text": "a moose"
+                    "text": "un élan"
                 },
                 {
                     "id": "Dolphin",
-                    "text": "a dolphin"
+                    "text": "un dauphin"
                 }
             ],
             "prompt": {
-                "text": "Which of these animals would you most like to see in the wild?"
+                "text": "Lequel de ces animaux aimeriez-vous le plus voir à l'état sauvage ?"
             }
         },
         {
@@ -2292,7 +2292,7 @@
                 }
             ],
             "prompt": {
-                "text": "Which sport is more popular where you grew up?"
+                "text": "Quel est le sport le plus populaire là où vous avez grandi ?"
             }
         },
         {
@@ -2321,15 +2321,15 @@
             "choices": [
                 {
                     "id": "Dolphin",
-                    "text": "A dolphin"
+                    "text": "Un dauphin"
                 },
                 {
                     "id": "Gyro",
-                    "text": "A gyro"
+                    "text": "Un gyro"
                 }
             ],
             "prompt": {
-                "text": "If you had to pick one, what would you rather get a tattoo of?"
+                "text": "Si vous deviez en choisir un, que préféreriez-vous vous faire tatouer ?"
             }
         },
         {
@@ -2358,15 +2358,15 @@
             "choices": [
                 {
                     "id": "BBQ",
-                    "text": "a barbecue"
+                    "text": "dans un barbecue"
                 },
                 {
                     "id": "CoffeeShop",
-                    "text": "a coffee shop"
+                    "text": "dans un café"
                 }
             ],
             "prompt": {
-                "text": "Where would you rather be right now?"
+                "text": "Où préférez-vous être en ce moment ?"
             }
         },
         {
@@ -2395,15 +2395,15 @@
             "choices": [
                 {
                     "id": "Museum",
-                    "text": "museums"
+                    "text": "musées"
                 },
                 {
                     "id": "CoffeeShop",
-                    "text": "coffee shops"
+                    "text": "cafés"
                 }
             ],
             "prompt": {
-                "text": "Where do you think more history majors work?"
+                "text": "Où pensez-vous qu'il y a le plus d'étudiants en histoire qui travaillent ?"
             }
         },
         {
@@ -2432,15 +2432,15 @@
             "choices": [
                 {
                     "id": "FeetOnBeach",
-                    "text": "feet on the beach"
+                    "text": "pieds sur la plage"
                 },
                 {
                     "id": "AvocadoToast",
-                    "text": "picture of meal"
+                    "text": "photo du repas"
                 }
             ],
             "prompt": {
-                "text": "Which photo trend is more annoying?"
+                "text": "Quelle est la tendance photo la plus ennuyeuse ?"
             }
         },
         {
@@ -2469,15 +2469,15 @@
             "choices": [
                 {
                     "id": "Football",
-                    "text": "a football game"
+                    "text": "une partie de football"
                 },
                 {
                     "id": "ConcertStage",
-                    "text": "a rock show"
+                    "text": "un spectacle de rock"
                 }
             ],
             "prompt": {
-                "text": "Which would you rather buy a ticket to go see?"
+                "text": "Pour quel événement préférez-vous acheter un billet ?"
             }
         },
         {
@@ -2506,15 +2506,15 @@
             "choices": [
                 {
                     "id": "Mountains",
-                    "text": "in the mountains"
+                    "text": "dans les montagnes"
                 },
                 {
                     "id": "Beach",
-                    "text": "on the beach"
+                    "text": "sur la plage"
                 }
             ],
             "prompt": {
-                "text": "Where would you probably write more poetry?"
+                "text": "Où écrirais-tu un poème ?"
             }
         },
         {
@@ -2543,15 +2543,15 @@
             "choices": [
                 {
                     "id": "IceCream",
-                    "text": "ice cream"
+                    "text": "de la glace"
                 },
                 {
                     "id": "Pizza",
-                    "text": "pizza"
+                    "text": "de la pizza"
                 }
             ],
             "prompt": {
-                "text": "What are you more likely to eat late at night?"
+                "text": "Que mangez-vous le plus souvent tard dans la nuit ?"
             }
         },
         {
@@ -2580,15 +2580,15 @@
             "choices": [
                 {
                     "id": "Graduation",
-                    "text": "speaking at a graduation"
+                    "text": "prendre la parole lors d'une remise de diplômes"
                 },
                 {
                     "id": "Ferret",
-                    "text": "owning a ferret"
+                    "text": "posséder un furet"
                 }
             ],
             "prompt": {
-                "text": "Which do you think would be more nerve-racking?"
+                "text": "Lequel des deux serait le plus éprouvant pour les nerfs ?"
             }
         },
         {
@@ -2617,15 +2617,15 @@
             "choices": [
                 {
                     "id": "GasStation",
-                    "text": "at a gas station"
+                    "text": "dans une station-service"
                 },
                 {
                     "id": "MovieTheater",
-                    "text": "at a movie theater"
+                    "text": "dans un cinéma"
                 }
             ],
             "prompt": {
-                "text": "Where would you rather pee?"
+                "text": "Où préférez-vous faire pipi ?"
             }
         },
         {
@@ -2654,15 +2654,15 @@
             "choices": [
                 {
                     "id": "Elephant",
-                    "text": "an elephant"
+                    "text": "un éléphant"
                 },
                 {
                     "id": "Orangutan",
-                    "text": "an orangutan"
+                    "text": "un orang-outan"
                 }
             ],
             "prompt": {
-                "text": "If they could talk, which of these animals would probably have an English accent?"
+                "text": "S'ils pouvaient parler, lequel de ces animaux aurait probablement un accent anglais ?"
             }
         },
         {
@@ -2691,15 +2691,15 @@
             "choices": [
                 {
                     "id": "Jeep",
-                    "text": "a jeep"
+                    "text": "une jeep"
                 },
                 {
                     "id": "Motorcycle",
-                    "text": "a motorcycle"
+                    "text": "un cyclomoteur"
                 }
             ],
             "prompt": {
-                "text": "What\u2019s more fun to drive?"
+                "text": "Qu'est-ce qui est le plus amusant à conduire ?"
             }
         },
         {
@@ -2728,15 +2728,15 @@
             "choices": [
                 {
                     "id": "Motel",
-                    "text": "a motel breakfast"
+                    "text": "un petit déjeuner dans un motel"
                 },
                 {
                     "id": "Airplane",
-                    "text": "an airline breakfast"
+                    "text": "un petit déjeuner dans un avion"
                 }
             ],
             "prompt": {
-                "text": "Which can seem more like food?"
+                "text": "Lequel est le plus proche de la nourriture ?"
             }
         },
         {
@@ -2765,15 +2765,15 @@
             "choices": [
                 {
                     "id": "Rollerblades",
-                    "text": "rollerblades"
+                    "text": "des rollers"
                 },
                 {
                     "id": "Segway",
-                    "text": "a Segway"
+                    "text": "un Segway"
                 }
             ],
             "prompt": {
-                "text": "Which of these makes you look like a bigger idiot?"
+                "text": "Lequel des deux vous fait passer pour le plus grand des imbéciles ?"
             }
         },
         {
@@ -2806,11 +2806,11 @@
                 },
                 {
                     "id": "NewYorkCity",
-                    "text": "New York City"
+                    "text": "New York"
                 }
             ],
             "prompt": {
-                "text": "Which city has the better food?"
+                "text": "Quelle ville a la meilleure cuisine ?"
             }
         },
         {
@@ -2839,15 +2839,15 @@
             "choices": [
                 {
                     "id": "Desert",
-                    "text": "a desert"
+                    "text": "un désert"
                 },
                 {
                     "id": "Igloo",
-                    "text": "Antarctica"
+                    "text": "l'Antarctique"
                 }
             ],
             "prompt": {
-                "text": "Where you would most likely survive after a week?"
+                "text": "Où auriez-vous le plus de chances de survivre après une semaine ?"
             }
         },
         {
@@ -2876,15 +2876,15 @@
             "choices": [
                 {
                     "id": "Minivan",
-                    "text": "a minivan"
+                    "text": "un minivan"
                 },
                 {
                     "id": "PickupTruck",
-                    "text": "a pickup truck"
+                    "text": "un pick-up"
                 }
             ],
             "prompt": {
-                "text": "Which of these vehicles would you find more practical?"
+                "text": "Lequel de ces véhicules vous paraîtrait le plus pratique ?"
             }
         },
         {
@@ -2913,15 +2913,15 @@
             "choices": [
                 {
                     "id": "Mansion",
-                    "text": "a mansion"
+                    "text": "un manoir"
                 },
                 {
                     "id": "Basketball",
-                    "text": "a basketball team"
+                    "text": "une équipe de basketball"
                 }
             ],
             "prompt": {
-                "text": "Which would be a better investment?"
+                "text": "Quel serait le meilleur investissement ?"
             }
         },
         {
@@ -2950,15 +2950,15 @@
             "choices": [
                 {
                     "id": "Barn",
-                    "text": "in an empty barn"
+                    "text": "dans une grange vide"
                 },
                 {
                     "id": "MovieTheater",
-                    "text": "in a crowded movie theater"
+                    "text": "dans un cinéma bondé"
                 }
             ],
             "prompt": {
-                "text": "Where would you be more anxious?"
+                "text": "Où seriez-vous le plus anxieux ?"
             }
         },
         {
@@ -2987,15 +2987,15 @@
             "choices": [
                 {
                     "id": "Train",
-                    "text": "the train"
+                    "text": "le train"
                 },
                 {
                     "id": "Horse",
-                    "text": "the horse"
+                    "text": "le cheval"
                 }
             ],
             "prompt": {
-                "text": "Which was more important to the development of human civilization?"
+                "text": "Lequel des deux a été le plus important pour le développement de la civilisation humaine ?"
             }
         },
         {
@@ -3024,15 +3024,15 @@
             "choices": [
                 {
                     "id": "Hockey",
-                    "text": "hockey"
+                    "text": "le hockey"
                 },
                 {
                     "id": "Tennis",
-                    "text": "tennis"
+                    "text": "le tennis"
                 }
             ],
             "prompt": {
-                "text": "Which sport do you think takes more athleticism to play?"
+                "text": "Selon vous, quel est le sport qui demande le plus de qualités athlétiques ?"
             }
         },
         {
@@ -3061,15 +3061,15 @@
             "choices": [
                 {
                     "id": "Chinese",
-                    "text": "in a Chinese fortune cookie"
+                    "text": "dans un cookie fortune"
                 },
                 {
                     "id": "Graduation",
-                    "text": "in a graduation speech"
+                    "text": "dans un discours de remise de diplômes"
                 }
             ],
             "prompt": {
-                "text": "Where do you typically find more wisdom?"
+                "text": "Où trouvez-vous le plus de sagesse ?"
             }
         },
         {
@@ -3098,15 +3098,15 @@
             "choices": [
                 {
                     "id": "Graduation",
-                    "text": "graduation"
+                    "text": "remise de diplôme"
                 },
                 {
                     "id": "Voting",
-                    "text": "voting for the first time"
+                    "text": "voter pour la première fois"
                 }
             ],
             "prompt": {
-                "text": "As rites of passage go, which is more important?"
+                "text": "En ce qui concerne les checkpoints de vie, lequel est le plus important ?"
             }
         },
         {
@@ -3135,15 +3135,15 @@
             "choices": [
                 {
                     "id": "Gym",
-                    "text": "go to the gym"
+                    "text": "aller à la gym"
                 },
                 {
                     "id": "Salad",
-                    "text": "eat a salad"
+                    "text": "manger une salade"
                 }
             ],
             "prompt": {
-                "text": "When you try to be healthy, which do you do more often?"
+                "text": "Lorsque vous voulez être en bonne santé, que faites-vous ?"
             }
         },
         {
@@ -3172,15 +3172,15 @@
             "choices": [
                 {
                     "id": "Island",
-                    "text": "visiting an island"
+                    "text": "visiter une île"
                 },
                 {
                     "id": "Moving",
-                    "text": "moving to an island"
+                    "text": "s'installer sur une île"
                 }
             ],
             "prompt": {
-                "text": "What are you more up for right now?"
+                "text": "Qu'est-ce qui vous tient le plus à cœur en ce moment ?"
             }
         },
         {
@@ -3209,15 +3209,15 @@
             "choices": [
                 {
                     "id": "Convertible",
-                    "text": "a sports car"
+                    "text": "une voiture de sport"
                 },
                 {
                     "id": "Motel",
-                    "text": "a cheap motel room"
+                    "text": "une chambre d'hôtel bon marché"
                 }
             ],
             "prompt": {
-                "text": "What would you rather call home for a month?"
+                "text": "Que préféreriez-vous voir chez vous pendant un mois ?"
             }
         },
         {
@@ -3246,15 +3246,15 @@
             "choices": [
                 {
                     "id": "BubbleBath",
-                    "text": "taking a bubble bath"
+                    "text": "prendre un bain moussant"
                 },
                 {
                     "id": "Bonfire",
-                    "text": "being next to a warm fire"
+                    "text": "être près d'un feu chaud"
                 }
             ],
             "prompt": {
-                "text": "What sounds more appealing right now?"
+                "text": "Qu'est-ce qui semble le plus attrayant en ce moment ?"
             }
         },
         {
@@ -3283,15 +3283,15 @@
             "choices": [
                 {
                     "id": "Train",
-                    "text": "a train conductor"
+                    "text": "un conducteur de train"
                 },
                 {
                     "id": "Motel",
-                    "text": "a motel night clerk"
+                    "text": "un employé de nuit d'un motel"
                 }
             ],
             "prompt": {
-                "text": "Who do you think is more lonely?"
+                "text": "Qui, selon vous, se sent le plus seul ?"
             }
         },
         {
@@ -3320,15 +3320,15 @@
             "choices": [
                 {
                     "id": "Voting",
-                    "text": "people voting for you"
+                    "text": "avoir des gens qui votent pour vous"
                 },
                 {
                     "id": "Pizza",
-                    "text": "having a pizza named after you"
+                    "text": "avoir une pizza à son nom"
                 }
             ],
             "prompt": {
-                "text": "Which would be a greater honor?"
+                "text": "Quel serait le plus grand honneur ?"
             }
         },
         {
@@ -3357,15 +3357,15 @@
             "choices": [
                 {
                     "id": "Salmon",
-                    "text": "the salmon"
+                    "text": "le saumon"
                 },
                 {
                     "id": "Bear",
-                    "text": "the bear"
+                    "text": "l'ours"
                 }
             ],
             "prompt": {
-                "text": "In nature documentaries, who do you root for?"
+                "text": "Dans les documentaires sur la nature, qui préférez-vous ?"
             }
         },
         {
@@ -3394,15 +3394,15 @@
             "choices": [
                 {
                     "id": "ShootingStar",
-                    "text": "a shooting star"
+                    "text": "une étoile filante"
                 },
                 {
                     "id": "London",
-                    "text": "a Royal guard"
+                    "text": "un garde royal"
                 }
             ],
             "prompt": {
-                "text": "What would you rather see?"
+                "text": "Que préférez-vous voir ?"
             }
         },
         {
@@ -3431,15 +3431,15 @@
             "choices": [
                 {
                     "id": "BookStore",
-                    "text": "books"
+                    "text": "des livres"
                 },
                 {
                     "id": "IceCream",
-                    "text": "ice cream"
+                    "text": "de la glace"
                 }
             ],
             "prompt": {
-                "text": "Which do you buy more often?"
+                "text": "Qu'est-ce que vous achetez le plus souvent ?"
             }
         },
         {
@@ -3468,15 +3468,15 @@
             "choices": [
                 {
                     "id": "DMV",
-                    "text": "at the DMV"
+                    "text": "à l'Office des véhicules automobiles"
                 },
                 {
                     "id": "Laundromat",
-                    "text": "at the laundromat"
+                    "text": "à la laverie automatique"
                 }
             ],
             "prompt": {
-                "text": "Where would you rather spend two hours?"
+                "text": "Où préférez-vous passer deux heures ?"
             }
         },
         {
@@ -3505,15 +3505,15 @@
             "choices": [
                 {
                     "id": "Suitcase",
-                    "text": "packing for a trip"
+                    "text": "lorsqu'il faut faire ses valises"
                 },
                 {
                     "id": "Gym",
-                    "text": "going to the gym"
+                    "text": "lorsqu'il faut aller à la gym"
                 }
             ],
             "prompt": {
-                "text": "What are you worst at?"
+                "text": "Dans quel domaine êtes-vous le moins bon ?"
             }
         },
         {
@@ -3542,15 +3542,15 @@
             "choices": [
                 {
                     "id": "Kite",
-                    "text": "flying a kite"
+                    "text": "en faisant voler un cerf-volant"
                 },
                 {
                     "id": "FeetOnBeach",
-                    "text": "relaxing on the beach"
+                    "text": "en se détendant sur la plage"
                 }
             ],
             "prompt": {
-                "text": "What\u2019s your preferred way to spend a summer day?"
+                "text": "Votre façon préférée de passer une journée d'été ?"
             }
         },
         {
@@ -3579,15 +3579,15 @@
             "choices": [
                 {
                     "id": "ApplePicking",
-                    "text": "apple picking"
+                    "text": "de la cueillette de pommes"
                 },
                 {
                     "id": "Camping",
-                    "text": "camping"
+                    "text": "du camping"
                 }
             ],
             "prompt": {
-                "text": "What\u2019s a sadder thing to do alone?"
+                "text": "Qu'y a-t-il de plus triste à faire seul ?"
             }
         },
         {
@@ -3616,15 +3616,15 @@
             "choices": [
                 {
                     "id": "Minivan",
-                    "text": "a minivan"
+                    "text": "un minivan"
                 },
                 {
                     "id": "HomeRepair",
-                    "text": "a home improvement project"
+                    "text": "faire des rénovations"
                 }
             ],
             "prompt": {
-                "text": "Which is more dad-like?"
+                "text": "Lequel fait le plus “daron” ?"
             }
         },
         {
@@ -3653,15 +3653,15 @@
             "choices": [
                 {
                     "id": "HouseParty",
-                    "text": "a house party"
+                    "text": "une fête à la maison"
                 },
                 {
                     "id": "PoolParty",
-                    "text": "a pool party"
+                    "text": "une fête au bord de la piscine"
                 }
             ],
             "prompt": {
-                "text": "Which party do you prefer?"
+                "text": "Quelle fête préférez-vous ?"
             }
         },
         {
@@ -3690,15 +3690,15 @@
             "choices": [
                 {
                     "id": "VR",
-                    "text": "someone wearing a VR headset"
+                    "text": "une personne portant un casque de RV"
                 },
                 {
                     "id": "Segway",
-                    "text": "someone riding a segway"
+                    "text": "quelqu'un qui fait du Segway"
                 }
             ],
             "prompt": {
-                "text": "Who looks sillier?"
+                "text": "Qui a l'air le plus bête ?"
             }
         },
         {
@@ -3727,15 +3727,15 @@
             "choices": [
                 {
                     "id": "VR",
-                    "text": "a VR device"
+                    "text": "un dispositif de VR"
                 },
                 {
                     "id": "Paris",
-                    "text": "a vacation to Paris"
+                    "text": "des vacances à Paris"
                 }
             ],
             "prompt": {
-                "text": "Which would you rather spend a lot of money on?"
+                "text": "Pour lequel préférez-vous dépenser beaucoup d'argent ?"
             }
         },
         {
@@ -3764,15 +3764,15 @@
             "choices": [
                 {
                     "id": "SubwayCar",
-                    "text": "a subway car"
+                    "text": "un wagon de métro"
                 },
                 {
                     "id": "BathroomStall",
-                    "text": "a public bathroom stall"
+                    "text": "une cabine de toilettes publiques"
                 }
             ],
             "prompt": {
-                "text": "What is usually dirtier?"
+                "text": "Qu'est-ce qui est généralement le plus sale ?"
             }
         },
         {
@@ -3801,15 +3801,15 @@
             "choices": [
                 {
                     "id": "EngagementRing",
-                    "text": "an engagement ring"
+                    "text": "un anneau de fian\u00e7ailles"
                 },
                 {
                     "id": "VR",
-                    "text": "a VR headset"
+                    "text": "un casque VR"
                 }
             ],
             "prompt": {
-                "text": "What should you spend more money on?"
+                "text": "Sur quoi devriez-vous dépenser plus d'argent ?"
             }
         },
         {
@@ -3838,15 +3838,15 @@
             "choices": [
                 {
                     "id": "Laundromat",
-                    "text": "laundry"
+                    "text": "Faire le linge"
                 },
                 {
                     "id": "HomeRepair",
-                    "text": "small home repairs"
+                    "text": "Faire des réparations à la maison"
                 }
             ],
             "prompt": {
-                "text": "Which is more annoying to do?"
+                "text": "Qu'est ce qui est plus ennuyeux à faire?"
             }
         },
         {
@@ -3875,15 +3875,15 @@
             "choices": [
                 {
                     "id": "Park",
-                    "text": "the parks"
+                    "text": "Les parcs"
                 },
                 {
                     "id": "Skyscraper",
-                    "text": "the architecture"
+                    "text": "Les gratte-ciel"
                 }
             ],
             "prompt": {
-                "text": "Which is a more beautiful part of New York City?"
+                "text": "Qu'est ce qui est le plus beau à New-York ?"
             }
         },
         {
@@ -3920,7 +3920,7 @@
                 }
             ],
             "prompt": {
-                "text": "Where would you rather visit next?"
+                "text": "Que voudriez-vous visiter en premier ?"
             }
         },
         {
@@ -3949,15 +3949,15 @@
             "choices": [
                 {
                     "id": "Spider",
-                    "text": "spiders"
+                    "text": "les araignées"
                 },
                 {
                     "id": "RollerCoaster",
-                    "text": "roller coasters"
+                    "text": "les montagnes russes"
                 }
             ],
             "prompt": {
-                "text": "What\u2019s more terrifying to you?"
+                "text": "Qu'est ce qui est le plus terrifiant ?"
             }
         },
         {
@@ -3986,15 +3986,15 @@
             "choices": [
                 {
                     "id": "Kittens",
-                    "text": "kittens"
+                    "text": "les chatons"
                 },
                 {
                     "id": "Puppies",
-                    "text": "puppies"
+                    "text": "les chiots"
                 }
             ],
             "prompt": {
-                "text": "What\u2019s cuter?"
+                "text": "Qu'est ce qui est le plus mignon ?"
             }
         },
         {
@@ -4023,15 +4023,15 @@
             "choices": [
                 {
                     "id": "Snake",
-                    "text": "a snake"
+                    "text": "un serpent"
                 },
                 {
                     "id": "Pig",
-                    "text": "a pig"
+                    "text": "un cochon"
                 }
             ],
             "prompt": {
-                "text": "Which would you rather have as a pet?"
+                "text": "Que préférez-vous avoir comme animal de compagnie ?"
             }
         },
         {
@@ -4060,15 +4060,15 @@
             "choices": [
                 {
                     "id": "SubwayCar",
-                    "text": "the subway"
+                    "text": "le métro"
                 },
                 {
                     "id": "Traffic",
-                    "text": "the noise"
+                    "text": "le bruit"
                 }
             ],
             "prompt": {
-                "text": "What\u2019s the worst part about living in the city?"
+                "text": "Qu'est ce qu'est le pire quand vous habitez dans une grande ville ?"
             }
         },
         {
@@ -4097,15 +4097,15 @@
             "choices": [
                 {
                     "id": "Yoga",
-                    "text": "practicing yoga"
+                    "text": "faire du yoga"
                 },
                 {
                     "id": "ArtMuseum",
-                    "text": "visiting an art museum"
+                    "text": "visiter un musée"
                 }
             ],
             "prompt": {
-                "text": "How would you rather spend a Sunday afternoon?"
+                "text": "Que voulez-vous faire de votre dimanche ?"
             }
         },
         {
@@ -4134,15 +4134,15 @@
             "choices": [
                 {
                     "id": "Hamburger",
-                    "text": "hamburgers"
+                    "text": "les hamburgers"
                 },
                 {
                     "id": "Guacamole",
-                    "text": "guacamole"
+                    "text": "le guacamole"
                 }
             ],
             "prompt": {
-                "text": "Which food always tastes better at a restaurant?"
+                "text": "Quelle nourriture est toujours meilleure au restaurant ?"
             }
         },
         {
@@ -4171,15 +4171,15 @@
             "choices": [
                 {
                     "id": "BabyAnnouncement",
-                    "text": "a baby announcement"
+                    "text": "vous allez avoir un enfant"
                 },
                 {
                     "id": "EngagementRing",
-                    "text": "an engagement announcement"
+                    "text": "vous allez vous marier"
                 }
             ],
             "prompt": {
-                "text": "Which is more exciting?"
+                "text": "Qu'est ce qui est le plus excitant ?"
             }
         },
         {
@@ -4208,15 +4208,15 @@
             "choices": [
                 {
                     "id": "Sunset",
-                    "text": "watching the sunset"
+                    "text": "regarder un coucher de soleil"
                 },
                 {
                     "id": "Meditation",
-                    "text": "meditating"
+                    "text": "méditer"
                 }
             ],
             "prompt": {
-                "text": "What is more relaxing?"
+                "text": "Qu'est ce qui est le plus relaxant ?"
             }
         },
         {
@@ -4245,15 +4245,15 @@
             "choices": [
                 {
                     "id": "WritingDesk",
-                    "text": "your desk"
+                    "text": "votre bureau"
                 },
                 {
                     "id": "CompactCar",
-                    "text": "your car"
+                    "text": "votre voiture"
                 }
             ],
             "prompt": {
-                "text": "What\u2019s harder to keep tidy?"
+                "text": "Qu'est ce qui est le plus dur à garder propre ?"
             }
         },
         {
@@ -4282,15 +4282,15 @@
             "choices": [
                 {
                     "id": "Chinese",
-                    "text": "Chinese food"
+                    "text": "la nourriture chinoise"
                 },
                 {
                     "id": "Mexican",
-                    "text": "Mexican food"
+                    "text": "la nourriture mexicaine"
                 }
             ],
             "prompt": {
-                "text": "Which cuisine do you eat more often?"
+                "text": "Quelle cuisine mangez vous le plus ?"
             }
         },
         {
@@ -4319,15 +4319,15 @@
             "choices": [
                 {
                     "id": "Yoga",
-                    "text": "yoga"
+                    "text": "le yoga"
                 },
                 {
                     "id": "Indian",
-                    "text": "cuisine"
+                    "text": "la cuisine"
                 }
             ],
             "prompt": {
-                "text": "Which part of Indian culture interests you more?"
+                "text": "Quelle partie de la culture indienne vous intéresse le plus ?"
             }
         },
         {
@@ -4356,15 +4356,15 @@
             "choices": [
                 {
                     "id": "Gorilla",
-                    "text": "gorillas"
+                    "text": "les gorilles"
                 },
                 {
                     "id": "Chimpanzee",
-                    "text": "chimpanzees"
+                    "text": "les chimpanzés"
                 }
             ],
             "prompt": {
-                "text": "Which animal would you rather study for the rest of your life?"
+                "text": "Quel animal préféreriez-vous étudier jusqu'au reste de votre vie ?"
             }
         },
         {
@@ -4393,15 +4393,15 @@
             "choices": [
                 {
                     "id": "Voting",
-                    "text": "voting"
+                    "text": "voter"
                 },
                 {
                     "id": "HomeRepair",
-                    "text": "your home"
+                    "text": "votre maison"
                 }
             ],
             "prompt": {
-                "text": "What do you take more pride in?"
+                "text": "Qu'est ce qui est le plus important pour vous ?"
             }
         },
         {
@@ -4430,15 +4430,15 @@
             "choices": [
                 {
                     "id": "BathroomStall",
-                    "text": "in the bathroom"
+                    "text": "dans la salle de bain"
                 },
                 {
                     "id": "WritingDesk",
-                    "text": "at your desk"
+                    "text": "à votre bureau"
                 }
             ],
             "prompt": {
-                "text": "Where do you check your phone more?"
+                "text": "Où regardez-vous votre téléphone le plus souvent ?"
             }
         },
         {
@@ -4467,15 +4467,15 @@
             "choices": [
                 {
                     "id": "ParkingTicket",
-                    "text": "getting a parking ticket"
+                    "text": "prendre un ticket de parking"
                 },
                 {
                     "id": "BathroomStall",
-                    "text": "a disgusting bathroom stall"
+                    "text": "des toilettes sales"
                 }
             ],
             "prompt": {
-                "text": "What makes you angrier?"
+                "text": "Qu'est ce qui vous énerve le plus ?"
             }
         },
         {
@@ -4504,15 +4504,15 @@
             "choices": [
                 {
                     "id": "IceCream",
-                    "text": "eating ice cream"
+                    "text": "manger une glace"
                 },
                 {
                     "id": "Kite",
-                    "text": "flying a kite"
+                    "text": "faire voler un cerf-volant"
                 }
             ],
             "prompt": {
-                "text": "Which makes you feel more like a kid?"
+                "text": "Qu'est ce qui vous rend comme un enfant ?"
             }
         },
         {
@@ -4541,15 +4541,15 @@
             "choices": [
                 {
                     "id": "ConcertStage",
-                    "text": "on stage"
+                    "text": "sur scène"
                 },
                 {
                     "id": "Bonfire",
-                    "text": "around a campfire"
+                    "text": "près d'un feu de camp"
                 }
             ],
             "prompt": {
-                "text": "What\u2019s the better spot for a storyteller?"
+                "text": "Quel est le meilleur endroit pour raconter une histoire ?"
             }
         },
         {
@@ -4578,15 +4578,15 @@
             "choices": [
                 {
                     "id": "AvocadoToast",
-                    "text": "avocado toast"
+                    "text": "les toasts à l'avocat"
                 },
                 {
                     "id": "FeetOnBeach",
-                    "text": "feet on the beach pics"
+                    "text": "des photos de pieds sur la plage"
                 }
             ],
             "prompt": {
-                "text": "What will still be trendy in 2040?"
+                "text": "Qu'est ce qui sera encore à la mode en 2040"
             }
         },
         {
@@ -4615,7 +4615,7 @@
             "choices": [
                 {
                     "id": "Russia",
-                    "text": "Russia"
+                    "text": "Russie"
                 },
                 {
                     "id": "Paris",
@@ -4623,7 +4623,7 @@
                 }
             ],
             "prompt": {
-                "text": "Which country has a more interesting history?"
+                "text": "Quel pays à l'histoire la plus intéressante ?"
             }
         },
         {
@@ -4652,15 +4652,15 @@
             "choices": [
                 {
                     "id": "MovieTheater",
-                    "text": "being alone in a movie theater"
+                    "text": "être seul dans une salle de cinéma"
                 },
                 {
                     "id": "BathroomStall",
-                    "text": "being alone in a public restroom"
+                    "text": "être seul dans des toilettes publiques"
                 }
             ],
             "prompt": {
-                "text": "Which experience is more liberating?"
+                "text": "Qu'est ce qui vous fait sentir libre ?"
             }
         },
         {
@@ -4697,7 +4697,7 @@
                 }
             ],
             "prompt": {
-                "text": "Which city has more beautiful bridges?"
+                "text": "Quelle ville a les plus beaux ponts ?"
             }
         },
         {
@@ -4726,15 +4726,15 @@
             "choices": [
                 {
                     "id": "Nascar",
-                    "text": "auto racing"
+                    "text": "faire une course de voiture"
                 },
                 {
                     "id": "Boxing",
-                    "text": "boxing"
+                    "text": "faire de la boxe"
                 }
             ],
             "prompt": {
-                "text": "Which would be scarier to try for the first time?"
+                "text": "Qu'est ce qui est le plus terrifiant la première fois ?"
             }
         },
         {
@@ -4763,15 +4763,15 @@
             "choices": [
                 {
                     "id": "Meditation",
-                    "text": "meditation"
+                    "text": "la méditation"
                 },
                 {
                     "id": "IceCream",
-                    "text": "binge eating"
+                    "text": "manger des glaces"
                 }
             ],
             "prompt": {
-                "text": "What\u2019s a better way to handle stress?"
+                "text": "Comment mieux gérer le stress ?"
             }
         },
         {
@@ -4800,15 +4800,15 @@
             "choices": [
                 {
                     "id": "Soccer",
-                    "text": "a kid\u2019s soccer game"
+                    "text": "un match de football avec des enfants"
                 },
                 {
                     "id": "BirthdayParty",
-                    "text": "a kid\u2019s birthday party"
+                    "text": "une fête d'anniversaire pour un enfant"
                 }
             ],
             "prompt": {
-                "text": "Which event sounds less appealing?"
+                "text": "Qu'est ce qui vous semble le moins passionnant ?"
             }
         },
         {
@@ -4837,15 +4837,15 @@
             "choices": [
                 {
                     "id": "BubbleBath",
-                    "text": "a bubble bath"
+                    "text": "un bain moussant"
                 },
                 {
                     "id": "RomanticGetaway",
-                    "text": "rose petals"
+                    "text": "les pétales de roses"
                 }
             ],
             "prompt": {
-                "text": "What\u2019s more romantic?"
+                "text": "Qu'est ce qui est le plus romantique ?"
             }
         },
         {
@@ -4874,15 +4874,15 @@
             "choices": [
                 {
                     "id": "Gym",
-                    "text": "the gym"
+                    "text": "la salle de musculation"
                 },
                 {
                     "id": "Laundromat",
-                    "text": "the laundromat"
+                    "text": "la laverie"
                 }
             ],
             "prompt": {
-                "text": "Where\u2019s a better place to meet a romantic partner?"
+                "text": "Quel est le meilleur endroit pour rencontrer un partenaire ?"
             }
         },
         {
@@ -4911,15 +4911,15 @@
             "choices": [
                 {
                     "id": "Ferret",
-                    "text": "a ferret"
+                    "text": "un furet"
                 },
                 {
                     "id": "Rabbit",
-                    "text": "a rabbit"
+                    "text": "un lapin"
                 }
             ],
             "prompt": {
-                "text": "Who wins this fight?"
+                "text": "Qui gagne le combat ?"
             }
         },
         {
@@ -4948,15 +4948,15 @@
             "choices": [
                 {
                     "id": "Beach",
-                    "text": "on the beach"
+                    "text": "sur la plage"
                 },
                 {
                     "id": "Field",
-                    "text": "in a field of flowers"
+                    "text": "des champs de fleurs"
                 }
             ],
             "prompt": {
-                "text": "Where is it more relaxing to read a book?"
+                "text": "Quel est le meilleur endroit pour lire un livre ?"
             }
         },
         {
@@ -4985,15 +4985,15 @@
             "choices": [
                 {
                     "id": "BabyAnnouncement",
-                    "text": "that you\u2019re expecting a baby"
+                    "text": "que vous allez avoir un nenfant"
                 },
                 {
                     "id": "EngagementRing",
-                    "text": "that you\u2019re proposing"
+                    "text": "que vous allez vous marier"
                 }
             ],
             "prompt": {
-                "text": "What secret is harder to keep?"
+                "text": "Quel secret est le plus dur à garder ?"
             }
         },
         {
@@ -5022,15 +5022,15 @@
             "choices": [
                 {
                     "id": "ArtMuseum",
-                    "text": "art museum"
+                    "text": "les musées d'art"
                 },
                 {
                     "id": "Museum",
-                    "text": "history museum"
+                    "text": "les musées d'histoire"
                 }
             ],
             "prompt": {
-                "text": "Which museum interests you more?"
+                "text": "Quel musée vous intéresse le plus ?"
             }
         },
         {
@@ -5059,15 +5059,15 @@
             "choices": [
                 {
                     "id": "HotAirBalloon",
-                    "text": "a hot air balloon"
+                    "text": "une montgolfière"
                 },
                 {
                     "id": "Fireworks",
-                    "text": "a firework"
+                    "text": "un feu d'artifice"
                 }
             ],
             "prompt": {
-                "text": "How would you describe your personality?"
+                "text": "Comment décrirez-vous votre personnalité ?"
             }
         },
         {
@@ -5096,15 +5096,15 @@
             "choices": [
                 {
                     "id": "Salad",
-                    "text": "a salad"
+                    "text": "une salade"
                 },
                 {
                     "id": "Traffic",
-                    "text": "traffic"
+                    "text": "les bouchons"
                 }
             ],
             "prompt": {
-                "text": "What\u2019s more depressing?"
+                "text": "Qu'est ce qui est le plus ennuyeux ?"
             }
         },
         {
@@ -5133,15 +5133,15 @@
             "choices": [
                 {
                     "id": "RomanticGetaway",
-                    "text": "roses"
+                    "text": "les roses"
                 },
                 {
                     "id": "Puppies",
-                    "text": "puppies"
+                    "text": "les chiots"
                 }
             ],
             "prompt": {
-                "text": "What smells better?"
+                "text": "Qu'est ce qui sent meilleur ?"
             }
         },
         {
@@ -5170,15 +5170,15 @@
             "choices": [
                 {
                     "id": "FeetOnBeach",
-                    "text": "your feet on the beach"
+                    "text": "votre pied sur la plage"
                 },
                 {
                     "id": "Sunset",
-                    "text": "a sunset"
+                    "text": "un coucher de soleil"
                 }
             ],
             "prompt": {
-                "text": "Which vacation pic are you more likely to take?"
+                "text": "Quel photo de vacances serez-vous le plus susceptible de prendre ?"
             }
         },
         {
@@ -5207,15 +5207,15 @@
             "choices": [
                 {
                     "id": "Cabin",
-                    "text": "in a cabin in the woods"
+                    "text": "une cabane dans les bois"
                 },
                 {
                     "id": "Island",
-                    "text": "on an island by yourself"
+                    "text": "une île déserte"
                 }
             ],
             "prompt": {
-                "text": "Where would you rather spend a week long vacation?"
+                "text": "Où voulez vous passer une semaine de vacances ?"
             }
         },
         {
@@ -5244,15 +5244,15 @@
             "choices": [
                 {
                     "id": "Bonfire",
-                    "text": "the bonfire"
+                    "text": "les feux de camps"
                 },
                 {
                     "id": "HotDogs",
-                    "text": "the hot dogs"
+                    "text": "les hot dogs"
                 }
             ],
             "prompt": {
-                "text": "What\u2019s the best part about camping?"
+                "text": "C'est quoi le mieux au camping ?"
             }
         },
         {
@@ -5281,15 +5281,15 @@
             "choices": [
                 {
                     "id": "Football",
-                    "text": "football field"
+                    "text": "un terrain de football"
                 },
                 {
                     "id": "Field",
-                    "text": "field of flowers"
+                    "text": "un champ rempli de fleurs"
                 }
             ],
             "prompt": {
-                "text": "Which field do you prefer?"
+                "text": "Qu'est ce que vous préférez ?"
             }
         },
         {
@@ -5318,15 +5318,15 @@
             "choices": [
                 {
                     "id": "Soccer",
-                    "text": "soccer camp"
+                    "text": "un stage de football"
                 },
                 {
                     "id": "Camping",
-                    "text": "scout camp"
+                    "text": "un stage dans un camping"
                 }
             ],
             "prompt": {
-                "text": "Which summer camp would you rather attend?"
+                "text": "Quel stage préférez-vous faire ?"
             }
         },
         {
@@ -5355,15 +5355,15 @@
             "choices": [
                 {
                     "id": "AvocadoToast",
-                    "text": "avocado toast"
+                    "text": "les toasts à l'avocat"
                 },
                 {
                     "id": "BabyAnnouncement",
-                    "text": "quirky baby announcements"
+                    "text": "les annonces de grossesse"
                 }
             ],
             "prompt": {
-                "text": "Which do millennials like more?"
+                "text": "Qu'est ce que les vieux aiment le plus ?"
             }
         },
         {
@@ -5392,15 +5392,15 @@
             "choices": [
                 {
                     "id": "Moving",
-                    "text": "buying a house"
+                    "text": "acheter une maison"
                 },
                 {
                     "id": "BabyAnnouncement",
-                    "text": "having a kid"
+                    "text": "avoir un enfant"
                 }
             ],
             "prompt": {
-                "text": "What\u2019s a bigger life milestone?"
+                "text": "Quel est le plus gros évènement ?"
             }
         },
         {
@@ -5429,15 +5429,15 @@
             "choices": [
                 {
                     "id": "Pizza",
-                    "text": "a pizza party"
+                    "text": "une fête avec des pizzas"
                 },
                 {
                     "id": "PoolParty",
-                    "text": "a pool party"
+                    "text": "une fête dans une piscine"
                 }
             ],
             "prompt": {
-                "text": "Which sounds more fun right now?"
+                "text": "Qu'est ce qui vous semble le plus fun ?"
             }
         },
         {
@@ -5466,15 +5466,15 @@
             "choices": [
                 {
                     "id": "VR",
-                    "text": "VR headset"
+                    "text": "un casque VR"
                 },
                 {
                     "id": "EngagementRing",
-                    "text": "jewelry"
+                    "text": "un bijou"
                 }
             ],
             "prompt": {
-                "text": "What\u2019s a better gift?"
+                "text": "Quel est le meilleur cadeau ?"
             }
         },
         {
@@ -5503,15 +5503,15 @@
             "choices": [
                 {
                     "id": "HorseRace",
-                    "text": "a horse race"
+                    "text": "une course de chevaux"
                 },
                 {
                     "id": "Nascar",
-                    "text": "a car race"
+                    "text": "une course de voiture"
                 }
             ],
             "prompt": {
-                "text": "Which type of racing event is more exciting to watch?"
+                "text": "Qu'est ce qui est le plus excitant à regarder ?"
             }
         },
         {
@@ -5540,15 +5540,15 @@
             "choices": [
                 {
                     "id": "Statue",
-                    "text": "a statue"
+                    "text": "une statue"
                 },
                 {
                     "id": "ArtMuseum",
-                    "text": "a painting"
+                    "text": "une peinture"
                 }
             ],
             "prompt": {
-                "text": "Which art do you appreciate more?"
+                "text": "Quel art appréciez-vous le plus ?"
             }
         },
         {
@@ -5577,15 +5577,15 @@
             "choices": [
                 {
                     "id": "BookStore",
-                    "text": "book store owner"
+                    "text": "vendeur dans une librairie"
                 },
                 {
                     "id": "Basketball",
-                    "text": "basketball coach"
+                    "text": "coach de basketball"
                 }
             ],
             "prompt": {
-                "text": "Which is a more probable life change possibility for you?"
+                "text": "Quel est le changement de vie le plus probable pour vous ?"
             }
         },
         {
@@ -5614,15 +5614,15 @@
             "choices": [
                 {
                     "id": "Rollerblades",
-                    "text": "rollerblades"
+                    "text": "des rollers"
                 },
                 {
                     "id": "Suitcase",
-                    "text": "suitcases"
+                    "text": "des valises"
                 }
             ],
             "prompt": {
-                "text": "Which item do you find more often in thrift stores?"
+                "text": "Que trouvez-vous le plus dans les brocantes ?"
             }
         },
         {
@@ -5651,15 +5651,15 @@
             "choices": [
                 {
                     "id": "Fireworks",
-                    "text": "shooting off fireworks"
+                    "text": "lancer des feux d'artifices"
                 },
                 {
                     "id": "Ferret",
-                    "text": "owning a pet ferret"
+                    "text": "avoir un furet comme animal de compagnie"
                 }
             ],
             "prompt": {
-                "text": "What makes you a worse neighbor?"
+                "text": "Qu'est ce qui fait de vous un mauvais voisin ?"
             }
         },
         {
@@ -5688,15 +5688,15 @@
             "choices": [
                 {
                     "id": "RomanticGetaway",
-                    "text": "going on a romantic getaway"
+                    "text": "faire une soirée romantique"
                 },
                 {
                     "id": "Dog",
-                    "text": "getting a dog"
+                    "text": "avoir un chien"
                 }
             ],
             "prompt": {
-                "text": "What\u2019s the best way to jump-start a relationship?"
+                "text": "Quel est le meilleur moyen de bien débuter une relation ?" 
             }
         },
         {
@@ -5725,15 +5725,15 @@
             "choices": [
                 {
                     "id": "Wrestling",
-                    "text": "a wrestler"
+                    "text": "un lutteur"
                 },
                 {
                     "id": "Rollerblades",
-                    "text": "an adult on rollerblades"
+                    "text": "un adulte en roller"
                 }
             ],
             "prompt": {
-                "text": "Who has more self-confidence?"
+                "text": "Qui est le plus confiant ?"
             }
         },
         {
@@ -5762,15 +5762,15 @@
             "choices": [
                 {
                     "id": "CompactCar",
-                    "text": "a compact car owner"
+                    "text": "un conducteur de petite voiture"
                 },
                 {
                     "id": "Convertible",
-                    "text": "a convertible owner"
+                    "text": "un conducteur de décapotable"
                 }
             ],
             "prompt": {
-                "text": "Who do you respect more?"
+                "text": "Qui respectez-vous le plus ?"
             }
         },
         {
@@ -5799,15 +5799,15 @@
             "choices": [
                 {
                     "id": "SubwayCar",
-                    "text": "public transportation"
+                    "text": "les transports publics"
                 },
                 {
                     "id": "Bicycle",
-                    "text": "bike"
+                    "text": "le vélo"
                 }
             ],
             "prompt": {
-                "text": "Which mode of transportation do you prefer?"
+                "text": "Quel mode de transport préférez-vous ?"
             }
         },
         {
@@ -5836,15 +5836,15 @@
             "choices": [
                 {
                     "id": "Cat",
-                    "text": "as cats"
+                    "text": "comme des chats"
                 },
                 {
                     "id": "Lion",
-                    "text": "as lions"
+                    "text": "comme des lions"
                 }
             ],
             "prompt": {
-                "text": "How do you think more cats see themselves?"
+                "text": "Les chats se voient..."
             }
         },
         {
@@ -5873,15 +5873,15 @@
             "choices": [
                 {
                     "id": "Steak",
-                    "text": "after eating steak"
+                    "text": "après avoir mangé un steak"
                 },
                 {
                     "id": "Dentist",
-                    "text": "right before seeing the dentist"
+                    "text": "juste avant d'aller au dentiste"
                 }
             ],
             "prompt": {
-                "text": "When do most people floss more?"
+                "text": "Quand la plupart des gens utilisent-ils le fil dentaire ?"
             }
         },
         {
@@ -5910,15 +5910,15 @@
             "choices": [
                 {
                     "id": "Sunset",
-                    "text": "a sunset"
+                    "text": "un coucher de soleil"
                 },
                 {
                     "id": "Forest",
-                    "text": "a forest"
+                    "text": "une forêt"
                 }
             ],
             "prompt": {
-                "text": "What would you rather paint?"
+                "text": "Que préférez-vous peindre ?"
             }
         },
         {
@@ -5947,15 +5947,15 @@
             "choices": [
                 {
                     "id": "Salad",
-                    "text": "a salad"
+                    "text": "une salade"
                 },
                 {
                     "id": "Traffic",
-                    "text": "traffic"
+                    "text": "les bouchons"
                 }
             ],
             "prompt": {
-                "text": "What\u2019s more depressing?"
+                "text": "Qu'est ce qui est le plus ennuyant ?"
             }
         },
         {
@@ -5984,15 +5984,15 @@
             "choices": [
                 {
                     "id": "Yoga",
-                    "text": "doing yoga"
+                    "text": "faire du yoga"
                 },
                 {
                     "id": "BubbleBath",
-                    "text": "taking a bath"
+                    "text": "prendre un bain"
                 }
             ],
             "prompt": {
-                "text": "What\u2019s a better stress reducer?"
+                "text": "Comment réduire au mieux le stress ?"
             }
         },
         {
@@ -6021,15 +6021,15 @@
             "choices": [
                 {
                     "id": "CondoInterior",
-                    "text": "a city condo"
+                    "text": "un appartement en ville"
                 },
                 {
                     "id": "FarmHouse",
-                    "text": "a farmhouse"
+                    "text": "une ferme"
                 }
             ],
             "prompt": {
-                "text": "Where would you sleep better?"
+                "text": "Où dormirez-vous le mieux ?"
             }
         },
         {
@@ -6058,15 +6058,15 @@
             "choices": [
                 {
                     "id": "Motel",
-                    "text": "an average motel"
+                    "text": "un air-bnb"
                 },
                 {
                     "id": "RomanticGetaway",
-                    "text": "a romantic-themed hotel"
+                    "text": "un hotel romantique"
                 }
             ],
             "prompt": {
-                "text": "Where would you rather stay?"
+                "text": "Où préférez-vous passer la nuit ?"
             }
         },
         {
@@ -6095,15 +6095,15 @@
             "choices": [
                 {
                     "id": "HotAirBalloon",
-                    "text": "going up in a hot air balloon"
+                    "text": "monter dans une montgolfière"
                 },
                 {
                     "id": "Parade",
-                    "text": "riding on a parade float"
+                    "text": "sur un char de parade"
                 }
             ],
             "prompt": {
-                "text": "Which is more of a bucket list item for you?"
+                "text": "Qu'est ce qui est dans votre liste de chose avant de mourir ?"
             }
         },
         {
@@ -6132,15 +6132,15 @@
             "choices": [
                 {
                     "id": "Voting",
-                    "text": "vote"
+                    "text": "voter"
                 },
                 {
                     "id": "Dog",
-                    "text": "pick up after their dogs"
+                    "text": "ramasser les crotes de son chien"
                 }
             ],
             "prompt": {
-                "text": "Which do you wish more people would do?"
+                "text": "Que souhaitez-vous que plus de personnes fassent ?"
             }
         },
         {
@@ -6169,15 +6169,15 @@
             "choices": [
                 {
                     "id": "Beach",
-                    "text": "on the beach with no sunscreen"
+                    "text": "sur la plage sans lunettes de soleil"
                 },
                 {
                     "id": "Rainstorm",
-                    "text": "in a rainstorm fully clothed"
+                    "text": "sous une pluie battante, tout habillé"
                 }
             ],
             "prompt": {
-                "text": "Where would it be more uncomfortable for you to be?"
+                "text": "Qu'est ce qui serait le plus inconfortable ?"
             }
         },
         {
@@ -6206,15 +6206,15 @@
             "choices": [
                 {
                     "id": "BubbleBath",
-                    "text": "in a bubble bath"
+                    "text": "dans un bain moussant"
                 },
                 {
                     "id": "BathroomStall",
-                    "text": "in a bathroom stall"
+                    "text": "dans des toilettes"
                 }
             ],
             "prompt": {
-                "text": "Where\u2019s the better place to cry?"
+                "text": "Quel est le meilleur endroit pour pleurer ?"
             }
         },
         {
@@ -6243,15 +6243,15 @@
             "choices": [
                 {
                     "id": "Cat",
-                    "text": "a cat"
+                    "text": "un chat"
                 },
                 {
                     "id": "Moose",
-                    "text": "a moose"
+                    "text": "une souris"
                 }
             ],
             "prompt": {
-                "text": "What would you rather be reincarnated as?"
+                "text": "Dans quoi voulez-vous être réincarnés ?"
             }
         },
         {
@@ -6280,15 +6280,15 @@
             "choices": [
                 {
                     "id": "Yoga",
-                    "text": "a yoga instructor"
+                    "text": "un instructeur de yoga"
                 },
                 {
                     "id": "Cat",
-                    "text": "a cat"
+                    "text": "un chat"
                 }
             ],
             "prompt": {
-                "text": "What\u2019s more flexible?"
+                "text": "Qui est le plus flexible ?"
             }
         },
         {
@@ -6317,15 +6317,15 @@
             "choices": [
                 {
                     "id": "Moose",
-                    "text": "a moose"
+                    "text": "un souris"
                 },
                 {
                     "id": "Ferret",
-                    "text": "a ferret"
+                    "text": "un furet"
                 }
             ],
             "prompt": {
-                "text": "Which animal is more majestic?"
+                "text": "Quel animal est le plus majestueux ?"
             }
         },
         {
@@ -6354,15 +6354,15 @@
             "choices": [
                 {
                     "id": "Wedding",
-                    "text": "a wedding"
+                    "text": "un mariage"
                 },
                 {
                     "id": "CondoInterior",
-                    "text": "a house down payment"
+                    "text": "un appartement en ville"
                 }
             ],
             "prompt": {
-                "text": "Which would you rather spend more money on?"
+                "text": "Dans quoi voulez-vous mettre de l'argent ?"
             }
         },
         {
@@ -6391,15 +6391,15 @@
             "choices": [
                 {
                     "id": "SemiTruck",
-                    "text": "a tractor trailer"
+                    "text": "un semi-remorque"
                 },
                 {
                     "id": "Gorilla",
-                    "text": "a gorilla"
+                    "text": "un gorille"
                 }
             ],
             "prompt": {
-                "text": "Which of these would be cooler for a robot to transform into?"
+                "text": "Dans quoi un robot pourrait se réincarner ?"
             }
         },
         {
@@ -6428,15 +6428,15 @@
             "choices": [
                 {
                     "id": "HotAirBalloon",
-                    "text": "in a hot air balloon"
+                    "text": "dans une montgolfière"
                 },
                 {
                     "id": "Skyscraper",
-                    "text": "on top of a skyscraper"
+                    "text": "en haut d'un gratte-ciel"
                 }
             ],
             "prompt": {
-                "text": "Where would you have a better view?"
+                "text": "D'où aurez vous la meilleure vue ?"
             }
         },
         {
@@ -6465,15 +6465,15 @@
             "choices": [
                 {
                     "id": "Dentist",
-                    "text": "going to the dentist"
+                    "text": "aller au dentiste"
                 },
                 {
                     "id": "Airplane",
-                    "text": "flying"
+                    "text": "prendre l'avion"
                 }
             ],
             "prompt": {
-                "text": "Which gives you more anxiety?"
+                "text": "Qu'est ce qui vous donne le plus d'anxiété ?"
             }
         },
         {
@@ -6502,15 +6502,15 @@
             "choices": [
                 {
                     "id": "Elephant",
-                    "text": "a documentary about elephants"
+                    "text": "un documentaire sur des éléphants"
                 },
                 {
                     "id": "Wedding",
-                    "text": "a reality show about weddings"
+                    "text": "4 mariages pour une lune de miel"
                 }
             ],
             "prompt": {
-                "text": "What TV show would you rather watch?"
+                "text": "Qu'est ce que vous préférez regarder ?"
             }
         },
         {
@@ -6539,15 +6539,15 @@
             "choices": [
                 {
                     "id": "Bat",
-                    "text": "a bat"
+                    "text": "une chauve-souris"
                 },
                 {
                     "id": "SubwayCar",
-                    "text": "your train departure"
+                    "text": "le départ d'un train"
                 }
             ],
             "prompt": {
-                "text": "What\u2019s harder to catch?"
+                "text": "Qu'est ce qui est le plus compliqué à attraper ?"
             }
         },
         {
@@ -6576,15 +6576,15 @@
             "choices": [
                 {
                     "id": "Snake",
-                    "text": "someone with a pet snake"
+                    "text": "quelqu'un avec un serpent comme animal de compagnie"
                 },
                 {
                     "id": "Pig",
-                    "text": "someone with a pet pig"
+                    "text": "quelqu'un avec un cochon comme animal de compagnie"
                 }
             ],
             "prompt": {
-                "text": "Who creeps you out more?"
+                "text": "Qui vous fait le plus peur ?"
             }
         },
         {
@@ -6613,15 +6613,15 @@
             "choices": [
                 {
                     "id": "Pig",
-                    "text": "movies about a pig"
+                    "text": "les films sur les cochons"
                 },
                 {
                     "id": "Goldfish",
-                    "text": "movies about a fish"
+                    "text": "les films sur les poissons rouges"
                 }
             ],
             "prompt": {
-                "text": "Historically speaking, which kind of children\u2019s movie is superior?"
+                "text": "Historiquement, quels films pour les enfants sont les meilleurs ?"
             }
         },
         {
@@ -6650,15 +6650,15 @@
             "choices": [
                 {
                     "id": "PostOffice",
-                    "text": "the post office"
+                    "text": "le bureau de poste"
                 },
                 {
                     "id": "DMV",
-                    "text": "the DMV"
+                    "text": "le commissariat"
                 }
             ],
             "prompt": {
-                "text": "What do you avoid more?"
+                "text": "Qu'est ce que vous essayez d'éviter le plus ?"
             }
         },
         {
@@ -6687,15 +6687,15 @@
             "choices": [
                 {
                     "id": "Jungle",
-                    "text": "the Amazon"
+                    "text": "dans l'amazonie"
                 },
                 {
                     "id": "Igloo",
-                    "text": "the Antartic"
+                    "text": "dans l'antarctique"
                 }
             ],
             "prompt": {
-                "text": "Where would you survive longer?"
+                "text": "Où survivras-tu le plus longtemps ?"
             }
         },
         {
@@ -6724,15 +6724,15 @@
             "choices": [
                 {
                     "id": "Barn",
-                    "text": "a barn"
+                    "text": "une ferme"
                 },
                 {
                     "id": "PickupTruck",
-                    "text": "a truck"
+                    "text": "un camion"
                 }
             ],
             "prompt": {
-                "text": "What would be a better refuge during a zombie uprising?"
+                "text": "Quel est le meilleur refuge dans une apocalypse zombie ?"
             }
         },
         {
@@ -6761,15 +6761,15 @@
             "choices": [
                 {
                     "id": "MeatSkewer",
-                    "text": "shish kebobs"
+                    "text": "les brochettes"
                 },
                 {
                     "id": "Guacamole",
-                    "text": "guacamole"
+                    "text": "le guacamole"
                 }
             ],
             "prompt": {
-                "text": "What is easier to make?"
+                "text": "Qu'est ce qui est le plus simple à faire ?"
             }
         },
         {
@@ -6798,15 +6798,15 @@
             "choices": [
                 {
                     "id": "Desert",
-                    "text": "\u201cDesert Rose\u201d"
+                    "text": "Se balader dans le désert"
                 },
                 {
                     "id": "Kite",
-                    "text": "\u201cLet\u2019s Go Fly a Kite\u201d"
+                    "text": "Faire voler un cerf-volant"
                 }
             ],
             "prompt": {
-                "text": "What\u2019s a better song?"
+                "text": "Que préférez-vous faire ?"
             }
         },
         {
@@ -6835,15 +6835,15 @@
             "choices": [
                 {
                     "id": "Parade",
-                    "text": "at a parade"
+                    "text": "à une parade"
                 },
                 {
                     "id": "Nascar",
-                    "text": "at a Nascar race"
+                    "text": "à une course de voiture"
                 }
             ],
             "prompt": {
-                "text": "Where is there better people watching?"
+                "text": "Où peut-on mieux observer les gens ?"
             }
         },
         {
@@ -6872,15 +6872,15 @@
             "choices": [
                 {
                     "id": "MeatSkewer",
-                    "text": "kebobs"
+                    "text": "des brochettes"
                 },
                 {
                     "id": "Gyro",
-                    "text": "gyros"
+                    "text": "des gyros"
                 }
             ],
             "prompt": {
-                "text": "What Greek dish is better?"
+                "text": "Quel plat grec est votre préféré ?"
             }
         },
         {
@@ -6909,15 +6909,15 @@
             "choices": [
                 {
                     "id": "Volleyball",
-                    "text": "the rules of volleyball"
+                    "text": "les règles du volleyball"
                 },
                 {
                     "id": "Hockey",
-                    "text": "the rules of hockey"
+                    "text": "les règles du hockey"
                 }
             ],
             "prompt": {
-                "text": "What do you have a better grasp of?"
+                "text": "De quoi avez-vous une meilleure compréhension ?"
             }
         },
         {
@@ -6946,15 +6946,15 @@
             "choices": [
                 {
                     "id": "Kittens",
-                    "text": "playing with kittens"
+                    "text": "jouer avec des chatons"
                 },
                 {
                     "id": "Sailboat",
-                    "text": "going sailing"
+                    "text": "partir sur un bateau"
                 }
             ],
             "prompt": {
-                "text": "What sounds more appealing right now?"
+                "text": "Qu'est-ce qui semble plus attrayant en ce moment ?"
             }
         },
         {
@@ -6983,15 +6983,15 @@
             "choices": [
                 {
                     "id": "Bear",
-                    "text": "bear"
+                    "text": "un ours"
                 },
                 {
                     "id": "Giraffe",
-                    "text": "giraffe"
+                    "text": "une girafe"
                 }
             ],
             "prompt": {
-                "text": "Which zoo animal is sadder?"
+                "text": "Quel animal est le plus triste ?"
             }
         },
         {
@@ -7020,15 +7020,15 @@
             "choices": [
                 {
                     "id": "Jeep",
-                    "text": "sport utility vehicle"
+                    "text": "voiture utilitaire"
                 },
                 {
                     "id": "CompactCar",
-                    "text": "fuel-efficient car"
+                    "text": "voiture consommant peu de carburant"
                 }
             ],
             "prompt": {
-                "text": "Which car matches your personality more?"
+                "text": "Quelle voiture correspond le mieux à votre personnalité ?"
             }
         },
         {
@@ -7057,15 +7057,15 @@
             "choices": [
                 {
                     "id": "London",
-                    "text": "fine dining in London"
+                    "text": "un repas chic londonien"
                 },
                 {
                     "id": "GasStation",
-                    "text": "a gas station meal"
+                    "text": "un repas dans une station-service"
                 }
             ],
             "prompt": {
-                "text": "What\u2019s more your style?"
+                "text": "Quel est votre style préféré ?"
             }
         },
         {
@@ -7094,15 +7094,15 @@
             "choices": [
                 {
                     "id": "Mansion",
-                    "text": "a mansion in the middle of nowhere"
+                    "text": "une maison au milieu de rien"
                 },
                 {
                     "id": "NewYorkCity",
-                    "text": "a small condo in New York City"
+                    "text": "un petit appartement dans New York City"
                 }
             ],
             "prompt": {
-                "text": "What would you rather own?"
+                "text": "Qu'est ce que vous préférez avoir ?"
             }
         },
         {
@@ -7131,15 +7131,15 @@
             "choices": [
                 {
                     "id": "WritingDesk",
-                    "text": "writing a novel"
+                    "text": "écrire un livre"
                 },
                 {
                     "id": "Russia",
-                    "text": "learning Russian"
+                    "text": "apprendre le russe"
                 }
             ],
             "prompt": {
-                "text": "What sounds harder?"
+                "text": "Qu'est ce qui est le plus dur ?"
             }
         },
         {
@@ -7168,15 +7168,15 @@
             "choices": [
                 {
                     "id": "HouseParty",
-                    "text": "going to a party"
+                    "text": "sortir faire la fête"
                 },
                 {
                     "id": "Cat",
-                    "text": "staying in with the cat"
+                    "text": "rester à la maison avec son chat"
                 }
             ],
             "prompt": {
-                "text": "What\u2019s more your style?"
+                "text": "Qu'est ce que qu'est plus votre style ?"
             }
         },
         {
@@ -7205,15 +7205,15 @@
             "choices": [
                 {
                     "id": "Sailboat",
-                    "text": "a boat tour"
+                    "text": "un tour de bateau"
                 },
                 {
                     "id": "Segway",
-                    "text": "a Segway tour"
+                    "text": "une visite en gyropode"
                 }
             ],
             "prompt": {
-                "text": "When visiting a city, what would you rather take?"
+                "text": "Quel est le meilleur moyen de visiter une ville ?"
             }
         }
     ]

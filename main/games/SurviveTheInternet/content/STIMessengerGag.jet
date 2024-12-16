@@ -2,23 +2,23 @@
     "content":[
         {
             "id":"00000000",
-            "windowTitle":"Message from Mom",
+            "windowTitle":"Message de Maman",
             "messages":[
                 { 
-                    "from":"Mom",
-                    "text":"Please pick up some flushable wipes for dad.",
+                    "from":"Maman",
+                    "text":"Prends des clopes pour ton père",
                     "behavior":"on",
                     "timeTilNextMessage":0.5
                 },
                 { 
-                    "from":"Todd",
-                    "text":"I can't talk now.",
+                    "from":"Max",
+                    "text":"Je ne peux pas répondre pour le Mamanent.",
                     "behavior":"send",
                     "timeTilNextMessage":1.0
                 },
                 { 
-                    "from":"Mom",
-                    "text":"Well last time you forgot and he got a butt rash.",
+                    "from":"Maman",
+                    "text":"Je sais que tu es disponible.",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 }
@@ -26,29 +26,29 @@
         },
         {
             "id":"00000001",
-            "windowTitle":"Message from Gene",
+            "windowTitle":"Message de Pierre",
             "messages":[
                 { 
-                    "from":"Gene",
-                    "text":"I'm lovin' my new haircut!",
+                    "from":"Pierre",
+                    "text":"Regarde ma nouvelle coupe",
                     "behavior":"on",
                     "timeTilNextMessage":0.5
                 },
                 { 
-                    "from":"Todd",
-                    "text":"awesome :)",
+                    "from":"Max",
+                    "text":"banger :)",
                     "behavior":"send",
                     "timeTilNextMessage":1.0
                 },
                 { 
-                    "from":"Gene",
-                    "text":"Thanks again. I'll give u one tmrw.",
+                    "from":"Pierre",
+                    "text":"Yep, je te ferai la même demain !",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 },
                 { 
-                    "from":"Todd",
-                    "text":"k",
+                    "from":"Max",
+                    "text":"ouais pas obligé",
                     "behavior":"send",
                     "timeTilNextMessage":3.0
                 }
@@ -56,29 +56,29 @@
         },
         {
             "id":"00000002",
-            "windowTitle":"Message from Gene",
+            "windowTitle":"Message from Pierre",
             "messages":[
                 { 
-                    "from":"Gene",
-                    "text":"What are you wearing to the wedding?",
+                    "from":"Pierre",
+                    "text":"Tu porteras quel costard pour le mariage ?",
                     "behavior":"on",
                     "timeTilNextMessage":0.5
                 },
                 { 
-                    "from":"Todd",
-                    "text":"Dunno. Probably a suit and Chuck Taylors.",
+                    "from":"Max",
+                    "text":"Jsp, un truc noir et blanc avec des Nike ?",
                     "behavior":"send",
                     "timeTilNextMessage":1.0
                 },
                 { 
-                    "from":"Gene",
-                    "text":"A suit with sneakers?!",
+                    "from":"Pierre",
+                    "text":"Avec des Nike ?",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 },
                 { 
-                    "from":"Gene",
-                    "text":"You are the coolest person I know.",
+                    "from":"Pierre",
+                    "text":"ok ça rend trop bien je fais la même",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 }
@@ -86,29 +86,29 @@
         },
         {
             "id":"00000003",
-            "windowTitle":"Message from Dee23",
+            "windowTitle":"Message de Dee23",
             "messages":[
                 { 
                     "from":"Dee23",
-                    "text":"Hey cutie ;)",
+                    "text":"hey bg ;)",
                     "behavior":"on",
                     "timeTilNextMessage":0.5
                 },
                 { 
-                    "from":"Todd",
-                    "text":"Hi...do I know you?",
+                    "from":"Max",
+                    "text":"Salut ? on se connaît ?",
                     "behavior":"send",
                     "timeTilNextMessage":1.0
                 },
                 { 
                     "from":"Dee23",
-                    "text":"check me out at lonelyvideogamesgirls.biz",
+                    "text":"rejoins moi sur lonelyvideogamesgirls.biz",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 },
                 { 
-                    "from":"Todd",
-                    "text":"I will later. Thanks for the invite, ma'am!",
+                    "from":"Max",
+                    "text":"Ok je te rejoindrais plus tard ! Salut...",
                     "behavior":"send",
                     "timeTilNextMessage":3.0
                 }
@@ -116,29 +116,29 @@
         },
         {
             "id":"00000004",
-            "windowTitle":"Message from Mom",
+            "windowTitle":"Message de Maman",
             "messages":[
                 { 
-                    "from":"Mom",
-                    "text":"LucyLovesYarn42",
+                    "from":"Maman",
+                    "text":"LucieAimeChevaux42",
                     "behavior":"on",
                     "timeTilNextMessage":0.5
                 },
                 { 
-                    "from":"Todd",
-                    "text":"What are you doing, Mom?",
+                    "from":"Max",
+                    "text":"Qu'est-ce que tu fais Maman ?",
                     "behavior":"send",
                     "timeTilNextMessage":1.0
                 },
                 { 
-                    "from":"Mom",
-                    "text":"LucyLovesYarn42",
+                    "from":"Maman",
+                    "text":"LucieAimeChevaux42",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 },
                 { 
-                    "from":"Todd",
-                    "text":"This is NOT where your password goes, Mom!",
+                    "from":"Max",
+                    "text":"C'est pas ici que tu dois entrer le mot de passe Maman !",
                     "behavior":"send",
                     "timeTilNextMessage":3.0
                 }
@@ -146,23 +146,23 @@
         },
         {
             "id":"00000005",
-            "windowTitle":"Message from Mom",
+            "windowTitle":"Message de Maman",
             "messages":[
                 { 
-                    "from":"Mom",
-                    "text":"When you get a sec, can you come in here?",
+                    "from":"Maman",
+                    "text":"Quand t'auras une seconde, tu pourras venir ?",
                     "behavior":"on",
                     "timeTilNextMessage":0.5
                 },
                 { 
-                    "from":"Todd",
-                    "text":"I’m not checking dad for ticks again.",
+                    "from":"Max",
+                    "text":"Non je viendrais pas aider papa",
                     "behavior":"send",
                     "timeTilNextMessage":1.0
                 },
                 { 
-                    "from":"Mom",
-                    "text":"I just need help with the thighs!",
+                    "from":"Maman",
+                    "text":"Il doit juste déplacer le canapé ! VIENS !",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 }
@@ -170,29 +170,29 @@
         },
         {
             "id":"00000006",
-            "windowTitle":"Message from Gene",
+            "windowTitle":"Message de Pierre",
             "messages":[
                 { 
-                    "from":"Gene",
-                    "text":"Did you look it up?",
+                    "from":"Pierre",
+                    "text":"T'as pu vérifier ?",
                     "behavior":"on",
                     "timeTilNextMessage":0.5
                 },
                 { 
-                    "from":"Todd",
-                    "text":"Yeah.",
+                    "from":"Max",
+                    "text":"Ouaip",
                     "behavior":"send",
                     "timeTilNextMessage":1.0
                 },
                 { 
-                    "from":"Gene",
-                    "text":"And?!",
+                    "from":"Pierre",
+                    "text":"Et alors ???",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 },
                 { 
-                    "from":"Todd",
-                    "text":"Tom Petty does not have a son named Manny.",
+                    "from":"Max",
+                    "text":"Étienne n'a pas de soeur qui s'appelle MarieDu14",
                     "behavior":"send",
                     "timeTilNextMessage":3.0
                 }
@@ -200,29 +200,29 @@
         },
         {
             "id":"00000007",
-            "windowTitle":"Message to Mom",
+            "windowTitle":"Message pour Maman",
             "messages":[
                 { 
-                    "from":"Todd",
-                    "text":"How was yesterday?",
+                    "from":"Max",
+                    "text":"Comment c'était hier ?",
                     "behavior":"send",
                     "timeTilNextMessage":0.5
                 },
                 { 
-                    "from":"Mom",
-                    "text":"Good! I did a lot of retail therapy.",
+                    "from":"Maman",
+                    "text":"Bien ! J'ai fait beaucoup de méditation",
                     "behavior":"receive",
                     "timeTilNextMessage":1.0
                 },
                 { 
-                    "from":"Todd",
-                    "text":"Bought a lot, huh?",
+                    "from":"Max",
+                    "text":"Beaucoup comment ?",
                     "behavior":"send",
                     "timeTilNextMessage":3.0
                 },
                 { 
-                    "from":"Mom",
-                    "text":"No, but I vented about your father to the sales clerk.",
+                    "from":"Maman",
+                    "text":"Toute la journée. J'étais sans ton père, c'est pour ça :)",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 }
@@ -230,29 +230,29 @@
         },
         {
             "id":"00000008",
-            "windowTitle":"Message to Dad",
+            "windowTitle":"Message pour Papa",
             "messages":[
                 { 
-                    "from":"Todd",
-                    "text":"I heard you guys got a new mattress.",
+                    "from":"Max",
+                    "text":"Vous avez un nouveau matelas ?",
                     "behavior":"send",
                     "timeTilNextMessage":0.5
                 },
                 { 
-                    "from":"Dad",
-                    "text":"Yeah. BIG mistake.",
+                    "from":"Papa",
+                    "text":"Oui et... mauvaise idée",
                     "behavior":"receive",
                     "timeTilNextMessage":1.0
                 },
                 { 
-                    "from":"Todd",
-                    "text":"Why’s that?",
+                    "from":"Max",
+                    "text":"Pourquoi ?",
                     "behavior":"send",
                     "timeTilNextMessage":3.0
                 },
                 { 
-                    "from":"Dad",
-                    "text":"I went to the mattress store sleepy and overspent.",
+                    "from":"Papa",
+                    "text":"J'ai pris celui qui était utilisé en rayon",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 }
@@ -260,29 +260,29 @@
         },
         {
             "id":"00000009",
-            "windowTitle":"Message from Gene",
+            "windowTitle":"Message de Pierre",
             "messages":[
                 { 
-                    "from":"Gene",
-                    "text":"You free tomorrow night?",
+                    "from":"Pierre",
+                    "text":"Vous êtes là demain soir ?",
                     "behavior":"on",
                     "timeTilNextMessage":0.5
                 },
                 { 
-                    "from":"Todd",
-                    "text":"Yeah! What’s up?",
+                    "from":"Max",
+                    "text":"Oui, pourquoi ?",
                     "behavior":"send",
                     "timeTilNextMessage":1.0
                 },
                 { 
-                    "from":"Gene",
-                    "text":"I’ve got an improv show!",
+                    "from":"Pierre",
+                    "text":"J'ai un stand-up que je vais faire au café vers 21h",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 },
                 { 
-                    "from":"Todd",
-                    "text":"Oh wait… I’m busy. Yeah, definitely busy.",
+                    "from":"Max",
+                    "text":"Ah 21h ? Je serai en train de dormir je pense...",
                     "behavior":"send",
                     "timeTilNextMessage":3.0
                 }
@@ -290,29 +290,29 @@
         },
         {
             "id":"00000010",
-            "windowTitle":"Message from Gene",
+            "windowTitle":"Message de Pierre",
             "messages":[
                 { 
-                    "from":"Gene",
-                    "text":"Sorry for ghosting last night at the party.",
+                    "from":"Pierre",
+                    "text":"Désolé de ne pas être venu hier chez toi",
                     "behavior":"on",
                     "timeTilNextMessage":0.5
                 },
                 { 
-                    "from":"Todd",
-                    "text":"That’s ok.",
+                    "from":"Max",
+                    "text":"Tkt",
                     "behavior":"send",
                     "timeTilNextMessage":1.0
                 },
                 { 
-                    "from":"Todd",
-                    "text":"I just wish you hadn’t cut up my bedsheet",
+                    "from":"Max",
+                    "text":"Juste évite de faire une contre-soirée chez toi quoi...",
                     "behavior":"send",
                     "timeTilNextMessage":3.0
                 },
                 { 
-                    "from":"Gene",
-                    "text":":(",
+                    "from":"Pierre",
+                    "text":"haha, t'étais au courant :') ?",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 }
@@ -320,29 +320,29 @@
         },
         {
             "id":"00000011",
-            "windowTitle":"Message from Gene",
+            "windowTitle":"Message de Pierre",
             "messages":[
                 { 
-                    "from":"Gene",
-                    "text":"Did it work?",
+                    "from":"Pierre",
+                    "text":"Ça marche ?",
                     "behavior":"on",
                     "timeTilNextMessage":0.5
                 },
                 { 
-                    "from":"Todd",
-                    "text":"No. Neither did darkweb.org or darkweb.gov",
+                    "from":"Max",
+                    "text":"Nope. Ni darkweb.org ni darkweb.gov",
                     "behavior":"send",
                     "timeTilNextMessage":1.0
                 },
                 { 
-                    "from":"Gene",
-                    "text":"How do we access it then?!",
+                    "from":"Pierre",
+                    "text":"Comment on a fait hier pour y avoir accès ?!",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 },
                 { 
-                    "from":"Todd",
-                    "text":"I have no idea.",
+                    "from":"Max",
+                    "text":"Aucune idée mec",
                     "behavior":"send",
                     "timeTilNextMessage":3.0
                 }
@@ -350,29 +350,29 @@
         },
         {
             "id":"00000012",
-            "windowTitle":"Message from Dad",
+            "windowTitle":"Message de Papa",
             "messages":[
                 { 
-                    "from":"Dad",
-                    "text":"Hey, son.",
+                    "from":"Papa",
+                    "text":"Hey",
                     "behavior":"on",
                     "timeTilNextMessage":0.5
                 },
                 { 
-                    "from":"Todd",
-                    "text":"Hi, dad.",
+                    "from":"Max",
+                    "text":"Salut Papa.",
                     "behavior":"send",
                     "timeTilNextMessage":3.0
                 },
                 { 
-                    "from":"Dad",
-                    "text":"Ok, good talk.",
+                    "from":"Papa",
+                    "text":"Ok, super conversation.",
                     "behavior":"receive",
                     "timeTilNextMessage":1.0
                 },
                 { 
-                    "from":"Dad",
-                    "text":"Gotta run.",
+                    "from":"Papa",
+                    "text":"Je dois y aller.",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 }
@@ -380,29 +380,29 @@
         },
         {
             "id":"00000013",
-            "windowTitle":"Message from Mom",
+            "windowTitle":"Message de Maman",
             "messages":[
                 { 
-                    "from":"Mom",
-                    "text":"Are you still playing that game?",
+                    "from":"Maman",
+                    "text":"T'es encore en train de jouer ?",
                     "behavior":"on",
                     "timeTilNextMessage":0.5
                 },
                 { 
-                    "from":"Todd",
-                    "text":"It’s not just a “game” mom.",
+                    "from":"Max",
+                    "text":"C'est pas juste un “jeu” Maman !",
                     "behavior":"send",
                     "timeTilNextMessage":1.0
                 },
                 { 
-                    "from":"Todd",
-                    "text":"IT’S. MY. LIFE.",
+                    "from":"Max",
+                    "text":"C'EST. MA. VIE.",
                     "behavior":"send",
                     "timeTilNextMessage":3.0
                 },
                 { 
-                    "from":"Mom",
-                    "text":"Whatever. Just remember to bring home toilet paper.",
+                    "from":"Maman",
+                    "text":"Peu importe. Faudra racheter du papier toilette.",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 }
@@ -410,29 +410,29 @@
         },
         {
             "id":"00000014",
-            "windowTitle":"Message from Gene",
+            "windowTitle":"Message de Pierre",
             "messages":[
                 { 
-                    "from":"Gene",
-                    "text":"Do you ever play any other games?",
+                    "from":"Pierre",
+                    "text":"Tu joues à d'autres jeux ?",
                     "behavior":"on",
                     "timeTilNextMessage":0.5
                 },
                 { 
-                    "from":"Todd",
-                    "text":"Occasionely",
+                    "from":"Max",
+                    "text":"Des fois",
                     "behavior":"send",
                     "timeTilNextMessage":1.0
                 },
                 { 
-                    "from":"Todd",
-                    "text":"Ocassianaly",
+                    "from":"Max",
+                    "text":"Parfois",
                     "behavior":"send",
                     "timeTilNextMessage":2.0
                 },
                 { 
-                    "from":"Todd",
-                    "text":"Sometimes.",
+                    "from":"Max",
+                    "text":"Quelques fois.",
                     "behavior":"send",
                     "timeTilNextMessage":3.0
                 }
@@ -440,29 +440,29 @@
         },
         {
             "id":"00000015",
-            "windowTitle":"Message from Mom",
+            "windowTitle":"Message de Maman",
             "messages":[
                 { 
-                    "from":"Mom",
-                    "text":"I hope you’re having a good day, sweetie. Love, Mom.",
+                    "from":"Maman",
+                    "text":"J'espère que tu passes une super journée ! Maman",
                     "behavior":"on",
                     "timeTilNextMessage":0.5
                 },
                 { 
-                    "from":"Todd",
-                    "text":"Thanks, mom, but you don’t have to sign your name.",
+                    "from":"Max",
+                    "text":"Merci, Maman, mais t'as pas besoin de signer ton message.",
                     "behavior":"send",
                     "timeTilNextMessage":1.0
                 },
                 { 
-                    "from":"Todd",
-                    "text":"I know you’re typing to me.",
+                    "from":"Max",
+                    "text":"Je sais que c'est toi qui me parle.",
                     "behavior":"send",
                     "timeTilNextMessage":3.0
                 },
                 { 
-                    "from":"Mom",
-                    "text":"OH, I see. Love, Mom.",
+                    "from":"Maman",
+                    "text":"Ah ok j'ai compris ! Bisous, Maman.",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 }
@@ -470,29 +470,29 @@
         },
         {
             "id":"00000016",
-            "windowTitle":"Message from Mom",
+            "windowTitle":"Message de Maman",
             "messages":[
                 { 
-                    "from":"Mom",
-                    "text":"I finally figured out emojis!",
+                    "from":"Maman",
+                    "text":"J'ai trouvé les emojis !",
                     "behavior":"on",
                     "timeTilNextMessage":0.5
                 },
                 { 
-                    "from":"Mom",
+                    "from":"Maman",
                     "text":"&:X=:=",
                     "behavior":"receive",
                     "timeTilNextMessage":1.0
                 },
                 { 
-                    "from":"Todd",
-                    "text":"That didn’t work.",
+                    "from":"Max",
+                    "text":"Ça marche pas là.",
                     "behavior":"send",
                     "timeTilNextMessage":3.0
                 },
                 { 
-                    "from":"Mom",
-                    "text":"Shoot! Oh, I figured it out! &:X=:=",
+                    "from":"Maman",
+                    "text":"Mince ! Oh, j'ai trouvé comment faire ! &:X=:=",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 }
@@ -500,23 +500,23 @@
         },
         {
             "id":"00000017",
-            "windowTitle":"Message from Mom",
+            "windowTitle":"Message de Maman",
             "messages":[
                 { 
-                    "from":"Mom",
-                    "text":"Did your computer get hacked?",
+                    "from":"Maman",
+                    "text":"Ton ordi a été hacké ?",
                     "behavior":"on",
                     "timeTilNextMessage":0.5
                 },
                 { 
-                    "from":"Todd",
-                    "text":"No. Why?",
+                    "from":"Max",
+                    "text":"Non. Pourquoi ?",
                     "behavior":"send",
                     "timeTilNextMessage":1.0
                 },
                 { 
-                    "from":"Mom",
-                    "text":"I saw you post a nice comment on my wall.",
+                    "from":"Maman",
+                    "text":"T'as écrit un compliment sous ma photo, c'est pour ça.",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 }
@@ -524,29 +524,29 @@
         },
         {
             "id":"00000018",
-            "windowTitle":"Message from Gene",
+            "windowTitle":"Message de Pierre",
             "messages":[
                 { 
-                    "from":"Gene",
-                    "text":"Yeah, sometimes Todd can be really annoying.",
+                    "from":"Pierre",
+                    "text":"Ouais, des fois Max est vraiment chiant...",
                     "behavior":"on",
                     "timeTilNextMessage":0.5
                 },
                 { 
-                    "from":"Todd",
-                    "text":"Uh...",
+                    "from":"Max",
+                    "text":"Pardon ?",
                     "behavior":"send",
                     "timeTilNextMessage":1.0
                 },
                 { 
-                    "from":"Gene",
-                    "text":"Oh hahaha jk! Just doing a fun bit!",
+                    "from":"Pierre",
+                    "text":"Oh hahaha j'rigolais ! Je voulais juste te faire peur !",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 },
                 { 
-                    "from":"Gene",
-                    "text":"I'm definitely not chatting with Susan right now!",
+                    "from":"Pierre",
+                    "text":"ptn donc je parlais vraiment pas à Susan depuis le début ?",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 }
@@ -554,29 +554,29 @@
         },
         {
             "id":"00000019",
-            "windowTitle":"Message from Gene",
+            "windowTitle":"Message de Pierre",
             "messages":[
                 { 
-                    "from":"Gene",
-                    "text":"Yo!",
+                    "from":"Pierre",
+                    "text":"Yo !",
                     "behavior":"on",
                     "timeTilNextMessage":0.5
                 },
                 { 
-                    "from":"Gene",
-                    "text":"Hey!",
+                    "from":"Pierre",
+                    "text":"Hey !",
                     "behavior":"receive",
                     "timeTilNextMessage":1.0
                 },
                 { 
-                    "from":"Todd",
-                    "text":"What’s up?",
+                    "from":"Max",
+                    "text":"Ça va ?",
                     "behavior":"send",
                     "timeTilNextMessage":2.0
                 },
                 { 
-                    "from":"Gene",
-                    "text":"nothin",
+                    "from":"Pierre",
+                    "text":"Non, elle me fait la gueule :'(",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 }
@@ -584,29 +584,29 @@
         },
         {
             "id":"00000020",
-            "windowTitle":"Message from Dad",
+            "windowTitle":"Message de Papa",
             "messages":[
                 { 
-                    "from":"Dad",
-                    "text":"I’m proud of you, son.",
+                    "from":"Papa",
+                    "text":"Je suis fier de toi Max.",
                     "behavior":"on",
                     "timeTilNextMessage":0.5
                 },
                 { 
-                    "from":"Todd",
-                    "text":"...Mom?",
+                    "from":"Max",
+                    "text":"... Maman ?",
                     "behavior":"send",
                     "timeTilNextMessage":1.0
                 },
                 { 
-                    "from":"Todd",
-                    "text":"Is that you?",
+                    "from":"Max",
+                    "text":"C'est toi ?",
                     "behavior":"send",
                     "timeTilNextMessage":3.0
                 },
                 { 
-                    "from":"Dad",
-                    "text":"He might not say it but he means it!",
+                    "from":"Papa",
+                    "text":"Il ne le dit peut-être pas, mais il le pense vraiment Max !",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 }
@@ -614,29 +614,29 @@
         },
         {
             "id":"00000021",
-            "windowTitle":"Message from Gene",
+            "windowTitle":"Message de Pierre",
             "messages":[
                 { 
-                    "from":"Gene",
-                    "text":"Sarah asked me if you live at the gym!",
+                    "from":"Pierre",
+                    "text":"Sarah m'a demandési tu vivais à la salle de sport !",
                     "behavior":"on",
                     "timeTilNextMessage":0.5
                 },
                 { 
-                    "from":"Todd",
-                    "text":"Oh yeah?!",
+                    "from":"Max",
+                    "text":"Vraiment ?!",
                     "behavior":"send",
                     "timeTilNextMessage":1.0
                 },
                 { 
-                    "from":"Todd",
-                    "text":"I guess I am getting ripped!",
+                    "from":"Max",
+                    "text":"Je pense que j'ai une touche là !!!",
                     "behavior":"send",
                     "timeTilNextMessage":3.0
                 },
                 { 
-                    "from":"Gene",
-                    "text":"She asked b/c she thought u were homeless. :(",
+                    "from":"Pierre",
+                    "text":"Elle m'a demandé ça parce qu'elle pensait que t'étais à la rue ptdrrr",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 }
@@ -644,29 +644,29 @@
         },
         {
             "id":"00000022",
-            "windowTitle":"Message to Mom",
+            "windowTitle":"Message pour Maman",
             "messages":[
                 { 
-                    "from":"Todd",
-                    "text":"How did the yard sale go?",
+                    "from":"Max",
+                    "text":"Comment s'est déroulé le vide-grenier ?",
                     "behavior":"send",
                     "timeTilNextMessage":0.5
                 },
                 { 
-                    "from":"Mom",
-                    "text":"Good! We sold all of the stuff you’ve left here.",
+                    "from":"Maman",
+                    "text":"Nickel ! On a vendu plein de trucs de la maison.",
                     "behavior":"receive",
                     "timeTilNextMessage":1.0
                 },
                 { 
-                    "from":"Todd",
-                    "text":"What?!",
+                    "from":"Max",
+                    "text":"Hein ?!",
                     "behavior":"send",
                     "timeTilNextMessage":3.0
                 },
                 { 
-                    "from":"Mom",
-                    "text":"Kidding! Just your clothes and DVDs.",
+                    "from":"Maman",
+                    "text":"Je rigole ! Juste tes vêtements et tes consoles.",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 }
@@ -674,29 +674,29 @@
         },
         {
             "id":"00000023",
-            "windowTitle":"Message from Dee23",
+            "windowTitle":"Message de Dee23",
             "messages":[
                 { 
                     "from":"Dee23",
-                    "text":"what u doin l8er? lonelyvideogamegirls.biz",
+                    "text":"hey rejoins moi nn <3 ? lonelyvideogamegirls.biz",
                     "behavior":"on",
                     "timeTilNextMessage":0.5
                 },
                 { 
-                    "from":"Todd",
-                    "text":"uh, hey. I’m planning on reading some Thoreau",
+                    "from":"Max",
+                    "text":"Euh nan. Je prévoyais de lire du Camus",
                     "behavior":"send",
                     "timeTilNextMessage":1.0
                 },
                 { 
                     "from":"Dee23",
-                    "text":"sounds hott. I want to hear all about it",
+                    "text":"Mmmhhh sexy. Vas-y dis moi ce que tu lis ;)",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 },
                 { 
-                    "from":"Todd",
-                    "text":"Well he moves to this pond and decides to plant beans...",
+                    "from":"Max",
+                    "text":"Aujourd'hui, maman est morte. Ou peut-être hier, je ne sais pas...",
                     "behavior":"send",
                     "timeTilNextMessage":3.0
                 }
@@ -704,29 +704,29 @@
         },
         {
             "id":"00000024",
-            "windowTitle":"Message from Gene",
+            "windowTitle":"Message de Pierre",
             "messages":[
                 { 
-                    "from":"Gene",
-                    "text":"We on for tonight?",
+                    "from":"Pierre",
+                    "text":"Prêt pour ce soir ?",
                     "behavior":"on",
                     "timeTilNextMessage":0.5
                 },
                 { 
-                    "from":"Todd",
-                    "text":"I told you no",
+                    "from":"Max",
+                    "text":"Je t'ai dit non bordel !",
                     "behavior":"send",
                     "timeTilNextMessage":1.0
                 },
                 { 
-                    "from":"Gene",
-                    "text":"C’mon!",
+                    "from":"Pierre",
+                    "text":"Alleeez !",
                     "behavior":"receive",
                     "timeTilNextMessage":1.0
                 },
                 { 
-                    "from":"Gene",
-                    "text":"I can’t cosplay as Angel unless you’re Buffy",
+                    "from":"Pierre",
+                    "text":"Je ne me cosplay pas en Todd si t'es pas en Peach ok ?!",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 }
@@ -734,23 +734,23 @@
         },
         {
             "id":"00000025",
-            "windowTitle":"Message from Mom",
+            "windowTitle":"Message de Maman",
             "messages":[
                 { 
-                    "from":"Mom",
-                    "text":"I thought you were stuck in Germany.",
+                    "from":"Maman",
+                    "text":"Je pensais que t'étais coincé en Allemagne.",
                     "behavior":"on",
                     "timeTilNextMessage":0.5
                 },
                 { 
-                    "from":"Todd",
-                    "text":"What? No. I’ve been here the whole time.",
+                    "from":"Max",
+                    "text":"Hein ? Mais je suis là depuis tout le temps.",
                     "behavior":"send",
                     "timeTilNextMessage":1.0
                 },
                 { 
-                    "from":"Mom",
-                    "text":"Then who did I send $10,000 to?!",
+                    "from":"Maman",
+                    "text":"Alors c'est à qui que j'ai donné 1 000€ ?",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 }
@@ -758,23 +758,23 @@
         },
         {
             "id":"00000026",
-            "windowTitle":"Message from Mom",
+            "windowTitle":"Message de Maman",
             "messages":[
                 { 
-                    "from":"Mom",
-                    "text":"Dear Diary, I had that dream about Antonio again.",
+                    "from":"Maman",
+                    "text":"Cher Journal, j'ai encore rêvé d'Antonio.",
                     "behavior":"on",
                     "timeTilNextMessage":0.5
                 },
                 { 
-                    "from":"Todd",
-                    "text":"Mom, this isn’t your journal!",
+                    "from":"Max",
+                    "text":"Maman, c'est pas ton journal ici !",
                     "behavior":"send",
                     "timeTilNextMessage":1.0
                 },
                 { 
-                    "from":"Mom",
-                    "text":"He found me in the kitchen, drenched from the rain.",
+                    "from":"Maman",
+                    "text":"Il m'a trouvé dans la cuisine, et m'a troué jusqu'à la racine.",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 }
@@ -782,29 +782,29 @@
         },
         {
             "id":"00000027",
-            "windowTitle":"Message from Liz",
+            "windowTitle":"Message de Lisa",
             "messages":[
                 { 
-                    "from":"Liz",
-                    "text":"Now tighten the hex wrench and your futon is complete.",
+                    "from":"Lisa",
+                    "text":"Maintenant tournez la clé deux fois en bas du rideau de fer.",
                     "behavior":"on",
                     "timeTilNextMessage":0.5
                 },
                 { 
-                    "from":"Todd",
-                    "text":"Thanks! I’m glad your business does this.",
+                    "from":"Max",
+                    "text":"Merci ! Je suis heureux de bosser avec toi !",
                     "behavior":"send",
                     "timeTilNextMessage":1.0
                 },
                 { 
-                    "from":"Todd",
-                    "text":"And sorry for crying when I couldn’t find a wrench.",
+                    "from":"Max",
+                    "text":"Et désolé d'avoir pleuré quand j'ai pas réussi à descendre le rideau.",
                     "behavior":"send",
                     "timeTilNextMessage":3.0
                 },
                 { 
-                    "from":"Liz",
-                    "text":"Happens all the time.",
+                    "from":"Lisa",
+                    "text":"Ça m'arrive tout le temps.",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 }
@@ -812,23 +812,23 @@
         },
         {
             "id":"00000028",
-            "windowTitle":"Message from Mom",
+            "windowTitle":"Message de Maman",
             "messages":[
                 { 
-                    "from":"Mom",
-                    "text":"Did you delete WordPuttz off my phone?",
+                    "from":"Maman",
+                    "text":"T'as supprimé Candide Crush ?",
                     "behavior":"on",
                     "timeTilNextMessage":0.5
                 },
                 { 
-                    "from":"Todd",
-                    "text":"Nobody plays that anymore",
+                    "from":"Max",
+                    "text":"Plus personne ne joue à ton jeu",
                     "behavior":"send",
                     "timeTilNextMessage":1.0
                 },
                 { 
-                    "from":"Mom",
-                    "text":"I don’t care! I love it!",
+                    "from":"Maman",
+                    "text":"C'était pas un jeu ! C'était ma chanson préféré !",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 }
@@ -836,23 +836,23 @@
         },
         {
             "id":"00000029",
-            "windowTitle":"Message from Gene",
+            "windowTitle":"Message de Pierre",
             "messages":[
                 { 
-                    "from":"Gene",
-                    "text":"You having a rough day too?",
+                    "from":"Pierre",
+                    "text":"Toi aussi t'as eu une dure journée ?",
                     "behavior":"on",
                     "timeTilNextMessage":0.5
                 },
                 { 
-                    "from":"Todd",
-                    "text":"Yeah. Last night was crazy.",
+                    "from":"Max",
+                    "text":"Ouais. La nuit était terrible surtout.",
                     "behavior":"send",
                     "timeTilNextMessage":1.0
                 },
                 { 
-                    "from":"Gene",
-                    "text":"Why did we drink so many Mr. Pibbs?!",
+                    "from":"Pierre",
+                    "text":"Pourquoi on a bu autant M. Pibbs...",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 }
@@ -860,29 +860,29 @@
         },
         {
             "id":"00000030",
-            "windowTitle":"Message from Walt",
+            "windowTitle":"Message de Walter",
             "messages":[
                 { 
-                    "from":"Walt",
-                    "text":"Hey, Todder!",
+                    "from":"Walter",
+                    "text":"Hey, Maxou !",
                     "behavior":"on",
                     "timeTilNextMessage":0.5
                 },
                 { 
-                    "from":"Todd",
-                    "text":"Hi Uncle Walter",
+                    "from":"Max",
+                    "text":"Salut tonton !",
                     "behavior":"send",
                     "timeTilNextMessage":1.0
                 },
                 { 
-                    "from":"Walt",
-                    "text":"I almost typed TODDLER :)",
+                    "from":"Walter",
+                    "text":"Alors, t'es toujours à ton max(imum) :)",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 },
                 { 
-                    "from":"Todd",
-                    "text":"... that’s never not funny.",
+                    "from":"Max",
+                    "text":"... c'est toujours pas drôle hein.",
                     "behavior":"send",
                     "timeTilNextMessage":3.0
                 }
@@ -890,29 +890,29 @@
         },
         {
             "id":"00000031",
-            "windowTitle":"Message from Dee23",
+            "windowTitle":"Message de Dee23",
             "messages":[
                 { 
                     "from":"Dee23",
-                    "text":"Hey cutie! What's up? Lonelygamegirls.biz",
+                    "text":"Hey bb ! Tu fais quoi ? Lonelygamegirls.biz",
                     "behavior":"on",
                     "timeTilNextMessage":0.5
                 },
                 { 
-                    "from":"Todd",
-                    "text":"Making some gazpacho.",
+                    "from":"Max",
+                    "text":"Je fais du gaspacho.",
                     "behavior":"send",
                     "timeTilNextMessage":1.0
                 },
                 { 
                     "from":"Dee23",
-                    "text":"Sounds hot!",
+                    "text":"Mmmhhh, c'est chaud ça !",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 },
                 { 
-                    "from":"Todd",
-                    "text":"No, it’s gazpacho. It’s cold.",
+                    "from":"Max",
+                    "text":"Nan, c'est du gaspacho.",
                     "behavior":"send",
                     "timeTilNextMessage":3.0
                 }
@@ -920,23 +920,23 @@
         },
         {
             "id":"00000032",
-            "windowTitle":"Message from Mom",
+            "windowTitle":"Message de Maman",
             "messages":[
                 { 
-                    "from":"Mom",
-                    "text":"I have a computer question.",
+                    "from":"Maman",
+                    "text":"J'ai une question concernant l'ordi.",
                     "behavior":"on",
                     "timeTilNextMessage":0.5
                 },
                 { 
-                    "from":"Todd",
-                    "text":"Sorry, I’m busy. Maybe later?",
+                    "from":"Max",
+                    "text":"Désolé, je suis occupé. Après peut-être ?",
                     "behavior":"send",
                     "timeTilNextMessage":1.0
                 },
                 { 
-                    "from":"Mom",
-                    "text":"Ok, hopefully the fire dies down.",
+                    "from":"Maman",
+                    "text":"Ok, j'espère juste que l'incendie attendra lui aussi.",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 }
@@ -944,29 +944,29 @@
         },
         {
             "id":"00000033",
-            "windowTitle":"Message from Mom",
+            "windowTitle":"Message de Maman",
             "messages":[
                 { 
-                    "from":"Mom",
-                    "text":"Your cousin is here.",
+                    "from":"Maman",
+                    "text":"Ton cousin est là.",
                     "behavior":"on",
                     "timeTilNextMessage":0.5
                 },
                 { 
-                    "from":"Mom",
-                    "text":"When are you coming over?",
+                    "from":"Maman",
+                    "text":"Tu viens quand ?",
                     "behavior":"receive",
                     "timeTilNextMessage":1.0
                 },
                 { 
-                    "from":"Todd",
-                    "text":"After the game.",
+                    "from":"Max",
+                    "text":"Après ma partie.",
                     "behavior":"send",
                     "timeTilNextMessage":3.0
                 },
                 { 
-                    "from":"Mom",
-                    "text":"Please hurry. He creeps me out.",
+                    "from":"Maman",
+                    "text":"Dépêche, il me fout les chocottes.",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 }
@@ -974,29 +974,29 @@
         },
         {
             "id":"00000034",
-            "windowTitle":"Message from Gene",
+            "windowTitle":"Message de Pierre",
             "messages":[
                 { 
-                    "from":"Gene",
-                    "text":"I had that dream again...",
+                    "from":"Pierre",
+                    "text":"J'ai encore eu ce rêve Max...",
                     "behavior":"on",
                     "timeTilNextMessage":0.5
                 },
                 { 
-                    "from":"Todd",
-                    "text":"I thought we agreed not to talk about it.",
+                    "from":"Max",
+                    "text":"On s'était dit qu'on ne devait plus jamais en parler",
                     "behavior":"send",
                     "timeTilNextMessage":1.0
                 },
                 { 
-                    "from":"Gene",
-                    "text":"It has to mean something!",
+                    "from":"Pierre",
+                    "text":"Mais ça veut forcément dire quelque chose !",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 },
                 { 
-                    "from":"Todd",
-                    "text":"I have to go.",
+                    "from":"Max",
+                    "text":"T'es juste un malade de penser à m'embrasser quand je dors !",
                     "behavior":"send",
                     "timeTilNextMessage":3.0
                 }

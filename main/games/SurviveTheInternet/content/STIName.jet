@@ -1,19 +1,19 @@
 {
     "episodeid": "00000000",
     "content": [
-        { "text" : "Rob Sandwich" },
-        { "text" : "Terry Fingers" },
-        { "text" : "Martha Pillows" },
-        { "text" : "Gunther Verheul" },
-        { "text" : "Alison Fishley" },
-        { "text" : "Seymour Lipscomb" },
-        { "text" : "Allarb Ladan" },
-        { "text" : "Gorflan Smucker" },
-        { "text" : "Gavin Bloof" },
+        { "text" : "Hercule Poireau" },
+        { "text" : "Anatole Baba" },
+        { "text" : "Patate Frite" },
+        { "text" : "Pénélope Pamplemousse" },
+        { "text" : "Ginette Risotto" },
+        { "text" : "Théodule Bricabrac" },
+        { "text" : "Gaëtan Rigolade" },
+        { "text" : "Charles-Édouard Popcorn" },
+        { "text" : "Valentin Gaufrette" },
         { "text" : "Elaine Downe" },
-        { "text" : "Ira Pudless" },
-        { "text" : "Gretchen Germ" },
-        { "text" : "Sarah Mazing" },
-        { "text" : "Ben Jacobs" }
+        { "text" : "Clara Minou" },
+        { "text" : "Félix Pirouette" },
+        { "text" : "Emmanuel M." },
+        { "text" : "Camille Tralala" }
     ]
 }
