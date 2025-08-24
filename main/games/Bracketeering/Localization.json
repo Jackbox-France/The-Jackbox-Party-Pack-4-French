@@ -14,9 +14,9 @@
 
         "ROOM_DESTROYED": "Désolé, une erreur internet s'est déclenchée Et votre salle a été détruite.<br />Veuillez vérifier que vous soyez connectés à internet et qu'il fonctionne.",
 
-        "SOCKET_DISCONNECTED ": "Désolé, nous avnos perdu votre connection aux serveurs de jeu Jackbox Games.",
+        "SOCKET_DISCONNECTED ": "Désolé, nous avnos perdu votre connexion aux serveurs de jeu Jackbox Games.",
 
-        "TIMEOUT": "Désolé, la connection aux serveurs jackbox a cessé de fonctionner..<br />Veuillez vérifier que vous soyez connectés à internet et qu'il fonctionne.",
+        "TIMEOUT": "Désolé, la connexion aux serveurs jackbox a cessé de fonctionner..<br />Veuillez vérifier que vous soyez connectés à internet et qu'il fonctionne.",
 
         "USER_DISCONNECT": "Désolé, le serveur vous a déconnecté. Veuillez rééssayer..",
 
@@ -68,9 +68,9 @@
 
         "LEADERBOARD_TITLE": "CLASSEMENT",
 
-        "CONNECTING": "Connection aux services jackbox games",
+        "CONNECTING": "Connexion aux services jackbox games",
 
-        "CONNECTING_DELAY": "Cela prend du temps...<br>Veuillez vérifeir votre connection internet.",
+        "CONNECTING_DELAY": "Cela prend du temps...<br>Veuillez vérifeir votre connexion internet.",
 
         "GO_TO": "Aller à",
 
